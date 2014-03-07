@@ -2,8 +2,9 @@ fellowship
 ==========
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/fellowship/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Gitter chat](https://badges.gitter.im/auremoser/fellowship.png)](https://gitter.im/auremoser/fellowship)
 
-small repo to track tasks for the open news fellowship and manage them publicly
+small repo to track tasks for my 2014 open news fellowship and manage them publicly
 
 ###issues
 issues in this case have been purposed for easy task management between ushahidi and internews asks, as a way to track productivity of the fellow as well as expectations of partner organizations.
