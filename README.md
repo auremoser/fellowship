@@ -2,6 +2,7 @@ fellowship
 ==========
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/fellowship/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 [![Gitter chat](https://badges.gitter.im/auremoser/fellowship.png)](https://gitter.im/auremoser/fellowship)
 
 small repo to track tasks for my 2014 open news fellowship and manage them publicly
