@@ -20,6 +20,7 @@ Like so:
 * issue labels reflect the tagged filtering schema for organizing and managing issues by subject and priority
 
 Like so:
+
 ![Labels](https://raw.github.com/auremoser/images/master/labels.png)
 
 
