@@ -12,11 +12,17 @@ issues in this case have been purposed for easy task management between ushahidi
 conventions of issue logging:
 * issues are assigned to aurelia
 * issue titles are prefixed with [TOPIC] and described briefly in title bar
-* issue description includes links to accessor documents or "quoted" asks from other team members
+Like so:
+[![Issues](https://raw.github.com/auremoser/images/master/issues.png)]
+
+* issue description includes links to accessory documents or "quoted" asks from other team members
 * issue labels reflect the tagged filtering schema for organizing and managing issues by subject and priority
+Like so:
+[![Labels](https://github.com/auremoser/images/blob/master/labels.png)]
+
 
 ###participants
-all organization members are welcome to submit issues, folders included in this repo will also track select fellow projects and index the accessory repos for all 2014-2015 work with Ushahidi and Internews KE.
+all organization members are welcome to submit issues, folders included in this repo will also track select fellow projects and index the accessory repos for all 2014-2015 work with Ushahidi and Internews-KE.
 
 
 
