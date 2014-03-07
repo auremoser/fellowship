@@ -12,13 +12,15 @@ issues in this case have been purposed for easy task management between ushahidi
 conventions of issue logging:
 * issues are assigned to aurelia
 * issue titles are prefixed with [TOPIC] and described briefly in title bar
+
 Like so:
-[![Issues](https://raw.github.com/auremoser/images/master/issues.png)]
+![Issues](https://raw.github.com/auremoser/images/master/issues.png)
 
 * issue description includes links to accessory documents or "quoted" asks from other team members
 * issue labels reflect the tagged filtering schema for organizing and managing issues by subject and priority
+
 Like so:
-[![Labels](https://github.com/auremoser/images/blob/master/labels.png)]
+![Labels](https://raw.github.com/auremoser/images/master/labels.png)
 
 
 ###participants
