@@ -15,3 +15,7 @@ conventions of issue logging:
 all organization members are welcome to submit issues, folders included in this repo will also track select fellow projects and index the accessory repos for all 2014-2015 work with Ushahidi and Internews KE.
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/fellowship/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
