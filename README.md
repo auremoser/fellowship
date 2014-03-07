@@ -1,6 +1,8 @@
 fellowship
 ==========
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/fellowship/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 small repo to track tasks for the open news fellowship and manage them publicly
 
 ###issues
@@ -17,5 +19,5 @@ all organization members are welcome to submit issues, folders included in this 
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/fellowship/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
