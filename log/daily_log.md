@@ -312,4 +312,15 @@ Policy discussion on bias?
 * Update task repo
 * Work on internal viz revamp
 
+Need to:
+  
+- fix robbie's changes
+- make stacked bar vis example
+- go over maldives data and ~~email sara~~
+- [Knight News Challenge Application](https://www.newschallenge.org/challenge/2014/brief.html)
+- work on ushaverse - maybe use torque to animate a map of where people are
+- make a blocks account to track ushahidi builds
+
+
+
 
