@@ -293,10 +293,22 @@ LandQuest work, submit second round of visa paperwork today.
 
 Updates for Monday:
 
-- worked on IFES stuff and design process definition with design team
-- filled out Election Monitor persona for V3 with the team
-- Landquest and module development for internews
+- Chatted with Jep + Design about V3 DataVis,  iterating
+- IFES call this week, set up some prototype charts (IFES repo to track)
+- Election Monitor persona with V3 team (15 minute call after this - go over doc here :)
+Hire a tech writer?
+Policy discussion on bias?
+- Setup test metrics planning chart for .com (CSV | Repo here | Demo here)
 - set up issues repo for Aurelia tasks - if you'd like me to do anything just log it there: https://github.com/auremoser/fellowship; setup some bitdeli analytics and gitter chat so you can contact me easy about tasks and feel free to comment on existing ones or dispute the label taxonomy
 - applied to Wikimania Conference: https://wikimania2014.wikimedia.org/wiki/Submissions/Crowd-Driven_Development:_How_crowdsourcing_enables_open_information,_collaborative_research,_and_libraries_as_APIs
-- setup metrics planning for ushahidi.com
+
+
+
+##3/11/14
+###CATCHUP
+* Add chart to IFES
+* Internews work on LandQuest- Update Eva
+* Fix bugs in metrics chart - [Ushaverse]
+* Update task repo
+
 
