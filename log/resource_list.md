@@ -3,7 +3,7 @@ Resources
 ###Data Vis - General
 * [Ushahidi.com/Ushaverse Brainstorm](https://docs.google.com/a/ushahidi.com/document/d/1OJNLPg_OC-jSwq0JA8nf1d4nyY1lZw0-6-nVQHydCbc/edit?usp=sharing)
 * [Dropbox - Ushahidi.com](https://www.dropbox.com/sh/02o4f7r95iuua8h/Z6eYRITD5G)
-* [Master Metrics]()
+* [Master Metrics](https://docs.google.com/spreadsheet/ccc?key=0AuTNzjT_y8f3dHNYY09paEJzN0pLdXk4bnBJRi01NkE&usp=sharing)
 
 ###V3
 * [Data Vis Brainstorming](https://docs.google.com/document/d/1UbqcLH1NknXrtdDjA0510H4_HmB6d2PKMy8EnfaP7PY/edit?usp=sharing)
@@ -23,6 +23,7 @@ Resources
 ###Ushaverse
 * [Sketch](https://www.dropbox.com/s/j3plf7jasqa3orz/Ushaverse.jpg)
 * [Data](https://drive.google.com/a/ushahidi.com/folderview?id=0B9z9cxNNJ5BvelRoQlJyQWVUelE&usp=sharing)
+* [Desireables](https://docs.google.com/document/d/1H-QTwRtgsDMYCqRTAEHWHHHz98jYNKXHFXa18PvusRU/edit)
 
 
 ###LandQ
@@ -30,5 +31,9 @@ Resources
 * [LanQ Wordpress](http://landquest.internewskenya.org/wp-admin)
 Creds: email from EC 2/27
 * [LandQ Github]( https://github.com/oeco/landquest-jeo-child/issues/21)
+* [Land Data](https://www.dropbox.com/sh/zh0yyujz7x63lzf/LkqpSwtBAH)
 
+###INTERNEWS
+* [Modules](https://www.dropbox.com/sh/ugft81frulpcxdh/rMw_e6wYZB)
+* * [Training material](https://www.dropbox.com/sh/61i0vsurabbcwre/Vn_vwMXUAc)
 

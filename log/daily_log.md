@@ -321,6 +321,12 @@ Need to:
 - work on ushaverse - maybe use torque to animate a map of where people are
 - make a blocks account to track ushahidi builds
 
+###CREATE
+* work on Tullow data vis for eva
+* Plow through issues
+* Add Eva's new issues to list
+
+
 
 
 
