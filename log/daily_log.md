@@ -311,7 +311,7 @@ Policy discussion on bias?
 * Fix bugs in metrics chart - [Ushaverse]
 * Update task repo
 * Work on internal viz revamp
-* Meeting with IFES on Wed about charts, followup with Lisa in the immediate
+* Meeting with IFES on Wed about charts, followup with Lisa in the immediate - email and meeting on Tuesday
 
 Need to:
   
@@ -327,6 +327,11 @@ Need to:
 * Plow through issues
 * Add Eva's new issues to list
 * Worked on IFES charts
+
+###COLLAB
+* worked to export data with Sara on Thurs
+* signed up for oscar insurance
+
 
 
 

@@ -13,6 +13,7 @@ Resources
 * [Maldives Example](https://ifes.ushahidi.com/admin/stats/punchcard)
 * [Dropbox - References](https://www.dropbox.com/sh/1ltm5l3gl37tcle/lF6ymXtAyj)
 * [Scope of Work](https://drive.google.com/a/ushahidi.com/folderview?id=0B9z9cxNNJ5BvelRoQlJyQWVUelE&usp=sharing)
+* [Mtg notes](https://docs.google.com/document/d/1oFUhsO084gAbB8VIjfNDDXWoMrBmF3XLa6QyKHRyMC8/edit?usp=sharing)
 
 ###Design
 * [Design Policy Brainstorm](https://docs.google.com/a/ushahidi.com/document/d/1tejqbWl7oZkdKRd9Rlc8h1w9obFlCh4fsRoRr8ZjxbM/edit?usp=sharing)
