@@ -311,6 +311,7 @@ Policy discussion on bias?
 * Fix bugs in metrics chart - [Ushaverse]
 * Update task repo
 * Work on internal viz revamp
+* Meeting with IFES on Wed about charts, followup with Lisa in the immediate
 
 Need to:
   
@@ -325,6 +326,7 @@ Need to:
 * work on Tullow data vis for eva
 * Plow through issues
 * Add Eva's new issues to list
+* Worked on IFES charts
 
 
 
