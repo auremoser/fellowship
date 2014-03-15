@@ -327,10 +327,16 @@ Need to:
 * Plow through issues
 * Add Eva's new issues to list
 * Worked on IFES charts
+* Applied for the OK fest - workshop on crowdsource initiatives
+* Booked place in Kenya + Packed
 
 ###COLLAB
 * worked to export data with Sara on Thurs
 * signed up for oscar insurance
+
+###References
+* started reading the [JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/About)
+
 
 
 
