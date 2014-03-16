@@ -344,7 +344,12 @@ Need to:
 Go over with Eva the setup process
 Install locally to test changes
 
-
+####Updates
+- applied to OK conference
+- packed
+- added another regional chart to IFES, went over data sets and meeting with Lisa to go over priorities on Tues (notes, screencaps links here:https://docs.google.com/document/d/1oFUhsO084gAbB8VIjfNDDXWoMrBmF3XLa6QyKHRyMC8/edit?usp=sharing) and in this repo: https://github.com/auremoser/ifes
+- worked on landquest data cleaning 
+- lots of projects ongoing, check or add to the repo if you think of anything else (https://github.com/auremoser/fellowship/issues?state=open)
 
 
 ###References
