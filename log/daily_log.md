@@ -334,6 +334,19 @@ Need to:
 * worked to export data with Sara on Thurs
 * signed up for oscar insurance
 
+####Landquest stuff
+* have lat/long column (lowercase), sp/en versions (follow format) of others for tooltip
+* add icon in marker sidebar
+* column title is in frontend, 
+* getlocation from mygeoposition.com
+* import story and write guide for ingest
+
+Go over with Eva the setup process
+Install locally to test changes
+
+
+
+
 ###References
 * started reading the [JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/About)
 
