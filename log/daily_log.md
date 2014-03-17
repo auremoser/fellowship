@@ -355,6 +355,23 @@ Install locally to test changes
 ###References
 * started reading the [JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/About)
 
+##3/16/14
+###Catchup
+* Commmented on SMS mockup in Redpen and Phab
+* Read Rob's Github article
+* Made edits to layout of chart in IFES repo
+* Installed Sublime text wget and gpg
+* 
+
+###Create
+* fixed up Fellowship repo to have a "projects" section in lieu of blocks link
+
+###Collab
+* Voted for Knight fellowship
+* NEED TO MAKE PRIVATE REPO/ | Make [git print](https://gitprint.com/) pages for all repos --> link to
+
+
+
 
 
 
