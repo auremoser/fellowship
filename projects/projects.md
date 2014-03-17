@@ -27,6 +27,7 @@ Conference | Location | Date | Role
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 14 | Attendee
 [Hope X](http://x.hope.net/#) | NYC | July 14 | Attendee
 [Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker?
+[Digital Preservation Conference] | DC | July 22-23 | Rep for Designathon / Speaker?
 
 
 Conference activity is also [logged here](https://docs.google.com/spreadsheet/ccc?key=0AuDay9KcwU4YdGdqakNLRGlad1VzVVh0dW5GZHBqbkE&usp=sharing) and proposals are available in the 'proposals' folder of this repository.
