@@ -369,6 +369,9 @@ Install locally to test changes
 ###Collab
 * Voted for Knight fellowship
 * NEED TO MAKE PRIVATE REPO/ | Make [git print](https://gitprint.com/) pages for all repos --> link to
+* Agreed to be mentor at Global Innovation Challenge week
+* Agreed to be speaker/rep at IDLELO open source conf
+* Agreed to speak at Digital Preservation conference in spring
 
 TODO
 Finish ifes chart updates, incorporate meeting notes
