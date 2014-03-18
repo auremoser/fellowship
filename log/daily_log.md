@@ -361,7 +361,7 @@ Install locally to test changes
 * Read Rob's Github article
 * Made edits to layout of chart in IFES repo
 * Installed Sublime text wget and gpg
-* 
+
 
 ###Create
 * fixed up Fellowship repo to have a "projects" section in lieu of blocks link
@@ -369,6 +369,13 @@ Install locally to test changes
 ###Collab
 * Voted for Knight fellowship
 * NEED TO MAKE PRIVATE REPO/ | Make [git print](https://gitprint.com/) pages for all repos --> link to
+
+TODO
+Finish ifes chart updates, incorporate meeting notes
+Fix ushaverse metrics graph bug with legend
+Look at Tullow Data
+Email Eva about Landquest
+
 
 
 
