@@ -361,6 +361,8 @@ Install locally to test changes
 * Read Rob's Github article
 * Made edits to layout of chart in IFES repo
 * Installed Sublime text wget and gpg
+* Registered for Insurance + Completed March Expense Report
+* Applied to OK conference
 
 
 ###Create
@@ -372,12 +374,16 @@ Install locally to test changes
 * Agreed to be mentor at Global Innovation Challenge week
 * Agreed to be speaker/rep at IDLELO open source conf
 * Agreed to speak at Digital Preservation conference in spring
+* Meeting with IFES DataVis about data qual and charts
 
 TODO
 Finish ifes chart updates, incorporate meeting notes
 Fix ushaverse metrics graph bug with legend
 Look at Tullow Data
 Email Eva about Landquest
+Receipts to Erika
+Go over Edge Conference questions
+
 
 
 
