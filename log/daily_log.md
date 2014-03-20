@@ -368,6 +368,7 @@ Install locally to test changes
 ###Create
 * fixed up Fellowship repo to have a "projects" section in lieu of blocks link
 * updated presentation for Idlelo conference: [link to presentation here](https://docs.google.com/presentation/d/1hkRBVPM3vy6vcA8SbJQL34YEKb-8BSLCuLJV0xRaF9w/edit?usp=sharing)
+* updated eva on tullow [summary data in fusion tables](https://www.google.com/fusiontables/DataSource?docid=1_n-qa6FtR-9ZPYeBhPDAyE4dCr-M9aQIOH3euDPE), cleaned in refine, ported as a csv to fusion, built quick histograms of averages 
 
 ###Collab
 * Voted for Knight fellowship
@@ -387,7 +388,7 @@ TODO
 * ~~Receipts to Erika~~
 * Go over Edge Conference questions
 
-
+MESSAGE TO EVA ABOUT LANDQ/TULLOW
 Hi Eva,
 Landed in London, thanks for your patience with all my travel stresses. I'm settled and have looked through the LandQuest data model etcet. 
 ####LandQuest:
