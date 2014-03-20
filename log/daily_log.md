@@ -375,14 +375,61 @@ Install locally to test changes
 * Agreed to be speaker/rep at IDLELO open source conf
 * Agreed to speak at Digital Preservation conference in spring
 * Meeting with IFES DataVis about data qual and charts
+* Discusses Ushaverse with Rob - need to work more on this
 
-TODO
-Finish ifes chart updates, incorporate meeting notes
-Fix ushaverse metrics graph bug with legend
-Look at Tullow Data
-Email Eva about Landquest
-Receipts to Erika
-Go over Edge Conference questions
+TODO  
+
+* Finish ifes chart updates,incorporate meeting notes
+* Fix ushaverse metrics graph bug with legend
+* Look at Tullow Data
+* Email Eva about Landquest
+* ~~Receipts to Erika~~
+* Go over Edge Conference questions
+
+
+Hi Eva,
+Landed in London, thanks for your patience with all my travel stresses. I'm settled and have looked through the LandQuest data model etcet. 
+####LandQuest:
+I wanted to set up the development environment locally, because I was worried about testing things on the live site; I'm doing that today. 
+I think one problem with the data upload workflow is that the data needs to be in a particular format to be parsed correctly (so attaching most spreadsheets won't work because the site is only trained to ingest things with specific headers). It seems it requires an initial lat/long pair of columns and then subsequently alternating spanish and english columns. You might already know this, so apologies if this isn't new to you. I just noticed that a few of the data sets that had been uploaded weren't processing because they weren't in the right format (I think). They have fixed headers or multiple blocks of data, for example the List_of_Open_Projects-Oct2013.xls for example.
+I'm testing my cleaning up the data locally, fitting it to the format above and re-adding it to see if it plots. 
+
+When I work through some of these, I think we should be in good shape to add data regularly and setup a quick protocol for data cleaning before adding to the LandQ Wordpress. 
+
+####Tullow Data:
+I was looking at the data and wanted to clarify a few things quick before I build a viz for your blogpost and Landquest if you like it :).
+#####Assumptions: 
+* I'm looking at the Tullow Full employee register 06/11/13.xlsx
+* By my count, there are 29 sheets in the .xlsx file
+* Mostly the sheets are paired (two sheets per company/contractor) by 1. T(Turkana) employees and 2. NT(NonTurkana employees)
+* There are some unique sheets where the company/contractor only has one sheet (EarthView, Citiscape, Hallibuton, Spica Marine for example) where there is only NonTurkana Data [perhaps these are companies to highlight as non-turkana employers]
+* Exceptions to the pairing of sheets include the "Manpower" and "Tullow" sheet which I take it are summary reports of some sort
+* In the paired sheets, the structure of each is not universally the same, but the following fields seem to exist in all of them, so I can build something that highlights those:
+	* 	Location (location seems controlled, as in standard in format, in all sheet but will have to be transformed into a lat long if you'd like to plot them in landquest, if not, I can do this in charts by "regional name" (ie Nakukulas))
+	* Subcountry (which is more significant? location or subcountry?)
+	* Function (varies but perhaps this is something we could visualize in a scatter chart)
+	* Job Level (skilled/unskilled/management)
+* I'm eliminating names from the data viz as I don't believe they'll be easy to visualize unless we do a scatterplot with tooltips. Let me know if names are significant (for provenance, class structure, or other metric you might want to highlight)
+* The NonTurkana sheets have similar fields to those in the Turkana, but the wording isn't exactly the same so this is how I'm mapping the two:
+	* Location (T) -> Operation Location or Residence of employee
+	* Function -> Position Held
+	* Job Level -> Position Level
+
+####Questions
+* My copy has the "Newport - T" sheet highlighted in yellow, reason?
+* For the first viz, did you want me to focus on one or two sheets or tackle all of them in a comparitive graph?
+* Is the "Manpower" sheet a summary of counts taken from the other sheet or just corrections/changes made since the other sheets were assembled?
+* Is there particular significance to the "Tullow" sheet (since that's the title of the doc) or the " Newport-T" sheet (highlighted)?
+* Is "National" or "Expatriate" significant information for non-Turkanas?
+* For the NT sheets, which "location" is more important to view (the operation location or the birthplace/origin of the employee)?
+
+####Suggestions
+* My thought is that I could start with the "Tullow" sheet if that is most significant, or the "Manpower" sheet since that seems to have summary counts
+**Charts to Start**
+<grouped bar> skilled/unskilled/management by Contractor
+<stacked bar> turkana/nonturkana counts by Contractor
+
+
 
 
 
