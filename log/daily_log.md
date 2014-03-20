@@ -367,6 +367,7 @@ Install locally to test changes
 
 ###Create
 * fixed up Fellowship repo to have a "projects" section in lieu of blocks link
+* updated presentation for Idlelo conference: [link to presentation here](https://docs.google.com/presentation/d/1hkRBVPM3vy6vcA8SbJQL34YEKb-8BSLCuLJV0xRaF9w/edit?usp=sharing)
 
 ###Collab
 * Voted for Knight fellowship
