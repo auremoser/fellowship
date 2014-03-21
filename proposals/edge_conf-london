@@ -151,6 +151,29 @@ Make sites fast:
 **POINTERS AND INTERACTIONS**
 Web UIs are getting better at detecting and optimising for touch, but it continues to be a struggle, with much lower level primitives to work with than in the native world. Should we be aiming to abstract all spacial interaction into a ‘pointer’? How can more complex spacial interactions like gestures and 3D motion be handled without extraordinary amounts of effort?
 
+----------------
+Challenges
+Performance > Richness > Rationality
+
+Improvements
+threaded scrolling fast paths
+* iscroll = <http://cubiq.org/iscroll-4>
+Touch-action  manipulation without delay
+
+"TouchEvents" community group
+"PointerEvents" working group
+
+Hammer library for gestures <http://eightmedia.github.io/hammer.js/>
+IndieUI= intent rather than actual gesture <http://www.w3.org/TR/indie-ui-events/>
+
+*Click events (just fire or generating these for something that always are accessible), rather than touchevents or specialized events for device-specific event handlers -> focus, blur, click
+
+Leap Motion, MyO? How to do gestures in 3D space
+
+* Pointer events extend mouse events
+
+
+
 
 16:30
 **ACCESSIBILITY**
