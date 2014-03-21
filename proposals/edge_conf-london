@@ -57,7 +57,7 @@ History of dev tooling
 html parsing tool - hixie
 live dom viewer <http://software.hixie.ch/utilities/js/live-dom-viewer/>
 venkman in firefox (js debugger 2001)
-#####Baskic tools
+#####Basic tools
 FIREFOX
 - webglshader editor - realtime feedback on validation errors
 - memory tooling in firefox dev tools
@@ -124,6 +124,27 @@ LUNCH
 14:15
 **PAGE LOAD PERFORMANCE**
 This is a perennial topic but one that is changing rapidly as browsers constantly tweak their behaviour and major advances like HTTP 2 threaten to completely disrupt the received wisdom. Today’s best practices may be tomorrow’s anti patterns. Tools such as WebPageTest and the NavigationTiming API give us more data than we’ve ever had before; how can developers best harness this new wealth of information?
+
+----------------
+page load test (best testing)
+
+Make sites fast:
+- minimize latency
+- minimize round trips
+-- divide page load into content, enhancements, leftovers (adverts, analytics)
+- minimize blocking
+
+* http not really good on tcp (**http 2** coming)
+* sitespeed.io <http://www.sitespeed.io/>
+* web page performance test <http://www.webpagetest.org/>
+
+* "performance is a facet of user experience"
+
+- concatenation + spriting == Antipatterns? in http2
+- page onload event 
+* SPDY <http://www.chromium.org/spdy/spdy-whitepaper>
+- wbp jpeg
+
 
 
 15:15
