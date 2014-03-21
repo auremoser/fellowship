@@ -101,6 +101,24 @@ Grab a coffee and recharge for the next session.
 ###**BUILD PROCESS**
 Everyone has a compile step these days, whether it’s CSS preprocessing, bundling, minification, linting, testing, or optimisation, we all want to make our lives easier by automating build and deploy. But to some, the more complex the build gets, the more we get away from the fundamental motivations for many of the web technologies we love to use. Should we fix this in tooling, or by just making build processes even more sophisticated, or with browser developments like HTTP 2.0 which negate the need for some or all of the build step?
 
+----------------
+your a softwar developer: css preprocessing, templating, bundling, minification, linkting
+- gulp
+- grunt
+Make is 37
+
+* can we share entire pipelines as well as tools we use to build them
+Node popularity a problem for build process dependencies --> need to make solutions for averable people (guis)
+npm = protocol (way to get own repository)
+* use git not github; use npm protocol not the company
+Node task spec?
+
+Extensible web manifesto: <http://extensiblewebmanifesto.org/>
+Fez <http://fez.github.io/>
+**Unix Philosophy** = pipes from text, thought he ease of small tools chained together to build together for a common philosophy --powershell
+Yeoman - opinionated workflows
+
+
 13:15
 LUNCH
 14:15
