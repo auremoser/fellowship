@@ -436,6 +436,8 @@ I was looking at the data and wanted to clarify a few things quick before I buil
 - working on those currently
 - took notes on Edge conf (in "proposals/")
 - working on presentation for IDLELO Conf
+- agreed to be mentor at Global Innovation Week 2014
+- Visiting Ushahidi 3/23, Internews 3/26
 
 
 
