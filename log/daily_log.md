@@ -432,6 +432,12 @@ I was looking at the data and wanted to clarify a few things quick before I buil
 <stacked bar> turkana/nonturkana counts by Contractor
 
 
+---- Got Feedback from Eva on Charts ----
+- working on those currently
+- took notes on Edge conf (in "proposals/")
+- working on presentation for IDLELO Conf
+
+
 
 
 
