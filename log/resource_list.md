@@ -4,6 +4,8 @@ Resources
 * [Ushahidi.com/Ushaverse Brainstorm](https://docs.google.com/a/ushahidi.com/document/d/1OJNLPg_OC-jSwq0JA8nf1d4nyY1lZw0-6-nVQHydCbc/edit?usp=sharing)
 * [Dropbox - Ushahidi.com](https://www.dropbox.com/sh/02o4f7r95iuua8h/Z6eYRITD5G)
 * [Master Metrics](https://docs.google.com/spreadsheet/ccc?key=0AuTNzjT_y8f3dHNYY09paEJzN0pLdXk4bnBJRi01NkE&usp=sharing)
+* [Sunlight Foundation Guidelines for DataViz](https://horseradish.s3.amazonaws.com/photos/09/e9/d41fc7c747e2/SunlightFoundation%20Data%20Viz%20Colors.png)
+* [Sunlight D3 Template](https://github.com/sunlightlabs/chartoff/blob/master/implementations/d3/bar.js)
 
 ###V3
 * [Data Vis Brainstorming](https://docs.google.com/document/d/1UbqcLH1NknXrtdDjA0510H4_HmB6d2PKMy8EnfaP7PY/edit?usp=sharing)

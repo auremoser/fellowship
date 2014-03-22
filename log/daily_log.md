@@ -438,6 +438,9 @@ I was looking at the data and wanted to clarify a few things quick before I buil
 - working on presentation for IDLELO Conf
 - agreed to be mentor at Global Innovation Week 2014
 - Visiting Ushahidi 3/23, Internews 3/26
+- Go over data jouralism modules - respond to thread
+- write up app archive questionnaire ad send out email
+- finish up lessons for google making sense of data mooc
 
 
 
