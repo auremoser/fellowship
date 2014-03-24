@@ -444,7 +444,15 @@ I was looking at the data and wanted to clarify a few things quick before I buil
 
 
 
+## 3/24/13
+Team Call Update:
 
+###Catchup
+* working on internews stuff (email eva also )
+
+###Create
+
+###Collab
 
 
 

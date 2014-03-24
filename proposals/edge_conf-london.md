@@ -1,11 +1,11 @@
 EDGE CONF NOTES
 ===========
+###Schedule - Session notes
 10:00
 ###**COMPONENTS**
 We’ve see the future, and it’s looking modular. Corporations with large numbers of sites increasingly build complex reusable components, and we’ve seen frameworks emerge to organise these components on a page (e.g. Facebook’s React or FT’s Fruit Machine). At the same time, web standards are evolving to give us a native solution in the form of web components. How do we get there from here? And for smaller organisations and single developers, will there be a market in components? What standard will drive that?
 
 ----------------
-Dan Appelquist
 ####Intro web components rehabstudio.com
 Java Applets -> Dynamic DRive > OOCSS (obj oriented css)> BEM >
 jquery ui /bootstrop > React Fruitmachine --> WEB COMPONENTS
@@ -30,7 +30,8 @@ xtags - xtag core + brick (firefox)
 -- both have platform polyfill
 
 ----
-`** = defined things`
+`** = defined things`  
+
 `* = important things`
 
 **isomorphic js** = server render or client render (performance is fasted) BUT you can disable blocking with an atribute
@@ -50,8 +51,10 @@ Aria (stopgap solution working toward standarad)
 * HTML imports can do de-duping so multiple components don't pull in different versions of da
 
 
-###**DEVELOPER TOOLING**
-First there was Firebug, now Chrome DevTools, but recently IE’s developer tools have taken a quantum leap forward in version 11, and Mozilla has some unique new features to their built in tools. Tools outside of the browser now integrate far more intelligently, and it’s even possible to use one browser’s devtools to inspect a different browser. Are we still looking for the best tool workflow, or is there room for all these different tools?
+###**DEVELOPER TOOLING**    
+
+First there was Firebug, now Chrome DevTools, but recently IE’s developer tools have taken a quantum leap forward in version 11, and Mozilla has some unique new features to their built in tools. Tools outside of the browser now integrate far more intelligently, and it’s even possible to use one browser’s devtools to inspect a different browser. Are we still looking for the best tool workflow, or is there room for all these different tools?  
+
 ----------------
 History of dev tooling
 html parsing tool - hixie
@@ -214,31 +217,24 @@ redecentralize.org <http://redecentralize.org/>
 CLOSING REMARKS AND THANKS
 Linda Sandvik, co-founder of CodeClub, explains what CodeClub is doing and how your money is being put to good use.
 
-19:00
-AFTER PARTY AT THE ROYAL INSTITUTION
-Exclusively for Edge participants the historic Royal Institution is yours to explore for the evening, with food, drinks and full access to the museum and collections, sponsored by the Financial Times.
 
-The Royal Institution is a very nice 25 minute walk from the conference venue taking in Buckingham Palace on the way, or about 15 minutes by tube.
+###QUESTIONS
 
+####BUILD PROCESS
 
-
-QUESTIONS
-
-BUILD PROCESS
-==============
 Gulp and Fez imperitive style you doefine what you want and it figures it out
 
 
-ACCESSIBILITY
-=============
+####ACCESSIBILITY
+
 What are the best tools for testing web accessibility?
 
 Is there a hierarchy of accessibility standards, a baseline that covers basic web accessibility issues and degrades to higher level concerns orned in browser?
 Who is doing cross platform accessibility well? And why? And how?
 
 
-DEV TOOLS
-==========
+####DEV TOOLS
+
 How do cloud ide's (koding etcet) feature in this discussion. If you're developing on a chrome book to what extent is the IDE/Dev Tool disjoint minified?
 
 Is is more important that the IDE and debugging of dev tools are closely coupled? or that the IDE and versioning system (like github + atom) are closely connected? How do modern dev tools hope to negotiate all three?
@@ -246,6 +242,6 @@ Is is more important that the IDE and debugging of dev tools are closely coupled
 What's the deal with workspaces and can they be integrated into everything: https://developers.google.com/chrome-developer-tools/docs/settings#workspace
 
 
-FUTURE WEB
-===========
+####FUTURE WEB
+
 Where do you see the web going as languages get more intelligent? Like, what about Wolfram Language and Computable document format (like a pdf)?
