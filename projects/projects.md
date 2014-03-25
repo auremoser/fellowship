@@ -11,8 +11,9 @@ Scraper Script for Nicar 14 schedule | Python | [Scrapers](https://github.com/au
 Twitter Acct | Twitter bot script + IFTTT | [Ushahidi_Design](https://twitter.com/Ushahidi_Design) | quick automation to generate tweets from pinterest and team hashtags from personal designer accounts to keep the Design tweets flush at Ushahidi
 Archive Apps Designathon | Docs | [Mozwiki here](https://wiki.mozilla.org/OpenNews/hackdays/archive) | worked with other newsies post-nicar to define resources and a schema for archiving interactive news applications, [commitments here](https://wiki.mozilla.org/OpenNews/hackdays/archive#Commitments).
 Ushaverse | JS/D3 | [Ushaverse](https://github.com/auremoser/ushaverse) | project to visualize some metrics for the ushahidi.com website rebuild, [demo here](http://ushahidi-auremoser.dotcloud.com/#)
-IFES | JS/Highcharts | [Ifes Repo](https://github.com/auremoser/ifes) | project w/ ushahidi to build custom charts visualizing admin stats for election monitoring, designed for yemen but extensible in various deployment countries pre-election [demo here](http://auremoser.github.io/ifes/)
-
+IFES | JS/Highcharts | [Ifes Repo](https://github.com/auremoser/ifes) | project w/ ushahidi to build custom charts visualizing admin stats for election monitoring, designed for yemen but extensible in various deployment countries pre-election [demo here](http://auremoser.github.io/ifes/) 
+Tullow | JS/FusionTables | [Tullow Project](https://github.com/auremoser/fellowship/tree/master/projects/%5BIN%5DTullow) | project to track employment data throughout Nairobi in various industry
+ 
 
 
 
