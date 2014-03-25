@@ -70,6 +70,35 @@ Github repo:
 Wordpress front end: <http://landquest.internewskenya.org/>
 
 
+####About section on Website
+This experiment in cross-border investigative journalism by two European, two Kenyan and one American journalist seeks to redefine both the focus and the audience of development reporting.
+
+This data reveals Kenya as the battlefield between two competing financial interests: the flow of aid money from Europe to Kenya and multinational profits from Kenya to the Europe Union, Kenya’s second largest trading partner after China.
+
+ Aid money flows into Kenya to help strengthen institutions and private companies, from agro-industrialists to oil barons, seek to profit from unregulated resources.
+
+Mapping development and private sector stories and data help people visualize the interplay between capitalism and altruism and its impact on wealth and inequality. The geo-narratives mapped along side development projects and private industry underscore the relationship between people, data and the politics of development.
+
+The project is designed to raise awareness about the need for developed and developing countries to become partners in development that work together to harmonize and regulate development and private sector investments through open data.
+
+This investigation focuses on two hotspots:
+
+Turkana, where newly discovered oil has forever changed (for better or worse) the landscape for the poorest people in Kenya and the humanitarian groups that serve them.
+Lake Naivasha, where transnational agro-industrialists cultivate and export much of Europe’s annual flower supply while non-profit organizations groups protect water quality, defend labor rights and resettle internally displaced people, thanks to European donors.
+
+ The content and visualizations were published in El Mundo in Spain and are available in English and Spanish on the Land Quest website.
+
+Land Quest will also serve as an example of a new model of journalistic collaboration among media in the developed and developing world in a globalized media environment in need of in-depth international reporting.
+
+Spanish Aid Data
+Many Spanish-funded projects are related to water (basically obtaining, cleaning and providing drinkable water as well as basic hygiene). Is not the biggest sector, frequently surpass by emergency or education projects, but is the most constant. Although the emergency projects are short-term and the education projects are long-term so their impact is complicated to measure and compare.
+
+About the data
+While access to information is enshrined in Article 35 of the Kenyan Constitution, there are no laws on the books to enforce this right. Data for this investigation has been provided by the Kenya Water Resources Management Authority in Turkana, Turkana National Environmental Management Authority, National Oil Corporation, Kenya Flower Council, World Bank, European Commission, Spanish Agencia Española para la Cooperación y el Desarrollo and the Spanish Nariokotome Mission. All data sets and relevant reports are available for further analysis and reporting on this site.
+
+In Kenya, data requests were denied or ignored by the Ministry of Energy and Petroleum; Ministry of Mines and Geology; Ministry of Environment, Water and Natural Resources; Chamber of Mines; National Environmental Management Authority (Headquarters), county government officials; UNESCO; the Tea Board of Kenya; and Tullow Oil Company.
+
+
 
 
 
