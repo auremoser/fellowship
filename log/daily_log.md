@@ -437,7 +437,7 @@ I was looking at the data and wanted to clarify a few things quick before I buil
 - took notes on Edge conf (in "proposals/")
 - working on presentation for IDLELO Conf
 - agreed to be mentor at Global Innovation Week 2014
-- Visiting Ushahidi 3/23, Internews 3/26
+- Visiting Ushahidi 3/23, Internews 3/26, 3/28@3pm for meetup
 - Go over data jouralism modules - respond to thread
 - write up app archive questionnaire ad send out email
 - finish up lessons for google making sense of data mooc
@@ -445,14 +445,28 @@ I was looking at the data and wanted to clarify a few things quick before I buil
 
 
 ## 3/24/13
-Team Call Update:
+Team Call Update:  
+
+* Working on charts for a data story on Tullow employment tracking with Eva from Internews
+* Assembled material for an IDLELO conference presentation on LandQuest (3/27)
+* Going over data journalism modules for Internews Curriculum :)
+* Had a good call with  IFES about data vis asks. Notes  here and on Basecamp - IO Sara charts
+* Went to the Edge Conference (3/20-3/21), gave a quick talk on Accessibility, and DRM policy. Notes here.
+* Writing up app archive questionnaire/summary for Open News Conference in May
+* In Nairobi, whoot.  Going to Internews on the 26th
 
 ###Catchup
 * working on internews stuff (email eva also )
+* read more on data verification (via eva's handbook)
+* prep for IDLELO talk
 
 ###Create
+* Worked on Fusion tables for prelim viz for Turkana Employee Data
+* Created repo to track progress in this (projects/tullow)
+* Create one new curriculum feature per evening
 
 ###Collab
+* media hack day in denmark whoot, i get to go <http://www.mediahackdays.com/>
 
 
 

@@ -1,0 +1,96 @@
+TULLOW EMPLOYMENT DATA
+Hi Eva,
+To make our analysis simpler, I made two new fusion tables.
+* one has Counts/Percentages of Laborers by company, level, and origin (all of the same info as before (corrected to exclude the “totals” rows)
+* two has total info of Laborers (counts) by company and origin
+
+From one, for example, you can tell the percentage of expats as “skilled” or “unskilled”
+From two, for example, you can tell there is a total of 46 Turkanas in a total workforce of 69 at the AFEX Group
+
+Basically, you can get skill level information from the former, strict totals from the latter.
+
+I had to correct the percentages from the spreadsheet because some of them didn’t add up to 100% by company and was making the data look weird.
+
+Here are my responses to your lines of investigation based on these tables. I can build a visualization that could illustrate number of Skill levels by company. Let me see what I can get the data to do and I’ll get back to you with updates, hopefully tomorrow!
+
+Aurelia
+
+ 
+1.) There are a couple of different lines of investigation we are going to follow:
+
+Companies that have the most expat and non-Turkana labor overall and find out why
+
+According to my munging, the following companies have the most Expat/NT:
+
+PR Marriot	34/56 or 61% expat	20% NT
+GGS		23/94 or 24% expat	2% NT
+Baker Hughes	66/97 or 68% expat	32% NT
+Weatherford	24/105 or 23% expat	33% NT
+Schlumberger	81/119 or 68% expat	32% NT
+Sakson		86/126 or 68% expat	2% NT
+
+Almost all other groups have a high-percentage (in this case, over 20% of their workforce listed as “Non-Turkana”. 
+Exceptions include:
+KK Security	87/92	or 95% T
+Newport	Totals	102/114	or 89% T
+Tullow/ROLSS	147/147 or 100% T
+
+*”most” is relative here, because Halliburton technically has the “most” expats, 100% of its workforce, but they only have 1 worker. To correct for this, I evaluated % and not counts of laborers, so anything above 20% of the total workforce by company was considered among the “highest”
+
+I attached a spreadsheet to illustrate this, with total counts by company and those “of interested” highlighted (this is the same data in the fusion tables).
+
+
+2. The companies that have the most unskilled labor filled by expats and non-Turkana and why.
+
+Sakson has all of the unskilled expat laborers (14 in total)
+NT unskilled counts are below (12 total unskilled NT laborers)
+BGP - 3
+TAI - 5
+New Edge Solutions - 3
+AFEX Group - 1
+This chart
+ 
+
+3. The companies that have few unskilled or skilled positions and why (ie are they inflating the level of their positions to justify having more expats? There is a good example of a concrete pouring company and catering company with all high level positions)
+
+Companies with the fewest unskilled:
+KK Security (0 unskilled)
+Baker Hughes (0)
+Citiscape (0)
+Earthview (0)
+Freight Forwarders (0)
+Kurrent Technologies (0)
+New Edge (3 NT)
+Spica Marine Inspections
+Alpha Logistics (0)
+Halliburton (0)
+Schlumberger (0)
+Transeast (0)
+
+
+4. Companies that only have Turkana employees (the largest) and find out whether they have a fair and open contracting process
+Tullow/ROLS is the only company with 100% Turkana employees.
+KK Security (95%) and Newport (89%) have the next largest percentages.
+
+
+
+5. Companies that have semi-skilled positions and look at the job titles to investigate how much training it would take for Turkanas to fill those positions
+ROLSS has many semi-skilled positions (no unskilled). 
+Sakson
+TAI
+Newport
+KK Security
+GGS
+Weatherford
+Ardan
+BGP 
+The following grouped bar chart shows counts of semi-skilled worker by contractor, each bar represents a Expat/NT/T count as well as totals of semi-skilled workers.
+
+
+ 
+6. We might discuss which gives the most accurate representation of proportions, for example, if people intuitively understand what the whole is for the percentages.
+
+I think a stacked or grouped bar chart showing counts across all contractors
+Maybe a pie chart of skill level “dispersion” for each Expat/NT/T
+Then depending on what we think is the most interesting company we can do some other charts by company.
+Then perhaps we can make a cleaner version of the data available and invite people to study it themselves. 
