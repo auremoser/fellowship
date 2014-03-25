@@ -463,10 +463,23 @@ Team Call Update:
 ###Create
 * Worked on Fusion tables for prelim viz for Turkana Employee Data
 * Created repo to track progress in this (projects/tullow)
+* * Sent email to Gustavo @ Landquest for updates on how [the information](https://docs.google.com/spreadsheet/ccc?key=0AudTRqkrNLbcdDh2XzdYeEExamFXUnNYN3k0N25iakE&usp=sharing#gid=7) is parsed
+
+###
+* Blog post about budget/violence
+* Flipped charts for IFES
+* Ushaverse experiments
+* Health chart for ushahidi metrics (github)
 * Create one new curriculum feature per evening
+* SEND UPDATE EMAIL TO EVA ABOUT IDLELO CONFERENCE
+
 
 ###Collab
 * media hack day in denmark whoot, i get to go <http://www.mediahackdays.com/>
+
+###References
+* read about JS this <http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/>
+
 
 
 
