@@ -1,0 +1,79 @@
+idlelo - Landquest and News Apps
+=======================
+
+###Open News
+
+Knight-Mozilla Fellows spend 10 months embedded with our partner newsrooms. Our Fellows are developers, technologists, civic hackers, and data crunchers who are paid to work with the community inside and outside of their newsroom to develop open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.
+<http://opennews.org/fellowships/>
+
+
+###Ushahidi and Internews
+* Toggling between Nairobi and New York
+* Working with two alternative newsrooms: <http://www.ushahidi.com/> + <http://www.internewskenya.org/dataportal/>
+
+###LandQuest
+Land Quest is an experiment in cross-border investigative journalism that uses geo-located data and stories to illustrate barriers to development in Kenya.
+
+Mapping development and private sector stories and data help people visualize the interplay between capitalism and altruism and its impact on wealth and inequality. 
+
+Something close to Ushahidi and Internews's practice of democratizing our view of a local topography. 
+
+Maps provide an intuitive and approachable way to process data. The geo-narratives mapped alongside development projects and private industry underscore the relationship between people, data and the politics of development.
+
+* visitors can read stories, download the data sets that inform them and then view the data as plotted on a map
+* aid outposts and locations of extractive industry are available here
+* data is particularly intuitive structured data, meant to pull from a google doc or a spreadsheet and then parsed directly into the 
+
+
+
+####CONTEXT
+Extractive Industry Tracking 
+A topical issue
+[Sunlight Foundation](http://sunlightfoundation.com/blog/2010/07/02/us-energy-mining-companies-must-disclose-government-payments/)
+
+""U.S. energy companies will soon have to reveal how much they pay foreign governments for rights to produce crude oil, natural gas and minerals around the world.""
+
+[Publish What You Pay](http://www.publishwhatyoupay.org/)
+coalition of human rights and environmental groups working to require corporate disclosure
+
+ABOUT THE DATA: 
+What: Annual summary of U.S. energy, mining company payments to governments 
+Where: U.S. Securities and Exchange Commission 
+Availability: When SEC completes rulemaking, possibly in 2011 
+Format: Electronic data 
+Usability: TBD
+
+####Tech Stack
+* translations in spanish and english (with coding partners in brazil)
+* Build with php/js
+* Map theme build using Jeo: http://lab.oeco.org.br/projects/jeo/
+Jeo WordPress Theme acts as a geojournalism platform which allows news organizations, bloggers and NGOs to publish news stories as layers of information on digital maps.
+* Design by http://cardume.art.br/
+* Icons by Entypo <http://entypo.com/>
+* - kind of noun projet
+
+#### How can you help
+We're building out the wiki on github for users to particpate and contribute data, crowdsource or commission stories.
+At the moment we're still in beta, but working toward a public beta and open sourcing the code along the way.
+Contribute to the repo once it's live
+Contribute data or Contact
+
+#### LINKS
+Landquest backend <http://landquest.internewskenya.org/wp-admin/>
+
+user: 'landquest'
+pass: 'lhsplFEQKenya'
+
+Github repo: 
+<https://github.com/oeco/landquest-jeo-child/tree/master/>
+
+Wordpress front end: <http://landquest.internewskenya.org/>
+
+
+
+
+
+
+
+
+
