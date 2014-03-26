@@ -62,9 +62,6 @@ At the moment we're still in beta, but working toward a public beta and open sou
 #### LINKS
 Landquest backend <http://landquest.internewskenya.org/wp-admin/>
 
-user: 'landquest'
-pass: 'lhsplFEQKenya'
-
 Github repo: 
 <https://github.com/oeco/landquest-jeo-child/tree/master/>
 
