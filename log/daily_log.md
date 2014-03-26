@@ -480,6 +480,18 @@ Team Call Update:
 ###References
 * read about JS this <http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/>
 
+## 3/26/14
+###Catchup
+* worked on some international additions to the IFES graphs
+
+###Create
+
+###Collab
+* met at the Internews Office I&M Building and worked on the semantic analysis project for HIV (Chambua and Lithium Labs maybe)
+* networked with Erika about denmark conference in May
+
+
+
 
 
 
