@@ -485,10 +485,15 @@ Team Call Update:
 * worked on some international additions to the IFES graphs
 
 ###Create
+* updated worldmetrics.psd to reflect actual ushaverse
+* updated data for a third ifes graph-indicator counts by atoll? maybe impacts by atoll
+* tried to fix translation issues
 
 ###Collab
 * met at the Internews Office I&M Building and worked on the semantic analysis project for HIV (Chambua and Lithium Labs maybe)
 * networked with Erika about denmark conference in May
+* corresponded with Juan about landquest project and state of oss for jeo
+* wrote back to smashing magazine about collab
 
 
 
