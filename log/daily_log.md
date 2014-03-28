@@ -466,7 +466,7 @@ Team Call Update:
 * * Sent email to Gustavo @ Landquest for updates on how [the information](https://docs.google.com/spreadsheet/ccc?key=0AudTRqkrNLbcdDh2XzdYeEExamFXUnNYN3k0N25iakE&usp=sharing#gid=7) is parsed
 
 ###
-* Blog post about budget/violence
+* Blog post about socio philosophy and conservation practice of media - time as measured in heartbeats
 * Flipped charts for IFES
 * Ushaverse experiments
 * Health chart for ushahidi metrics (github)
