@@ -466,7 +466,8 @@ Team Call Update:
 * * Sent email to Gustavo @ Landquest for updates on how [the information](https://docs.google.com/spreadsheet/ccc?key=0AudTRqkrNLbcdDh2XzdYeEExamFXUnNYN3k0N25iakE&usp=sharing#gid=7) is parsed
 
 ###
-* Blog post about socio philosophy and conservation practice of media - time as measured in heartbeats
+* Blog post about socio philosophy and conservation practice of media - time as measured in heartbeats- ephemedia, MANS, <iframe src="http://www.patatap.com/" style="border: 3px solid #ccc" width="640" height="480"></iframe>
+* 
 * Flipped charts for IFES
 * Ushaverse experiments
 * Health chart for ushahidi metrics (github)
@@ -476,6 +477,7 @@ Team Call Update:
 
 ###Collab
 * media hack day in denmark whoot, i get to go <http://www.mediahackdays.com/>
+* updated open news [checkin call dock](https://etherpad.mozilla.org/opennews-2014-march-fellows-checkin-agenda)
 
 ###References
 * read about JS this <http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/>
