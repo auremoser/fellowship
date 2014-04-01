@@ -489,7 +489,10 @@ Team Call Update:
 ###Create
 * updated worldmetrics.psd to reflect actual ushaverse
 * updated data for a third ifes graph-indicator counts by atoll? maybe impacts by atoll
-* tried to fix translation issues
+* tried to fix translation issues in IFES
+
+* workedto define metrics platform for Ushahidi with Vidya et al.
+
 
 ###Collab
 * met at the Internews Office I&M Building and worked on the semantic analysis project for HIV (Chambua and Lithium Labs maybe)
