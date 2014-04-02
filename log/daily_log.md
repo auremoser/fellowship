@@ -494,6 +494,7 @@ Team Call Update:
 * workedto define metrics platform for Ushahidi with Vidya et al.
 * worked on cleaning up spreadsheet to port to fusion tables for BRCK
 * worked on spliting the username and cleaning it up to display in a chart
+* blog posts: <http://algorhyth.ms/2014/04/02/crowd-ed-coordinated-foss-in-africa/>
 
 
 ###Collab
