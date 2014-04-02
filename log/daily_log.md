@@ -485,13 +485,15 @@ Team Call Update:
 ## 3/26/14
 ###Catchup
 * worked on some international additions to the IFES graphs
+* blog post for Open News Community Call
 
 ###Create
 * updated worldmetrics.psd to reflect actual ushaverse
 * updated data for a third ifes graph-indicator counts by atoll? maybe impacts by atoll
 * tried to fix translation issues in IFES
-
 * workedto define metrics platform for Ushahidi with Vidya et al.
+* worked on cleaning up spreadsheet to port to fusion tables for BRCK
+* worked on spliting the username and cleaning it up to display in a chart
 
 
 ###Collab
