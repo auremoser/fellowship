@@ -485,7 +485,8 @@ Team Call Update:
 ## 3/26/14
 ###Catchup
 * worked on some international additions to the IFES graphs
-* blog post for Open News Community Call
+* blog post for Open News Community Call: had community call with other fellows on fri
+wrote a questionaire for the app archive and applied to OK conf
 
 ###Create
 * updated worldmetrics.psd to reflect actual ushaverse
@@ -502,6 +503,10 @@ Team Call Update:
 * networked with Erika about denmark conference in May
 * corresponded with Juan about landquest project and state of oss for jeo
 * wrote back to smashing magazine about collab
+* App Archive digital preservation conference this week
+* Applied to HOPE X with Harlo
+* Writing an article for smashing magazine
+* Semantic Analysis project for internews
 
 
 
