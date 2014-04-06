@@ -13,6 +13,7 @@ Archive Apps Designathon | Docs | [Mozwiki here](https://wiki.mozilla.org/OpenNe
 Ushaverse | JS/D3 | [Ushaverse](https://github.com/auremoser/ushaverse) | project to visualize some metrics for the ushahidi.com website rebuild, [demo here](http://ushahidi-auremoser.dotcloud.com/#)
 IFES | JS/Highcharts | [Ifes Repo](https://github.com/auremoser/ifes) | project w/ ushahidi to build custom charts visualizing admin stats for election monitoring, designed for yemen but extensible in various deployment countries pre-election [demo here](http://auremoser.github.io/ifes/) 
 Tullow | JS/FusionTables | [Tullow Project](https://github.com/auremoser/fellowship/tree/master/projects/%5BIN%5DTullow) | project to track employment data throughout Nairobi in various industry
+BRCK | HTML/CSS, Google Apps Script | [BRCK Repo](https://github.com/auremoser/brck) | project to visualize the brck google form data for weekly team chats, via bar charts and simple team member answer cards; quick sketch
  
 
 
@@ -25,6 +26,7 @@ Conference | Location | Date | Role
 [Women TechMakers Summit](http://womentechmakers.com/) | NYC | Mar 14 | Attendee
 [Edge Conference](http://www.idlelo.net/) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
+[MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | March31-April 4 | Mentor/Speaker
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 14 | Attendee
 [Hope X](http://x.hope.net/#) | NYC | July 14 | Attendee/Speaker?
 [Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker?
