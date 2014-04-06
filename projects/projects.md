@@ -26,9 +26,11 @@ Conference | Location | Date | Role
 [Edge Conference](http://www.idlelo.net/) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 14 | Attendee
-[Hope X](http://x.hope.net/#) | NYC | July 14 | Attendee
+[Hope X](http://x.hope.net/#) | NYC | July 14 | Attendee/Speaker?
 [Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker?
-[Digital Preservation Conference] | DC | July 22-23 | Rep for Designathon / Speaker?
+[Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
+[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | Speaker
+
 
 
 Conference activity is also [logged here](https://docs.google.com/spreadsheet/ccc?key=0AuDay9KcwU4YdGdqakNLRGlad1VzVVh0dW5GZHBqbkE&usp=sharing) and proposals are available in the 'proposals' folder of this repository.
