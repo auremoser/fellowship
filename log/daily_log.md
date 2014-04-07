@@ -505,8 +505,21 @@ wrote a questionaire for the app archive and applied to OK conf
 * wrote back to smashing magazine about collab
 * App Archive digital preservation conference this week
 * Applied to HOPE X with Harlo
-* Writing an article for smashing magazine
 * Semantic Analysis project for internews
+
+##4/7/2014
+Monday updates 
+
+* MAVC stuff last week, had fun mentoring
+* Posted a story about Tullow oil hiring policy, finished up some charts working on data integration and generalizing the parser for Jeo and the landquest platform
+* Worked on weekly BRCK chat viz for Reg + Team: Code here, readme ‘splains all
+Updating IFES stuff, followup with people this week
+* Writing semantic analysis thing for the HIV@30 project at Internews
+Also applied to OKF and HOPE-X (samesies Chris *fist-bump*), speaking at Media Hack Days DE (May) + Digital Preservation Conference in DC (July) on archiving news apps
+* Writing an ghost post for Smashing Magazine - NG[e]O Code
+* Planning a lightening talk for EyeO, visiting Woody in MN, whoot
+Other stuff, check the Fellowship Repo.
+
 
 
 
