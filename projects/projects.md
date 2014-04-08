@@ -24,7 +24,7 @@ Conference | Location | Date | Role
 ---------- | -------- | ---- | ----- 
 [Nicar 2014](https://ire.org/conferences/nicar-2014/) | Baltimore  | Feb 14 | Attendee
 [Women TechMakers Summit](http://womentechmakers.com/) | NYC | Mar 14 | Attendee
-[Edge Conference](http://www.idlelo.net/) | London | Mar 14 | Participant
+[Edge Conference](http://edgeconf.com/2014-london) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
 [MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | March31-April 4 | Mentor/Speaker
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 14 | Attendee
