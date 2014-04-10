@@ -520,6 +520,17 @@ Also applied to OKF and HOPE-X (samesies Chris *fist-bump*), speaking at Media H
 * Planning a lightening talk for EyeO, visiting Woody in MN, whoot
 Other stuff, check the Fellowship Repo.
 
+###CREATE
+* worked on IFES charts
+* worked on implementation of Chambua for HIV@30 Aids project at Internews
+* submitted grant application for Internews-KE based on landquest work. 
+* worked on re-ordering the curriculum
+
+###COLLAB
+* work with internews on HIV@30 cleaning and data munging
+* applied for financial aid-open knowledge fest (http://2014.okfestival.org/financial-aid-application-form/ )
+
+
 
 
 
