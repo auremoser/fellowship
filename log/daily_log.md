@@ -520,11 +520,17 @@ Also applied to OKF and HOPE-X (samesies Chris *fist-bump*), speaking at Media H
 * Planning a lightening talk for EyeO, visiting Woody in MN, whoot
 Other stuff, check the Fellowship Repo.
 
+###CATCHUP
+* wrote lightening talk for eyeo
+* met at the Internews Office I&M Building and worked on the semantic analysis project for HIV - data cleaning stage
+* work on 
+
 ###CREATE
 * worked on IFES charts
-* worked on implementation of Chambua for HIV@30 Aids project at Internews
+* worked on implementation of Chambua for HIV@30 Aids project at Internews, [gist here](https://gist.github.com/anonymous/c14846257cab9c2d6358); [issue in fellow repor](https://github.com/auremoser/fellowship/issues/25)
 * submitted grant application for Internews-KE based on landquest work. 
 * worked on re-ordering the curriculum
+
 
 ###COLLAB
 * work with internews on HIV@30 cleaning and data munging
