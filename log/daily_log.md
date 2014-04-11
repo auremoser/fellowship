@@ -520,13 +520,14 @@ Also applied to OKF and HOPE-X (samesies Chris *fist-bump*), speaking at Media H
 * Planning a lightening talk for EyeO, visiting Woody in MN, whoot
 Other stuff, check the Fellowship Repo.
 
+###4/11/14
 ###CATCHUP
 * wrote lightening talk for eyeo
 * met at the Internews Office I&M Building and worked on the semantic analysis project for HIV - data cleaning stage
-* work on 
+* went with @akirachix to kids camp on Friday superfun with scratch and art
 
 ###CREATE
-* worked on IFES charts
+* worked on IFES charts - fixed translation bug and lookup library
 * worked on implementation of Chambua for HIV@30 Aids project at Internews, [gist here](https://gist.github.com/anonymous/c14846257cab9c2d6358); [issue in fellow repor](https://github.com/auremoser/fellowship/issues/25)
 * submitted grant application for Internews-KE based on landquest work. 
 * worked on re-ordering the curriculum
@@ -534,7 +535,8 @@ Other stuff, check the Fellowship Repo.
 
 ###COLLAB
 * work with internews on HIV@30 cleaning and data munging
-* applied for financial aid-open knowledge fest (http://2014.okfestival.org/financial-aid-application-form/ )
+* applied for [financial aid-open knowledge fest](http://2014.okfestival.org/financial-aid-application-form/)
+* met with Savannah Fund Folks- working on data viz of their stats (maybe []parallel coords](http://syntagmatic.github.io/parallel-coordinates/)
 
 
 
