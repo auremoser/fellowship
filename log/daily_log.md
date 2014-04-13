@@ -538,6 +538,23 @@ Other stuff, check the Fellowship Repo.
 * applied for [financial aid-open knowledge fest](http://2014.okfestival.org/financial-aid-application-form/)
 * met with Savannah Fund Folks- working on data viz of their stats (maybe []parallel coords](http://syntagmatic.github.io/parallel-coordinates/)
 
+###4/13/14
+[Monday Updates](https://docs.google.com/a/ushahidi.com/document/d/1xPl9nzxqYah2wMSx41HkueqDZVjAO7O8k6P9d13yv0Q/edit#)
+(might be non-verbal, @Internews today)
+
+* worked on implementation of Chambua for HIV@30 Aids project at Internews, [gist here](https://gist.github.com/anonymous/c14846257cab9c2d6358); [issue in fellow repor](https://github.com/auremoser/fellowship/issues/25)
+* submitted grant application for LandQuest work at Internews; working on Jeo admin documentation now
+* re-ordered curriculum for internews fellowship in the summer; will be coming back to Nairobi to teach in July/August
+* applied for EyEO lightening talk; OKF financial aid
+* worked on IFES charts - fixed translation bug and lookup library; code here(https://github.com/auremoser/ifes) demo here(http://auremoser.github.io/ifes/?lang=ar)
+* went w/ Akirachix to Kibera kids camp on Friday :)
+* met with Savannah Fund Folks- working on data viz of their stats for their wp-site on Erik's rec
+
+###CATCHUP
+###COLLAB
+###CREATE
+
+
 
 
 
