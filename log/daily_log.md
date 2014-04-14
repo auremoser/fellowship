@@ -559,7 +559,7 @@ Other stuff, check the Fellowship Repo.
 
 ###CREATE
 * worked on data cleaning process (see email to internews), need to process [files from 80s](https://www.dropbox.com/sh/jit3zscakt0cg3e/l-a9zaUUgz) to start -> pipe to chambua
-* added collaborators to github organization
+* added collaborators to [github organization](https://github.com/orgs/internews-ke/teams/data-journalism)
 
 TODO
 Create github tutorial file
