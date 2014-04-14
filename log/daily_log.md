@@ -551,8 +551,22 @@ Other stuff, check the Fellowship Repo.
 * met with Savannah Fund Folks- working on data viz of their stats for their wp-site on Erik's rec
 
 ###CATCHUP
+* fixed issue with [sed notes](https://gist.github.com/anonymous/10628595)
+* ran [github tutorial]() and added people to internews organization  
+
 ###COLLAB
+* had meeting with [Open Duka](http://www.openduka.org/), shared [Tullow Data](landquest.internewskenya.org/tullow-oil-sub-contractor-employee-data-reveal-contracting-driven-by-market-forces-not-economic-policy-in-turkana/)
+
 ###CREATE
+* worked on data cleaning process (see email to internews), need to process [files from 80s](https://www.dropbox.com/sh/jit3zscakt0cg3e/l-a9zaUUgz) to start -> pipe to chambua
+* added collaborators to github organization
+
+TODO
+Create github tutorial file
+Clean Landquest Data and map
+Coordinate curriculum files for Eva
+Sync with Dan about Dev process for HIV@30
+
 
 
 
