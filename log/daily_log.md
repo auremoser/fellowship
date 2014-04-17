@@ -567,6 +567,10 @@ Clean Landquest Data and map
 Coordinate curriculum files for Eva
 Sync with Dan about Dev process for HIV@30
 
+Write blog on sed
+Write for Smashing Mag
+Record Radio Show
+
 
 
 

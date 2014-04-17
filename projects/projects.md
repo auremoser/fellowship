@@ -32,6 +32,7 @@ Conference | Location | Date | Role
 [Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker?
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
 [Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | Speaker
+[ONA14](http://ona14.journalists.org/suggestion-box/faq/) | Chicago, IL | Sept. 25-27th | Speaker (pending)
 
 
 
