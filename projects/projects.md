@@ -14,6 +14,7 @@ Ushaverse | JS/D3 | [Ushaverse](https://github.com/auremoser/ushaverse) | projec
 IFES | JS/Highcharts | [Ifes Repo](https://github.com/auremoser/ifes) | project w/ ushahidi to build custom charts visualizing admin stats for election monitoring, designed for yemen but extensible in various deployment countries pre-election [demo here](http://auremoser.github.io/ifes/) 
 Tullow | JS/FusionTables | [Tullow Project](https://github.com/auremoser/fellowship/tree/master/projects/%5BIN%5DTullow) | project to track employment data throughout Nairobi in various industry
 BRCK | HTML/CSS, Google Apps Script | [BRCK Repo](https://github.com/auremoser/brck) | project to visualize the brck google form data for weekly team chats, via bar charts and simple team member answer cards; quick sketch
+Savannah Fund | HTML/CSS | Repo (forthcoming | project to visualize founder data for Savannah Fund VC project in 7 countries worldwide
  
 
 
