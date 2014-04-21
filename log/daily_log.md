@@ -569,7 +569,18 @@ Sync with Dan about Dev process for HIV@30
 
 Write blog on sed
 Write for Smashing Mag
-Record Radio Show
+
+##4/21/14
+Team call updates:  
+
+* Introduced Internews team to Github, tutorial (<https://gist.github.com/anonymous/d6293666ccdc3cf84a0a>), setup org page, migrating straggling repos
+* Worked on curriculum for data journalism fellowship in July/August @Internews
+Working through HIV@30 w/Chambua, links forthcoming
+* Mozilla community call last week, prepping followup blog post
+* Some correspondence for IFES, meeting this week, new charts w/translations soon
+* Updated brck viz, links here: <https://github.com/auremoser/brck>
+Went to Malindi and Naivasha last week, was brilliant, with limited internet :/
+
 
 
 
