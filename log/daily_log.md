@@ -581,6 +581,9 @@ Working through HIV@30 w/Chambua, links forthcoming
 * Updated brck viz, links here: <https://github.com/auremoser/brck>
 Went to Malindi and Naivasha last week, was brilliant, with limited internet :/
 
+###CATCHUP
+* Updated Data Journalism Curriculum for Eva's Approval
+
 
 
 
