@@ -1,7 +1,6 @@
 ##HIV@30
 ####Cleaning Process Notes
-* Rename extension = select all files, change extension from .docx to .txt
-
+Rename extension = select all files, change extension from .docx to .txt
 
 Remove initial numerals:
 for i in *DN*.txt; do mv $i ${i/*DN/DN}; done
@@ -9,20 +8,17 @@ for i in *DN*.txt; do mv $i ${i/*DN/DN}; done
 Reorder date:
 echo 01DN021288.txt | perl -pe 's/(..)(..)(....)(..)/$4$3$1$2
 
-
 or try 
 echo 01DN310888.txt | sed 's/\(....\)\(..\)\(..\)\(..\)/\4\3\2\1/'
-
 
 to reorder date in a directory
 
 echo *DN.txt | perl -pe 's/(..)(..)(....)(..)/$4$3$1$2
 
-
 Tried to setup overview account
 aurelia@ushahidi.com
 
-####HIV@30
+###HIV@30
 #####FILE CLEANING IN TERMINAL
 Here's a quick worflow for converting documents from the Overview export format:
 Like this: 
