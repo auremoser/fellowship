@@ -195,7 +195,4 @@ Results by file (two per year):
 * Later (late 80s) news coverage addresses more "family planning" and "women's" associations as aids is viewed more in the context of prevention as opposed to hysteria and accusation
 
 
-Timeline
---------
-
 
