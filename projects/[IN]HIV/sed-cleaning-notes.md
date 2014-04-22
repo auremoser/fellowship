@@ -192,6 +192,10 @@ Results by file (two per year):
 * people become increasingly local doctors in the news, as opposed to international institutions like the CDC and other "foreign" doctors
 * In 1988 for example, we see mention of more Kenyan institions (Kenya Trypanosomiasis Research Institute, University of Nairobi, Kenya Medical Research)
 * This might mean that the disease is taken more seriously locally but probably also means that the media bias has begun to address the medical opinion of local authorities
-* Later (late 80s) news coverage addresses more "family planning" and "women's" associations as aids is viewed more in the context of 
+* Later (late 80s) news coverage addresses more "family planning" and "women's" associations as aids is viewed more in the context of prevention as opposed to hysteria and accusation
+
+
+Timeline
+--------
 
 
