@@ -584,6 +584,7 @@ Went to Malindi and Naivasha last week, was brilliant, with limited internet :/
 ###CATCHUP
 * Updated Data Journalism Curriculum for Eva's Approval
 * Worked on Sed cleaning notes for HIV@30 Project
+* Setup internews [github repository](https://github.com/internews-ke/hiv-30) for the HIV@30 project
 
 
 
