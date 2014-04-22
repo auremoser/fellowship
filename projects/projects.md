@@ -28,11 +28,11 @@ Conference | Location | Date | Role
 [Edge Conference](http://edgeconf.com/2014-london) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
 [MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | March31-April 4 | Mentor/Speaker
-[EyEO](http://eyeofestival.com/) | Minneapolis | Jun 14 | Attendee
-[Hope X](http://x.hope.net/#) | NYC | July 14 | Attendee/Speaker?
+[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | Speaker
+[EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Attendee
+[Hope X](http://www.hope.net/) | NYC | July 18-20 | Speaker
 [Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker?
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
-[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | Speaker
 [ONA14](http://ona14.journalists.org/suggestion-box/faq/) | Chicago, IL | Sept. 25-27th | Speaker (pending)
 [OKFN](http://2014.okfestival.org/) | Berlin | July 15-17 | Speaker (pending)
 [MIT Civic Media](http://civic.mit.edu/) | Boston | July 20-25th | Open News Attendee
