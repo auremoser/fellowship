@@ -15,6 +15,7 @@ IFES | JS/Highcharts | [Ifes Repo](https://github.com/auremoser/ifes) | project 
 Tullow | JS/FusionTables | [Tullow Project](https://github.com/auremoser/fellowship/tree/master/projects/%5BIN%5DTullow) | project to track employment data throughout Nairobi in various industry
 BRCK | HTML/CSS, Google Apps Script | [BRCK Repo](https://github.com/auremoser/brck) | project to visualize the brck google form data for weekly team chats, via bar charts and simple team member answer cards; quick sketch
 Savannah Fund | HTML/CSS | Repo (forthcoming | project to visualize founder data for Savannah Fund VC project in 7 countries worldwide
+[HIV@30](https://github.com/internews-ke/hiv-30) | project to parse through 30 years of articles in the Daily Nation related to HIV and visualize the key semantic trends and conversation nodes throughout this period in Africa | sed, chambua, JS/HTML/CSS | 
  
 
 
