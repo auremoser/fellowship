@@ -585,6 +585,15 @@ Went to Malindi and Naivasha last week, was brilliant, with limited internet :/
 * Updated Data Journalism Curriculum for Eva's Approval
 * Worked on Sed cleaning notes for HIV@30 Project
 * Setup internews [github repository](https://github.com/internews-ke/hiv-30) for the HIV@30 project
+* *call with Dan and Erika about responsibilities at Internews
+
+###CREATE
+* Worked on Savannah Fund Data Vis
+* Read through epic documentation for HIV@Aids research at Internews
+* Worked on presentation for media hack days
+* sed blog post for open news
+
+
 
 
 
