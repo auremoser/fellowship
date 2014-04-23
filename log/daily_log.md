@@ -593,6 +593,12 @@ Went to Malindi and Naivasha last week, was brilliant, with limited internet :/
 * Worked on presentation for media hack days
 * sed blog post for open news
 
+###COLLAB
+* Email Jake/Max/Vanessa
+* Play with Crisis Net
+
+
+
 
 
 
