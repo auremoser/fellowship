@@ -598,6 +598,41 @@ Went to Malindi and Naivasha last week, was brilliant, with limited internet :/
 * Play with Crisis Net
 
 
+--------
+Thank you Erik for the kind Intro!
+
+ 
+
+Aurelia,
+
+ 
+
+Thanks so much for the quick follow up. As Erik mentioned we do micro crop insurance for around 200,000 farmers in Kenya and Rwanda. Attached a short background.
+
+ 
+
+We make it work by using satellite data to monitor droughts on a 10x10km grid across these countries and use very simple SMS to get farmers to send us their location (and a bit more complex technology from our MNO partners to give us their GPS). We link the date and location of the sms to the rainfall and then we payout to these farmers using MPESA. I’m attaching a diagram of this product and a map showing sign ups we did in its first run this season. The product is going to expand to Rwanda and Tanzania later this year and we expect it to have 250,000 users by the year end.
+
+ 
+
+I’ve been asked to give a TED talk on this and our work in general and would love to make a visualization of how it works but its difficult to make all that data work in just words…. Ideally I’d like to show that the sign ups happen over time (see the sample data file) and then add the rainfall records to show how that then triggers the payouts in different locations.
+
+ 
+
+The impact is that these payouts allow farmers to replant as well as get new loans/ or debt forgiveness from their banks.
+
+ 
+
+Happy to talk to you over the phone/skype when you are back on solid ground.
+
+ 
+
+Kind regards,
+
+ 
+
+Rose
+
 
 
 
