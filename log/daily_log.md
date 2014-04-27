@@ -618,8 +618,14 @@ Dropbox for storage
 Skype for chat and alt IRC for community management
 Google Refine
 
-
-
+##4/28/2014
+Weekly Updates:
+Flew back (Nairobi -> NYC) last week, two days on planes :/
+Mozilla Community call prep and blogposts forthcoming
+Working on lots of Internews Projects: HIV@30, general website timeline for the organization, curriculum for the fellowship program they host in the summer
+Worked on Savannah Fund visualizations and vis for Rose Goslinga’s ted talk
+Daudi + Jon ~ sent the HD on Friday, should arrive next week Thursday, UPS Ground tracking number: 1z3E876Y0318343857
+Worked on presentation for Media Hack Days in Denmark, where I’ll be next week as of Wednesday through May 5th.
 
 
 
