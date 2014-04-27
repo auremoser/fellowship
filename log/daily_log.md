@@ -599,6 +599,24 @@ Went to Malindi and Naivasha last week, was brilliant, with limited internet :/
 
 
 --------
+Media Hack Days presentation
+Developer journalist stats:
+http://www.niemanlab.org/2012/11/luring-developers-into-the-newsroom-a-new-class-of-knight-mozilla-fellows-tries-to-bridge-a-cultural-divide/
+
+News Apps dev: http://strata.oreilly.com/2012/03/profile-of-the-data-journalist.html
+
+Names: http://www.pbs.org/idealab/2010/04/programmer-journalist-hacker-journalist-our-identity-crisis107/
+
+Jobs: https://source.opennews.org/en-US/jobs/
+
+Developer-Journalist invasion: http://gawker.com/5448635/hack-to-hacker-rise-of-the-journalist-programmer
+
+Data Toolkit
+RVM + Python
+Git for versioning
+Dropbox for storage
+Skype for chat and alt IRC for community management
+Google Refine
 
 
 
