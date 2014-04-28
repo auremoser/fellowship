@@ -627,8 +627,10 @@ Worked on Savannah Fund visualizations and vis for Rose Goslinga’s ted talk
 Daudi + Jon ~ sent the HD on Friday, should arrive next week Thursday, UPS Ground tracking number: 1z3E876Y0318343857
 Worked on presentation for Media Hack Days in Denmark, where I’ll be next week as of Wednesday through May 5th.
 
-
-
+###TODO
+* share more visual examples of how to view overview tags
+* finish timeline and email group
+* finish batch analysis of
 
 
 
