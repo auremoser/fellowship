@@ -191,4 +191,17 @@ Results by file (two per year):
 * Later (late 80s) news coverage addresses more "family planning" and "women's" associations as aids is viewed more in the context of prevention as opposed to hysteria and accusation
 
 
+-------------------
+##Updates for Mass Cleaning (4/28/14)
+Python script to wrap file content in json can be found in the `fellowship/projects/[IN]HIV/` folder. This script uses Python in stead of sed/terminal hacks because I need to wrap each .txt file in text:{} or a JSON wrapper for Chambua, and encoding contend to be valid JSON is complicated, moreso than wrapping the file contents with a string. 
+
+###Process:  
+
+* Make a copy of all your files. 
+* To execute the file, simple place it in your directory with all your txt files, execute with this command:
+./wrap_json
+* Make sure that the file has the right permissions to execute, if not, re-permission with `chmod` in Terminal.
+
+
+
 
