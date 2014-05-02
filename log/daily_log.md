@@ -618,6 +618,8 @@ Dropbox for storage
 Skype for chat and alt IRC for community management
 Google Refine
 
+
+
 ##4/28/2014
 Weekly Updates:
 Flew back (Nairobi -> NYC) last week, two days on planes :/
@@ -632,6 +634,10 @@ Worked on presentation for Media Hack Days in Denmark, where I’ll be next week
 * finish timeline and email group
 * finish batch analysis of
 
+###CREATE
+* Timeline Color palette: http://www.colourlovers.com/palette/1686394/[gm]yugao?widths=0
+* Updated Timeline for HIV@30 project, [Demo here](http://internews-ke.github.io/hiv-30/)
+* Updated python script to make json object out of .txt files for Chambua, [Code Here](https://github.com/auremoser/fellowship/blob/master/projects/%5BIN%5DHIV/wrap_json)
 
 
 
