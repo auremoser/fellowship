@@ -15,10 +15,10 @@ IFES | JS/Highcharts | [Ifes Repo](https://github.com/auremoser/ifes) | project 
 Tullow | JS/FusionTables | [Tullow Project](https://github.com/auremoser/fellowship/tree/master/projects/%5BIN%5DTullow) | project to track employment data throughout Nairobi in various industry
 BRCK | HTML/CSS, Google Apps Script | [BRCK Repo](https://github.com/auremoser/brck) | project to visualize the brck google form data for weekly team chats, via bar charts and simple team member answer cards; quick sketch
 Savannah Fund | HTML/CSS | Repo (forthcoming | project to visualize founder data for Savannah Fund VC project in 7 countries worldwide
-[HIV@30](https://github.com/internews-ke/hiv-30) | project to parse through 30 years of articles in the Daily Nation related to HIV and visualize the key semantic trends and conversation nodes throughout this period in Africa | sed, chambua, JS/HTML/CSS | 
+HIV@30| sed, chambua, JS/HTML/CSS | [Repo here](https://github.com/internews-ke/hiv-30) |  project to parse through 30 years of articles in the Daily Nation related to HIV and visualize the key semantic trends and conversation nodes throughout this period in Africa   
+GeoNewsies | HTML/CSS/JS/Java | [Geonewsies Project](https://github.com/auremoser/geonewsies/) with code, links, PLAY store download of native app | project to provide quick mainstream and social media trending links on a country level, for the traveler or curious journalist, built as part of the Media Hack Days Hackathon in Denmark (May 2014)
+
  
-
-
 
 ###Conferences
 
@@ -28,8 +28,8 @@ Conference | Location | Date | Role
 [Women TechMakers Summit](http://womentechmakers.com/) | NYC | Mar 14 | Attendee
 [Edge Conference](http://edgeconf.com/2014-london) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
-[MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | March31-April 4 | Mentor/Speaker
-[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | Speaker
+[MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March31-April 4 | Mentor/Speaker
+[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | Speaker + Hackathon Participant
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Attendee
 [OKFN](http://2014.okfestival.org/) | Berlin | July 15-17 | Speaker (pending)
 [Hope X](http://www.hope.net/) | NYC | July 18-20 | Speaker
