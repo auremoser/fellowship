@@ -632,7 +632,11 @@ Worked on presentation for Media Hack Days in Denmark, where I’ll be next week
 ###TODO
 * share more visual examples of how to view overview tags
 * finish timeline and email group
-* finish batch analysis of
+* finish batch analysis of chambua
+* github tutorial - internews
+* read internews docs
+* finish sed blog post
+* make geonewsies live link redirect
 
 ###CREATE
 * Timeline Color palette: http://www.colourlovers.com/palette/1686394/[gm]yugao?widths=0

@@ -28,8 +28,8 @@ Conference | Location | Date | Role
 [Women TechMakers Summit](http://womentechmakers.com/) | NYC | Mar 14 | Attendee
 [Edge Conference](http://edgeconf.com/2014-london) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
-[MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March31-April 4 | Mentor/Speaker
-[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | Speaker + Hackathon Participant
+[MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March31-April 4 | Mentor/[Speaker](http://auremoser.github.io/mavc/)
+[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | [Speaker](https://github.com/auremoser/mhd) + Hackathon Participant
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Attendee
 [OKFN](http://2014.okfestival.org/) | Berlin | July 15-17 | Speaker (pending)
 [Hope X](http://www.hope.net/) | NYC | July 18-20 | Speaker
