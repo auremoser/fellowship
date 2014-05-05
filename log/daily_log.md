@@ -638,6 +638,13 @@ Worked on presentation for Media Hack Days in Denmark, where I’ll be next week
 * Timeline Color palette: http://www.colourlovers.com/palette/1686394/[gm]yugao?widths=0
 * Updated Timeline for HIV@30 project, [Demo here](http://internews-ke.github.io/hiv-30/)
 * Updated python script to make json object out of .txt files for Chambua, [Code Here](https://github.com/auremoser/fellowship/blob/master/projects/%5BIN%5DHIV/wrap_json)
+* Media Hack days 
+* Meeting with Robbie and Woody this week  to talk about V3 vis and converting the IFES stuffs to V3 utility...whoot  
+* Worked on a timeline for Internews 
+Working on HIV@30, woefully behind because of the Danish Open News Conference   
+* I owe C+J a dispatch about CrisisNet ideas! Excited about that.  
+*Also, this weekend rocked a conference talk (Demo | Code), and won the subsequent hackathon for best implementation of the Guardian API, whaaat? yes (Code+Docs | Links to the webapp, android app and play store push are in the repo whoooot)
+And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives Sharon for making me look classy at a hackathon): http://www.information.dk/mediahackdays/496200 ←----THIS ONE IS THE IMPORTANT ONE.
 
 
 
