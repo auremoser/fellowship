@@ -653,6 +653,7 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 ###COLLAB
 * worked with Woody to set up email and gist with features for v3 <https://gist.github.com/auremoser/0932c44a095b3795caec>
 * worked with Savannah fund folk to setup some initial parallel coordinates visualizations
+* writing draft of blog post about SED/AWK
 
 
 
