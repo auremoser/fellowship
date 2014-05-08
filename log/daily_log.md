@@ -647,14 +647,17 @@ Worked on presentation for Media Hack Days in Denmark, where I’ll be next week
 * Worked on a timeline for Internews 
 Working on HIV@30, woefully behind because of the Danish Open News Conference   
 * I owe C+J a dispatch about CrisisNet ideas! Excited about that.  
-*Also, this weekend rocked a conference talk (Demo | Code), and won the subsequent hackathon for best implementation of the Guardian API, whaaat? yes (Code+Docs | Links to the webapp, android app and play store push are in the repo whoooot)
+* Also, this weekend rocked a conference talk (Demo | Code), and won the subsequent hackathon for best implementation of the Guardian API, whaaat? yes (Code+Docs | Links to the webapp, android app and play store push are in the repo whoooot)
 And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives Sharon for making me look classy at a hackathon): http://www.information.dk/mediahackdays/496200 ←----THIS ONE IS THE IMPORTANT ONE.
+* created [Savannah Fund Repo](https://github.com/auremoser/savannah) for test vize
+* Wrote back to Rose about playing with here MPesa data this weekend.
 
 ###COLLAB
 * worked with Woody to set up email and gist with features for v3 <https://gist.github.com/auremoser/0932c44a095b3795caec>
 * worked with Savannah fund folk to setup some initial parallel coordinates visualizations
 * writing draft of blog post about SED/AWK\
 * looked into adding Internews to the [Global Investigative Journalism Network](http://gijn.org/member/)
+
 
 
 
