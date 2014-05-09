@@ -657,6 +657,7 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 * worked with Savannah fund folk to setup some initial parallel coordinates visualizations
 * writing draft of blog post about SED/AWK\
 * looked into adding Internews to the [Global Investigative Journalism Network](http://gijn.org/member/)
+* added creative commons licensing to Landquest for standard pickup
 
 
 
