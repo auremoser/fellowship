@@ -660,7 +660,18 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 * added creative commons licensing to Landquest for standard pickup
 
 
+##5/10/14
+###CATCHUP
 
+###CREATE 
+* ~~share more visual examples of how to view overview tags~~
+* finish timeline and email group
+* finish batch analysis of chambua
+* ~~github tutorial - internews~~
+* ~~finish sed blog post~~
+* ~~make geonewsies live link redirect~~
+* worked on chambua automation script in python
+###COLLAB
 
 
 
