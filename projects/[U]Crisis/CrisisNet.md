@@ -31,6 +31,7 @@ June 2nd - new .com
 ##IDEAS
 * geonewsies instance for CrisisNet
 * twitter timeline data
+* something that uses [pathgl](http://pathgl.com/)
 * something with syria (reached out to grace about doing a collab article), something like the westgate retrospective: <http://lstout.github.io/westgate/html/>
 * hook in with the fbook Causes: https://apps.facebook.com/causes/?fb_source=bookmark&ref=bookmarks&count=0&fb_bmpos=5_0 stuff and see what you can catalyze in terms of responsiveness to crisis 
 
@@ -38,6 +39,9 @@ June 2nd - new .com
 * Public: <http://crisis.net/>
 * Dev Version: <http://dev.crisis.net/>
 * Query Builder: <http://dev.crisis.net/explore/>
+* Syria Content: <http://devapi.crisis.net/item?placeName=syria>
+* Tweet Cred: <http://twitdigest.iiitd.edu.in/TweetCred/developers.html>
+* API docs: <http://devapi.crisis.net/>
 * API calls: <http://nbviewer.ipython.org/gist/chrisalbon/a69538c5926fcfa476db>
 * Syria: <http://www.vdc-sy.info/index.php/en/
 * http://nbviewer.ipython.org/gist/chrisalbon/49a45a2d2235b00b8ae3>
