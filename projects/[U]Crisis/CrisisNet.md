@@ -32,6 +32,7 @@ June 2nd - new .com
 * geonewsies instance for CrisisNet
 * twitter timeline data
 * something with syria (reached out to grace about doing a collab article), something like the westgate retrospective: <http://lstout.github.io/westgate/html/>
+* hook in with the fbook Causes: https://apps.facebook.com/causes/?fb_source=bookmark&ref=bookmarks&count=0&fb_bmpos=5_0 stuff and see what you can catalyze in terms of responsiveness to crisis 
 
 ##Links
 * Public: <http://crisis.net/>
