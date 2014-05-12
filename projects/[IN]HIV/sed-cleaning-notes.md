@@ -203,6 +203,51 @@ Python script to wrap file content in json can be found in the `fellowship/proje
 * Make sure that the file has the right permissions to execute, if not, re-permission with `chmod` in Terminal.
 
 
+-------------
+##Updates for Mass Processing (5/12/14)
+Edited the python scripts to wrap .txt files in a json object ({text:''})
+Updated script to run chambua via curl on all files in a directory
+
+###Process
+* Make a copy of all your files (just in case)
+* You should have a directory of .docx extension files with names like 32DN08022013.docx; we want to convert these to .txt, date-sortable files
+* Navigate into the desired directory in terminal: `cd ~/Desktop/HIVat30/1980s`    
+
+1.  #####CONVERT EXTENSION  
+`textutil -convert txt /Users/aurelia/Desktop/rename-test/*.docx`
+2. #####RESTRUCTURE FILE NAMES
+In this case, I am reading into a directory (paty/to/files) and piping it to a sed script which will rename them according to a set structure.
+To test the script in terminal:
+`ls ~/Desktop/rename-batch | sed 's/\(....\)\(..\)\(..\)\(..\)/\4\3\2\1/'`
+To execute the tested script once satisfied with the results:
+`ls *.txt | sed -e 's/\(....\)\(..\)\(..\)\(..\)/mv \1\2\3\4.txt \4\3\2\1/' | sh`
+* #####ELIMINATE HYPHENS IN TEXT BODY
+Column layout for articles inserts a lot of unnecessary hyphens in our text
+Edit files in place (-i) replace '-' with space (//) globally (g) in all .txt files.
+
+`sed -i s/-//g' .txt`
+
+`ls *.txt | sed -i 's/-//g'| sh` 
+
+`for file in *.txt; do sed -i '' 's/-/ /g' $file; done`[^2]
+
+[^2] Using a new method for a few reasons: First, on mac, sed errors out with the sed: 1: "...": invalid command code. I think it's expecting an extension or something, so we just pass it an empty string ''.
+
+Second, it wanted a file name to write to, the only way I could make it work was by using a for loop instead of an ls and piping the output. We do the for loop and get a handle to the filename; do for file in *.txt, we are storing the name in the variable file, and then we can reference it by appending the $ sign, $file.  
+
+* #####RUN CHAMBUA FOR TAG EXTRACT
+Make another directory for the output files: `mkdir output`  
+Download [scripts from github](https://github.com/internews-ke/hiv-30/tree/master/Sentiment_Analysis/python) and add them to your folder/directory  
+Run script to wrap files in a json text object (required for Chambua to process them):  `python wrap_json.py`
+Run script to go over each file in the directory and output files   
+`python send_json.py -o output/`
+
+What results is a list of extracted people/places/institions from each of the articles in each of the directories (or in this case, decades) analyzed.
+
+###Observations
+
+
+
 
 
 
