@@ -662,6 +662,8 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 
 ##5/10/14
 ###CATCHUP
+* worked on Chambua scripts for internews directories for meeting on 5/12
+* worked on updating the tiki toki timeline according to agnes' specs
 
 ###CREATE 
 * ~~share more visual examples of how to view overview tags~~

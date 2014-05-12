@@ -211,7 +211,7 @@ Updated script to run chambua via curl on all files in a directory
 ###Process
 * Make a copy of all your files (just in case)
 * You should have a directory of .docx extension files with names like 32DN08022013.docx; we want to convert these to .txt, date-sortable files
-* Navigate into the desired directory in terminal: `cd ~/Desktop/HIVat30/1980s`    
+* Navigate into the desired directory in terminal: `cd ~/Desktop/HIVat30/1980s` (for example)   
 
 1.  #####CONVERT EXTENSION  
 `textutil -convert txt /Users/aurelia/Desktop/rename-test/*.docx`
