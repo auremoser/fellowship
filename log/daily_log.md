@@ -664,6 +664,7 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 ###CATCHUP
 * worked on Chambua scripts for internews directories for meeting on 5/12
 * worked on updating the tiki toki timeline according to agnes' specs
+* downloaded test files from HIV@30 dropbox for 1980s-1990s to test chambua python scripts
 
 ###CREATE 
 * ~~share more visual examples of how to view overview tags~~
@@ -674,6 +675,7 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 * ~~make geonewsies live link redirect~~
 * worked on chambua automation script in python
 ###COLLAB
+* brainstormed how to do something for crisis net, [notes here](https://github.com/auremoser/fellowship/blob/master/projects/%5BU%5DCrisis/CrisisNet.md)
 
 
 
