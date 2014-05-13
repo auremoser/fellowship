@@ -674,8 +674,12 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 * ~~finish sed blog post~~
 * ~~make geonewsies live link redirect~~
 * worked on chambua automation script in python
+* applied to speak at the edge conference
+
+
 ###COLLAB
 * brainstormed how to do something for crisis net, [notes here](https://github.com/auremoser/fellowship/blob/master/projects/%5BU%5DCrisis/CrisisNet.md)
+* demoed timline for HIV@30 project at Tuesday meeting and then added chambua analysis to eva's work
 
 
 
