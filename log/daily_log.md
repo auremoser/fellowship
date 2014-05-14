@@ -668,11 +668,11 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 
 ###CREATE 
 * ~~share more visual examples of how to view overview tags~~
-* finish timeline and email group
+* ~~finish timeline and email group~~
 * finish batch analysis of chambua
 * ~~github tutorial - internews~~
 * ~~finish sed blog post~~
-* ~~make geonewsies live link redirect~~
+* make geonewsies live link redirect
 * worked on chambua automation script in python
 * applied to speak at the edge conference
 
@@ -683,6 +683,22 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 
 ###CONSIDERING
 * Considering Panama Network for Chambua Visualizations: <https://github.com/poderopedia/panama-network>
+
+TO DOS:
+
+* savannah fund
+* nigeria crisis net
+* contact people for crisisnet project update doc in fellowship/projects/[U]CrisisNet
+* add to folder in curriculum - Internews
+* update timeline for HIV Project
+* finish chambua analysis and explore panama project
+* apply for SRCCON talk
+* presentations for EYEO, 
+* blog for Media Hack Days
+* talk to Jonathon (crisisnet)
+* talk to Erin Kissane
+* talk to Vidya
+
 
 
 
