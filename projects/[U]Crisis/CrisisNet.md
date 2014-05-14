@@ -34,6 +34,23 @@ June 2nd - new .com
 * something that uses [pathgl](http://pathgl.com/)
 * something with syria (reached out to grace about doing a collab article), something like the westgate retrospective: <http://lstout.github.io/westgate/html/>
 * hook in with the fbook Causes: https://apps.facebook.com/causes/?fb_source=bookmark&ref=bookmarks&count=0&fb_bmpos=5_0 stuff and see what you can catalyze in terms of responsiveness to crisis 
+* Nigeria retrospective on GDELT issues
+
+###Nigeria
+#####Sources:
+  
+* [DevComms](http://www.devcomsnetwork.org/index.php/en/)
+* [Global Editor's Network](http://www.globaleditorsnetwork.org/news/2014/05/covering-nigerian-elections/?utm_source=Company+Newsletter&utm_campaign=9805513820-8_May_2014&utm_medium=email&utm_term=0_68e99b1866-9805513820-119554021)
+
+Contacts:
+ICFJ fellows:
+<http://www.icfj.org/about/profiles/declan-okpalaeke> (Reached out on 5/14/14)
+<http://www.icfj.org/about/profiles/cece-modupe-fadope> (Reached out on 5/14/14)
+<http://www.icfj.org/about/profiles/oluseun-onigbinde>
+
+#####Examples:
+[Pakistan](http://www.cfr.org/interactives/CG_Pakistan/#/resources/)
+
 
 ##Links
 * Public: <http://crisis.net/>
