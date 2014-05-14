@@ -698,6 +698,7 @@ TO DOS:
 * talk to Jonathon (crisisnet)
 * talk to Erin Kissane
 * talk to Vidya
+* V3 data vis followup
 
 
 
