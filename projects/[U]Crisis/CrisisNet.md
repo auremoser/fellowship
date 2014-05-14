@@ -50,6 +50,7 @@ ICFJ fellows:
 
 #####Examples:
 [Pakistan](http://www.cfr.org/interactives/CG_Pakistan/#/resources/)
+[NigerDelta Watch](http://www.nigerdeltawatch.org/)
 
 
 ##Links
