@@ -688,14 +688,14 @@ TO DOS:
 
 * savannah fund
 * nigeria crisis net
-* contact people for crisisnet project update doc in fellowship/projects/[U]CrisisNet
+* ~~contact people for crisisnet project update doc in fellowship/projects/[U]CrisisNet~~
 * add to folder in curriculum - Internews
 * update timeline for HIV Project
 * finish chambua analysis and explore panama project
 * apply for SRCCON talk
-* presentations for EYEO, 
+* presentations for EYEO, HOPE X
 * blog for Media Hack Days
-* talk to Jonathon (crisisnet)
+* ~~talk to Jonathon (crisisnet)~~
 * talk to Erin Kissane
 * talk to Vidya
 * V3 data vis followup
