@@ -41,11 +41,12 @@ June 2nd - new .com
 * [DevComms](http://www.devcomsnetwork.org/index.php/en/) (Reached out to them, 5/14/14)
 * [Global Editor's Network](http://www.globaleditorsnetwork.org/news/2014/05/covering-nigerian-elections/?utm_source=Company+Newsletter&utm_campaign=9805513820-8_May_2014&utm_medium=email&utm_term=0_68e99b1866-9805513820-119554021)
 * [AllAfrica](http://allafrica.com/): It has a local office in Lagos. Allafrica aggregates information including on conflict issues, from news organizations all over Nigeria. - Link to RSS URL FOR NIGERIA: <http://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf>
+* Open Society Institute of West Africa (OSIWA) headquartered in Abuja, Nigeria (reached out to Maxwell Kadiri 5/16/14)
 
   
 * Rory (Juliana's Recommendation): rory@stakeholderdemocracy.org (Reached out on 5/13/14)
-* Maxwell @ open society foundation in Abuja maxwell.kadiri@opensocietyfoundations.org
-* 
+* Maxwell @ open society foundation (Cece Fandope) in Abuja: maxwell.kadiri@opensocietyfoundations.org (Reached out on 5/15/14)
+* Peter (Cece Fandope): peter.egbule@wangonet.org (Reached out on 5/15/14)
 
 ICFJ fellows:
   
