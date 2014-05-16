@@ -680,6 +680,8 @@ And I was in the Danish media (wearing Sharon’s earrings no less!!! *hifives S
 ###COLLAB
 * brainstormed how to do something for crisis net, [notes here](https://github.com/auremoser/fellowship/blob/master/projects/%5BU%5DCrisis/CrisisNet.md)
 * demoed timline for HIV@30 project at Tuesday meeting and then added chambua analysis to eva's work
+* reached out to more crisisNEt folks
+* drafted blog post on DR experience
 
 ###CONSIDERING
 * Considering Panama Network for Chambua Visualizations: <https://github.com/poderopedia/panama-network>
