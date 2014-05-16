@@ -706,6 +706,10 @@ TO DOS:
 
 * Ushahidi team call 5/19: [Updates here](https://docs.google.com/a/ushahidi.com/document/d/1IZqD4CFEhQMAa6QBigbiO_KNE1EopGxVKqUyOIFiQtI/edit#)
 
+####CATCHUP
+* contacted []Infinit.io](http://girldevelopit.com/) (for Harlo and my presentation in July)
+
+
 
 
 
