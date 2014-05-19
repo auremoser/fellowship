@@ -47,6 +47,7 @@ June 2nd - new .com
 * Rory (Juliana's Recommendation): rory@stakeholderdemocracy.org (Reached out on 5/13/14)
 * Maxwell @ open society foundation (Cece Fandope) in Abuja: maxwell.kadiri@opensocietyfoundations.org (Reached out on 5/15/14)
 * Peter (Cece Fandope): peter.egbule@wangonet.org (Reached out on 5/15/14)
+* Oladipo and Emmanuel (Wagonet contacts through peter): emmanuel.egbule@wangonet.org + dfasoro@gmail.com (reached out on 5/19/14)
 
 ICFJ fellows:
   
