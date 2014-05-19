@@ -711,6 +711,12 @@ TO DOS:
 
 ####CATCHUP
 * contacted [Infinit.io](infinit.io)for Harlo and my presentation in July
+* check in with Eva
+* check in with Roary
+
+###COLLAB
+* add peter's contacts to CrisisNet thoughts
+
 
 
 

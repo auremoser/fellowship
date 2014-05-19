@@ -72,4 +72,16 @@ ICFJ fellows:
 * Syria map: <http://dev.crisis.net/projects/syria-tracker/>
 * CrisisNet Blog: <http://crisisnet.ghost.io/>
 * * http://ckan.org/
-* 
+
+
+###Rory's Oil spill monitor
+* blog post tomorrow
+* ushahidi's great for crisis response
+* crisis response -> crisis prevention
+* good open social sphere
+* not monitoring social media
+* election monitoring (2011) -> geolocated for niger delta
+* reasonable news sources in Nigeria
+corruption monitor facebook
+* community submitted stuff on oil spills
+government regulator data of specious integrity
