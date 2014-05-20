@@ -709,13 +709,20 @@ TO DOS:
 
 
 
-####CATCHUP
+###CATCHUP
 * contacted [Infinit.io](infinit.io)for Harlo and my presentation in July
 * check in with Eva
 * check in with Roary
 
+###CREATE
+* authored draft of blog post for geonewsies project
+
+
 ###COLLAB
 * add peter's contacts to CrisisNet thoughts
+* reached out to Audrey about savannah fund data clarification
+* reviewed Rory's document recommendations for Nigeria
+
 
 
 
