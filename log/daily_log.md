@@ -716,6 +716,7 @@ TO DOS:
 
 ###CREATE
 * authored draft of blog post for geonewsies project
+* added update to Phabricator [T49](https://phabricator.ushahidi.com/T49) and [T51](https://phabricator.ushahidi.com/T51)
 
 
 ###COLLAB
