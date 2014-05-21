@@ -30,13 +30,15 @@ Conference | Location | Date | Role
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
 [MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March31-April 4 | Mentor/[Speaker](http://auremoser.github.io/mavc/)
 [Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | [Speaker](https://github.com/auremoser/mhd) + Hackathon Participant
-[EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Attendee
-[OKFN](http://2014.okfestival.org/) | Berlin | July 15-17 | Speaker (pending)
+[EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Ignite Speaker
+~~[OKFN](http://2014.okfestival.org/)~~ | ~~Berlin~~ | ~~July 15-17~~ | ~~Speaker (pending)~~
 [Hope X](http://www.hope.net/) | NYC | July 18-20 | Speaker
-[MIT Civic Media](http://civic.mit.edu/) | Boston | July 20-25th | Open News Attendee
+[MIT Civic Media](http://civic.mit.edu/) | Boston | July 20-25th | Open News Attendee/Ignite speaker
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
-[Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker?
+[SRCCON](http://srccon.org/) | Philadelphia | Jul 24-25 | Speaker
+[Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker (pending)
 [ONA14](http://ona14.journalists.org/suggestion-box/faq/) | Chicago, IL | Sept. 25-27th | Speaker (pending)
+
 
 
 
