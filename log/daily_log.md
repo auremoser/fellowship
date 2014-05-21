@@ -723,7 +723,9 @@ TO DOS:
 * add peter's contacts to CrisisNet thoughts
 * reached out to Audrey about savannah fund data clarification
 * reviewed Rory's document recommendations for Nigeria
-* pitched data to Jonathon Morgan for Election Monitor implementation of Crisis Net 
+* pitched data to Jonathon Morgan for Election Monitor implementation of Crisis Net
+* added conferences to vidya/angie list
+* started brainstorming ushbot and ushblog for team curiosities 
 
 
 
