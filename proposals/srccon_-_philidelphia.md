@@ -11,7 +11,7 @@ There's always a lot of press-stress about interactives that are misleading and 
 
 This will be a session about ways that statistics can be charted and plotted and how to make sure that we bulletproof our data appropriately for interactive projects, as well as a way to talk through process models that we might adopt to make fact-checking and peer review an open and organization-agnostic process. Likewise, distributed newsrooms, remote work, and investigative journalism can upset a traditional data bulletproofing workflow by separating collaborators, so how is a coordinated mentality maintained while negotiating distance developement? 
 
-This session will be about sharing techniques and tools for data munging and going over some standards for representation and collaboration. Beyond citing sources and licensing intents, we'll talk about how we package informations in an interactive story and the protocols for making sure that honest representation is clear and concise in the visual-verbal vocabularies we use to communicate the news.  
+This session will be about sharing techniques and tools for data munging and going over some standards for representation and collaboration. Beyond citing sources and licensing intents, we'll talk about how we package information in an interactive story and the protocols for making sure that honest representation is clear and concise in the visual-verbal vocabularies we use to communicate the news.  
 
 ####Questions:
 
