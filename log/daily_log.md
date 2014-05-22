@@ -726,6 +726,7 @@ TO DOS:
 * pitched data to Jonathon Morgan for Election Monitor implementation of Crisis Net
 * added conferences to vidya/angie list
 * started brainstorming ushbot and ushblog for team curiosities 
+* had check in call with dan sinker (5/22/14)
 
 
 
