@@ -33,7 +33,7 @@ Conference | Location | Date | Role
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Ignite Speaker
 ~~[OKFN](http://2014.okfestival.org/)~~ | ~~Berlin~~ | ~~July 15-17~~ | ~~Speaker (pending)~~
 [Hope X](http://www.hope.net/) | NYC | July 18-20 | Speaker
-[MIT Civic Media](http://civic.mit.edu/) | Boston | July 20-25th | Open News Attendee/Ignite speaker
+[MIT Civic Media](http://civic.mit.edu/) | Boston | June 20-25th | Open News Attendee/Ignite speaker
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
 [SRCCON](http://srccon.org/) | Philadelphia | Jul 24-25 | Speaker
 [Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker (pending)

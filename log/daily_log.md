@@ -706,8 +706,7 @@ TO DOS:
 ##5/19/14  
 
 * Ushahidi team call 5/19: [Updates here](https://docs.google.com/a/ushahidi.com/document/d/1IZqD4CFEhQMAa6QBigbiO_KNE1EopGxVKqUyOIFiQtI/edit#)
-
-
+* team call with vidya and angie (5/21)
 
 ###CATCHUP
 * contacted [Infinit.io](infinit.io)for Harlo and my presentation in July
