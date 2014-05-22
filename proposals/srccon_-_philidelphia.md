@@ -1,5 +1,5 @@
 ##How NOT to Skew with Statistics: 
-####Drafing, Data Bulletproofing, + Tools for Well-*Developed* Stories
+####Drafing, Data Bulletproofing, and Tools for Well-*Developed* Stories
 
 SRCON - Philadelphia - July 2014
 
