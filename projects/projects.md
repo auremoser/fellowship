@@ -31,15 +31,15 @@ Conference | Location | Date | Role
 [MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March31-April 4 | Mentor/[Speaker](http://auremoser.github.io/mavc/)
 [Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | [Speaker](https://github.com/auremoser/mhd) + Hackathon Participant
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Ignite Speaker
+[MIT Civic Media](http://civic.mit.edu/) | Boston | June 20-25th | Open News Attendee/Ignite speaker
 ~~[OKFN](http://2014.okfestival.org/)~~ | ~~Berlin~~ | ~~July 15-17~~ | ~~Speaker (pending)~~
 [Hope X](http://www.hope.net/) | NYC | July 18-20 | Speaker
-[MIT Civic Media](http://civic.mit.edu/) | Boston | June 20-25th | Open News Attendee/Ignite speaker
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
 [SRCCON](http://srccon.org/) | Philadelphia | Jul 24-25 | Speaker
-[Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page) | London | Aug 14 | Speaker (pending)
-[ONA14](http://ona14.journalists.org/suggestion-box/faq/) | Chicago, IL | Sept. 25-27th | Speaker (pending)
+[Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page)* | London | Aug 14 | Speaker (pending)
+[ONA14](http://ona14.journalists.org/suggestion-box/faq/)* | Chicago, IL | Sept. 25-27th | Speaker (pending)
 
-
+"*" haven't posted on Ush calendar
 
 
 Conference activity is also [logged here](https://docs.google.com/spreadsheet/ccc?key=0AuDay9KcwU4YdGdqakNLRGlad1VzVVh0dW5GZHBqbkE&usp=sharing) and proposals are available in the 'proposals' folder of this repository.
