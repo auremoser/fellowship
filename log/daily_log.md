@@ -716,8 +716,8 @@ TO DOS:
 ###CREATE
 * authored draft of blog post for geonewsies project
 * added update to Phabricator [T49](https://phabricator.ushahidi.com/T49) and [T51](https://phabricator.ushahidi.com/T51)
-* added conferences to collab calendar for vidya to comment, others [available here]()
-* submitted a proposal to srccon ()
+* added conferences to collab calendar for vidya to comment, others [available here](https://github.com/auremoser/fellowship/blob/master/projects/projects.md)
+* submitted a [proposal to srccon](https://github.com/auremoser/fellowship/blob/master/proposals/srccon_-_philidelphia.md)
 
 
 ###COLLAB
