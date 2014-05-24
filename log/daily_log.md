@@ -730,7 +730,8 @@ TO DOS:
 * had check in call with dan sinker (5/22/14)
 
 
-
+##5/23/14
+Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5OwK8b3JL3R-4h-I34qJ-5G-me-ci11zLhKyk/edit#)
 
 
 
