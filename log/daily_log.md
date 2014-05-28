@@ -739,8 +739,10 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 * pointed erika @open news to information organization sites
 
 ###COLLAB
+* updated open news call pad
+* send erika email about mentorship with Buenos Aires hacklabs
 
-###
+###CREATE
 
 
 
