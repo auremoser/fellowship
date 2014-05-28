@@ -733,6 +733,14 @@ TO DOS:
 ##5/23/14
 Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5OwK8b3JL3R-4h-I34qJ-5G-me-ci11zLhKyk/edit#)
 
+###CATCHUP
+* commented on Jonathon's blogpost
+* sent jonathon new crisis net ideas -> possibly something on the disappeared
+* pointed erika @open news to information organization sites
+
+###COLLAB
+
+###
 
 
 
