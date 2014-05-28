@@ -738,11 +738,19 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 * sent jonathon new crisis net ideas -> possibly something on the disappeared
 * pointed erika @open news to information organization sites
 
+
 ###COLLAB
 * updated open news call pad
 * send erika email about mentorship with Buenos Aires hacklabs
 
 ###CREATE
+* incorporate Aggrey's date notes
+* finish chambua analysis
+* run Jonathon Stray's script
+* test with poderopedia
+* upload workshop curricula
+* FINISH EYEO PRESENTATION
+* BLOG POST ABOUT DENMARK!!
 
 
 
