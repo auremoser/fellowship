@@ -742,6 +742,7 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 ###COLLAB
 * updated open news call pad
 * send erika email about mentorship with Buenos Aires hacklabs
+* met with nat
 
 ###CREATE
 * incorporate Aggrey's date notes
