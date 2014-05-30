@@ -737,6 +737,7 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 * commented on Jonathon's blogpost
 * sent jonathon new crisis net ideas -> possibly something on the disappeared
 * pointed erika @open news to information organization sites
+* fixed geonewsies url forwarding for new blog post: http://geonewsi.es/
 
 
 ###COLLAB
