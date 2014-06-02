@@ -753,6 +753,8 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 * upload workshop curricula
 * FINISH EYEO PRESENTATION
 * BLOG POST ABOUT DENMARK!!
+* worked on [parallel coords graph](https://github.com/auremoser/savannah)
+* worked on poderopedia prototype, decided on [pop-out force direction]
 
 
 
