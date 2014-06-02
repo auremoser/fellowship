@@ -744,6 +744,7 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 * updated open news call pad
 * send erika email about mentorship with Buenos Aires hacklabs
 * met with nat
+* registered for Digital Preservation Summit Presentation on July 23rd, morning
 
 ###CREATE
 * incorporate Aggrey's date notes
