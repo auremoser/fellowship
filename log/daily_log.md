@@ -758,7 +758,11 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 * worked on poderopedia prototype, decided on [pop-out force direction] Python script to transform chambua [data here](https://github.com/internews-ke/hiv-30/blob/master/Sentiment_Analysis/python/make_cfl_struct.py)
 
 
-
+To Do: 
+* I can send a message to the Open News fellows too (stationed at the NYTimes, ProPublica, Texas Tribune, La Nacion), about CrisisNet launch
+* test chambua
+* savannah viz
+* 
 
 
 
