@@ -767,6 +767,17 @@ To Do:
 * archive panel outline
 * archive panel travel arrangments
 
+###CREATE
+* Uploaded python script to format data for chambua (hiv@30 repo)
+* Wrote notes doc, in the `notes` folder of Sentiment_Analysis to show progress to this point
+
+###COLLAB
+* booked travel for SRCCON + Digital Preservation/ Receipts submission
+* External Projects meeting midweek
+* sent savannah fund visualizations off
+
+
+
 
 
 

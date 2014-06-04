@@ -16,3 +16,10 @@ Nigeria Oil Spill Monitor: https://oilspillmonitor.ng/
 
 Late'y, 
 Follow this repo for updates about Internews Projects: https://github.com/internews-ke/hiv-30
+
+When we think about endurance and the persistance of applications, we sometimes think about the ephemerality of our work. What happens when the horserace is over; how will we remember our efforts? We're tackling that next month at the Digital Preservation Conference 2014.
+
+persistance of applications:
+http://www.consumerreports.org/cro/news/2011/10/the-light-bulb-conspiracy-probes-planned-obsolescence/index.htm
+
+https://en.wikipedia.org/wiki/Oxford_Electric_Bell
