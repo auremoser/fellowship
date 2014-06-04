@@ -14,7 +14,7 @@ Ushaverse | JS/D3 | [Ushaverse](https://github.com/auremoser/ushaverse) | projec
 IFES | JS/Highcharts | [Ifes Repo](https://github.com/auremoser/ifes) | project w/ ushahidi to build custom charts visualizing admin stats for election monitoring, designed for yemen but extensible in various deployment countries pre-election [demo here](http://auremoser.github.io/ifes/) 
 Tullow | JS/FusionTables | [Tullow Project](https://github.com/auremoser/fellowship/tree/master/projects/%5BIN%5DTullow) | project to track employment data throughout Nairobi in various industry
 BRCK | HTML/CSS, Google Apps Script | [BRCK Repo](https://github.com/auremoser/brck) | project to visualize the brck google form data for weekly team chats, via bar charts and simple team member answer cards; quick sketch
-Savannah Fund | HTML/CSS | Repo (forthcoming | project to visualize founder data for Savannah Fund VC project in 7 countries worldwide
+Savannah Fund | HTML/CSS | [Repo here](https://github.com/auremoser/savannah) | project to visualize founder data for Savannah Fund VC project in 7 countries worldwide, [demo here](http://auremoser.github.io/savannah/)
 HIV@30| sed, chambua, JS/HTML/CSS | [Repo here](https://github.com/internews-ke/hiv-30) |  project to parse through 30 years of articles in the Daily Nation related to HIV and visualize the key semantic trends and conversation nodes throughout this period in Africa   
 GeoNewsies | HTML/CSS/JS/Java | [Geonewsies Project](https://github.com/auremoser/geonewsies/) with code, links, PLAY store download of native app | project to provide quick mainstream and social media trending links on a country level, for the traveler or curious journalist, built as part of the Media Hack Days Hackathon in Denmark (May 2014)
 
