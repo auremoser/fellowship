@@ -759,17 +759,20 @@ Team [updates gdoc](https://docs.google.com/a/ushahidi.com/document/d/1i0R28z5Ow
 
 
 ##6/3/14
-Weekly update [Doc Here](https://docs.google.com/a/ushahidi.com/document/d/1SYPqeZx6qE3zXkjzBrS5GO3uPPj2m-6tuoiYM0SEDDE/edit#)
+Team Updates [Doc Here](https://docs.google.com/a/ushahidi.com/document/d/1SYPqeZx6qE3zXkjzBrS5GO3uPPj2m-6tuoiYM0SEDDE/edit#)
+
 To Do: 
 * I can send a message to the Open News fellows too (stationed at the NYTimes, ProPublica, Texas Tribune, La Nacion), about CrisisNet launch
 * test chambua
-* savannah viz
+* ~~savannah viz~~
 * archive panel outline
 * archive panel travel arrangments
+* send sara updates on data possibilities for 
 
 ###CREATE
 * Uploaded python script to format data for chambua (hiv@30 repo)
 * Wrote notes doc, in the `notes` folder of Sentiment_Analysis to show progress to this point
+* Vitals repository
 
 ###COLLAB
 * booked travel for SRCCON + Digital Preservation/ Receipts submission

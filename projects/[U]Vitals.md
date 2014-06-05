@@ -27,11 +27,15 @@ Vital Signs Project
 * Standing water shapefile. Maybe useful if there’s an interest in comparing physical stressors and political/social unrest. http://www.unitar.org/unosat/node/44/1690
 
 ##Examples
+* http://forecast.io/lines/
+* http://blog.forecast.io/forecast-embeds/
 
 ##References
 * [Vital Press Release](http://www.conservation.org/newsroom/pressreleases/Pages/Global_Tool_to_Gauge_Earths_and_Humanitys_Vital_Signs_Launches_in_Africa.aspx)
+* [Vital Signs](http://vitalsigns.org/files/Vital-Signs-Fact-Sheet-2014.pdf)
 * [Environmental Visualizations](http://publicculture.org/articles/view/26/2/the-aesthetics-of-environmental-visualizations-more-than-information-ecstasy)
 * White paper on indicators
+* [p.34 Dashboard discussion](https://www.dropbox.com/work/External%20Projects/Ushahidi%20Vital%20Signs/Proposals%20and%20meetings)
 
 =====
 <http://www.marketsforgood.org/>
