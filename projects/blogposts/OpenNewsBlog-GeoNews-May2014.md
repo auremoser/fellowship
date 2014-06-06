@@ -23,3 +23,7 @@ persistance of applications:
 http://www.consumerreports.org/cro/news/2011/10/the-light-bulb-conspiracy-probes-planned-obsolescence/index.htm
 
 https://en.wikipedia.org/wiki/Oxford_Electric_Bell
+
+
+###WE FEEL APPLICATION: 
+http://wefeel.csiro.au/#/
