@@ -780,6 +780,8 @@ To Do:
 * booked travel for SRCCON + Digital Preservation/ Receipts submission
 * External Projects meeting midweek
 * sent savannah fund visualizations off
+* sent app archive outline to Ann ([outline](https://etherpad.mozilla.org/UQmtWD5qL5) + [presentation template](http://bit.ly/1kIZ4f2))
+* accepted to do an MIT Civic Media talk at the end of the month
 
 
 
