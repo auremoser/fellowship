@@ -773,6 +773,8 @@ To Do:
 * Uploaded python script to format data for chambua (hiv@30 repo)
 * Wrote notes doc, in the `notes` folder of Sentiment_Analysis to show progress to this point
 * Vitals repository
+* Wrote first draft of a blog post about geo-newsies and tweet emotions
+* applied for a HOPE-X radio segment and privacy and data journalism [http://radio.hope.net/]
 
 ###COLLAB
 * booked travel for SRCCON + Digital Preservation/ Receipts submission
