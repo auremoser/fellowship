@@ -783,6 +783,9 @@ To Do:
 * sent app archive outline to Ann ([outline](https://etherpad.mozilla.org/UQmtWD5qL5) + [presentation template](http://bit.ly/1kIZ4f2))
 * accepted to do an MIT Civic Media talk at the end of the month
 
+##6/8/14
+
+Weekly update [here](https://docs.google.com/a/ushahidi.com/document/d/10R_7PuNePt_95ei4DTpLucZzVF-52GAqM1QaZdqGnJs/edit#)
 
 
 
