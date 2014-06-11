@@ -786,6 +786,11 @@ To Do:
 ##6/8/14
 
 Weekly update [here](https://docs.google.com/a/ushahidi.com/document/d/10R_7PuNePt_95ei4DTpLucZzVF-52GAqM1QaZdqGnJs/edit#)
+Open News Update [here](https://etherpad.mozilla.org/opennews-calls-June11)
+
+###CATCHUP
+###CREATE
+###COLLAB
 
 
 
