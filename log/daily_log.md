@@ -789,6 +789,12 @@ Weekly update [here](https://docs.google.com/a/ushahidi.com/document/d/10R_7PuNe
 Open News Update [here](https://etherpad.mozilla.org/opennews-calls-June11)
 
 ###CATCHUP
+* Finish Savannah Fund visualization
+* Vital Signs project
+* Ushahidi V3 Data Viz
+* Disappeared project CrisisNET
+* Chambua Project for Internews
+* Talk for MIT Civic Media
 ###CREATE
 ###COLLAB
 
