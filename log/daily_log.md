@@ -792,7 +792,7 @@ Open News Update [here](https://etherpad.mozilla.org/opennews-calls-June11)
 * Finish Savannah Fund visualization
 * Vital Signs project
 * Ushahidi V3 Data Viz
-* Disappeared project CrisisNET
+* Disappeared project CrisisNET- got data, need to process it post-vital signs
 * Chambua Project for Internews
 * Talk for MIT Civic Media
 ###CREATE
