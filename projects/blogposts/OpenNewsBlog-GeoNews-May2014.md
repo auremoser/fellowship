@@ -27,3 +27,6 @@ https://en.wikipedia.org/wiki/Oxford_Electric_Bell
 
 ###WE FEEL APPLICATION: 
 http://wefeel.csiro.au/#/
+
+Twitter censorship:
+https://www.eff.org/deeplinks/2014/05/twitter-steps-down-free-speech-party

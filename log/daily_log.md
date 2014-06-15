@@ -796,7 +796,13 @@ Open News Update [here](https://etherpad.mozilla.org/opennews-calls-June11)
 * Chambua Project for Internews
 * Talk for MIT Civic Media
 ###CREATE
+*[Vital Signs Repo](https://github.com/auremoser/vital-signs)
 ###COLLAB
+* Met with Eyeo folks, worked on eyeo stuff
+* Gave talk
+* Submitted Ignite slides to MIT Civic Media next week
+* Submitted paperwork to lawyers about HOPE-X
+* Accepted to teach a session on data cleaning at SRCCON
 
 
 

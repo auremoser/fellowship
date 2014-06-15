@@ -46,3 +46,9 @@ SVA (Syria)
 Nate Haken
 EdoState Conflict group
 CrisisMappers in Nigeria (Abuja)
+
+
+======
+VS!provides!quantitative!measurements,!metrics,!and!decision?support!indicators!
+and!tools!to!help!ensure!that!agricultural!development!does!not!degrade!natural!systems!and!
+the!services!they!provide.
