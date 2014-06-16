@@ -807,6 +807,11 @@ Open News Update [here](https://etherpad.mozilla.org/opennews-calls-June11)
 ##6/16/14
 Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9ePBUDzuIPOUiSTbc09Ivh1F2hJaSjHpxhCOw/edit#)
 
+###CATCHUP
+* Made spreadsheet of data types for Vital Signs [in github](https://github.com/auremoser/vital-signs/blob/master/assets/VS-data_inventory.csv)
+* Worked on ideas for Vital Signs visualization buckets [here](https://docs.google.com/a/ushahidi.com/document/d/1ZNVe_Af1OzyJ7GWRRIyIRm7arWT4I7MHNROmfDXq7a0/edit)
+* Contempated adapting [ushaverse](http://auremoser.github.io/ushaverse/) and [savannah fund](http://auremoser.github.io/savannah/)
+
 
 
 
