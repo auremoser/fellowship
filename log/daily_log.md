@@ -804,7 +804,8 @@ Open News Update [here](https://etherpad.mozilla.org/opennews-calls-June11)
 * Submitted paperwork to lawyers about HOPE-X
 * Accepted to teach a session on data cleaning at SRCCON
 
-
+##6/16/14
+Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9ePBUDzuIPOUiSTbc09Ivh1F2hJaSjHpxhCOw/edit#)
 
 
 
