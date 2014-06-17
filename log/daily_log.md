@@ -809,8 +809,9 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 
 ###CATCHUP
 * Made spreadsheet of data types for Vital Signs [in github](https://github.com/auremoser/vital-signs/blob/master/assets/VS-data_inventory.csv)
-* Worked on ideas for Vital Signs visualization buckets [here](https://docs.google.com/a/ushahidi.com/document/d/1ZNVe_Af1OzyJ7GWRRIyIRm7arWT4I7MHNROmfDXq7a0/edit)
-* Contempated adapting [ushaverse](http://auremoser.github.io/ushaverse/) and [savannah fund](http://auremoser.github.io/savannah/)
+* Worked on ideas for Vital Signs visualization buckets [here](https://docs.google.com/a/ushahidi.com/document/d/1ZNVe_Af1OzyJ7GWRRIyIRm7arWT4I7MHNROmfDXq7a0/edit) 
+* Added notes to data set spreadsheet [here](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1qNCbGnXPloRGf4UBCfiDD4rtk8x_FqtEis2Nfx43a-w/edit#gid=1793132675)
+* Contemplated adapting [ushaverse](http://auremoser.github.io/ushaverse/) and [savannah fund](http://auremoser.github.io/savannah/)
 * Completed parallax project [here](https://github.com/auremoser/merrytimes)
 
 
