@@ -813,6 +813,7 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * Added notes to data set spreadsheet [here](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1qNCbGnXPloRGf4UBCfiDD4rtk8x_FqtEis2Nfx43a-w/edit#gid=1793132675)
 * Contemplated adapting [ushaverse](http://auremoser.github.io/ushaverse/) and [savannah fund](http://auremoser.github.io/savannah/)
 * Completed parallax project [here](https://github.com/auremoser/merrytimes)
+* Started carto maps [here](https://aure.cartodb.com/viz/46aedb9a-f69f-11e3-82d4-0e230854a1cb/map)
 
 
 
