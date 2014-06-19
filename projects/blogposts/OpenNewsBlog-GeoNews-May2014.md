@@ -39,3 +39,10 @@ http://www.forbes.com/sites/susanadams/2014/06/16/the-highest-paid-ceos-are-the-
 
 your company is a herd of ponies (http://blogs.hbr.org/2014/06/your-company-is-not-a-family/), the author uses the analogy of sports teams and the mentions of the spurs made me think that the pony metaphor might be as ridiculously apt.
 The Spurs stand out for the stability and longevity of their player relationships, yet even their current 13-man roster only includes one player from their first championship in 1999: power forward Tim Duncan.
+
+
+I won the hackathon that followed with this application: GeoNewsies
+https://github.com/auremoser/geonewsies/
+
+And I was mentioned+ Photographed in Danish Media:
+`http://www.information.dk/mediahackdays/496200

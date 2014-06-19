@@ -825,6 +825,10 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * STANDARDIZE VISUALIZATIONS, repo with description, screenshot, link
 * Add Vonoroi example plot (python)
 
+###COLLAB
+* Met with Digital Preservation folks for a 2 hour call
+
+
 "Yay, it's live. Way to go sebastian.
 
 I'll work on setting up each repository (right now we have a map one, climate, soils) so that they are simple and standard in structure (same folder structure, same readme content for each [screenshot; link to live, description], and have that available for monday so that we can structure the discussion around those different visualizations and how we can best group read them to tease out significant bits for a dashboard."
