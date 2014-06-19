@@ -815,6 +815,22 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * Completed parallax project [here](https://github.com/auremoser/merrytimes)
 * Started carto maps [here](https://aure.cartodb.com/viz/46aedb9a-f69f-11e3-82d4-0e230854a1cb/map)
 
+###CREATE
+* Seb's live site (https://github.com/sebm90/VitalSigns-climate )
+* Clean up Repos (climate, eplot)
+* Chambua Visualizations
+* MIT talk
+
+THREADs
+Climate forcing thread (carbon, albidos)
+
+Fuel thread
+Water thread (shape files for basins)
+Threads Example folder (dropbox)
+
+
+
+
 
 
 
