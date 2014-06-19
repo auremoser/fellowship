@@ -818,13 +818,21 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 
 ###CREATE
 * Seb's live site (https://github.com/sebm90/VitalSigns-climate )
+* Make seb's soils link live (https://github.com/auremoser/VitalSigns-soil)
 * Clean up Repos (climate, eplot)
 * Chambua Visualizations
 * MIT talk
+* STANDARDIZE VISUALIZATIONS, repo with description, screenshot, link
+* Add Vonoroi example plot (python)
+
+"Yay, it's live. Way to go sebastian.
+
+I'll work on setting up each repository (right now we have a map one, climate, soils) so that they are simple and standard in structure (same folder structure, same readme content for each [screenshot; link to live, description], and have that available for monday so that we can structure the discussion around those different visualizations and how we can best group read them to tease out significant bits for a dashboard."
+
 
 THREADs
 Climate forcing thread (carbon, albidos)
-
+=
 Fuel thread
 Water thread (shape files for basins)
 Threads Example folder (dropbox)
