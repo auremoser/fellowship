@@ -814,6 +814,7 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * Contemplated adapting [ushaverse](http://auremoser.github.io/ushaverse/) and [savannah fund](http://auremoser.github.io/savannah/)
 * Completed parallax project [here](https://github.com/auremoser/merrytimes)
 * Started carto maps [here](https://aure.cartodb.com/viz/46aedb9a-f69f-11e3-82d4-0e230854a1cb/map)
+* Worked on HIV@30 Clusters [repo here](https://github.com/auremoser/hiv-30_cluster), [demo here](http://auremoser.github.io/hiv-30_cluster/)
 
 ###CREATE
 * Seb's live site (https://github.com/sebm90/VitalSigns-climate )
@@ -827,6 +828,10 @@ Climate forcing thread (carbon, albidos)
 Fuel thread
 Water thread (shape files for basins)
 Threads Example folder (dropbox)
+
+ghpage
+process files
+push notes
 
 
 
