@@ -46,3 +46,10 @@ https://github.com/auremoser/geonewsies/
 
 And I was mentioned+ Photographed in Danish Media:
 `http://www.information.dk/mediahackdays/496200
+
+----
+
+talk at civic media:
+http://urli.st/tid-Mapping-127001-MIT-Civic-Media-2014#
+
+talk slide  (fellowship/proposals/MIT-Most_Interesting_Thing)
