@@ -851,6 +851,7 @@ push notes
 
 ###6/23/14
 * Weekly Team Chat Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1SyTC36gimnlI2zmJ2P0a3kFoipBIU_oEa6_nC6o4MLk/edit#)
+* MIT Civic Media [Conference Schedule](http://civic.mit.edu/conference2014)
 
 
 
