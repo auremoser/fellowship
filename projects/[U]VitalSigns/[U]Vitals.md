@@ -48,14 +48,7 @@ EdoState Conflict group
 CrisisMappers in Nigeria (Abuja)
 
 
-======
-VS!provides!quantitative!measurements,!metrics,!and!decision?support!indicators!
-and!tools!to!help!ensure!that!agricultural!development!does!not!degrade!natural!systems!and!
-the!services!they!provide.
-
-=====
-
-Eplot data:
+####Eplot data:
 @Aurelia - the Eplot starts at the SouthEast corner (ie. that's subplot 1)
 
 Annotated eplot data had details about location
@@ -65,3 +58,11 @@ hi all.... all the datafiles in the VitalSigns dropbox are now in the data catal
 Aurelia - you needed the corner locations for all the E-plot data. They're in dataset 232a7352-d8eb-409f-a55e-8c245231a8b1
 
 The E-plot starts at the SouthEast corner (i.e. that’s subplot number 1).   Diagrams for how the subplots are created are in file VS_Protocol_Eplots_March2014.pdf.
+
+=====
+####Repo Standards
+standardize name
+color palette
+rectify master and ghpages
+organize file structure
+

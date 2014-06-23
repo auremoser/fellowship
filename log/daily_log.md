@@ -824,9 +824,13 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * MIT talk
 * STANDARDIZE VISUALIZATIONS, repo with description, screenshot, link
 * Add Vonoroi example plot (python)
+* Built example of open source dropbox called Keyblur [repo here](https://github.com/mozilla/keyblur)
 
 ###COLLAB
 * Met with Digital Preservation folks for a 2 hour call
+* Civic Media hackathon
+* Pimped CrisisNet (ecology data, talked to global warming, housing crisis
+* Gave talk at MIT CIVIC Media
 
 
 "Yay, it's live. Way to go sebastian.
@@ -836,7 +840,7 @@ I'll work on setting up each repository (right now we have a map one, climate, s
 
 THREADs
 Climate forcing thread (carbon, albidos)
-=
+
 Fuel thread
 Water thread (shape files for basins)
 Threads Example folder (dropbox)
@@ -845,7 +849,8 @@ ghpage
 process files
 push notes
 
-
+###6/23/14
+* Weekly Team Chat Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1SyTC36gimnlI2zmJ2P0a3kFoipBIU_oEa6_nC6o4MLk/edit#)
 
 
 
