@@ -62,7 +62,41 @@ The E-plot starts at the SouthEast corner (i.e. that’s subplot number 1).   Di
 =====
 ####Repo Standards
 standardize name
-color palette
-rectify master and ghpages
+retitle (index.html)
 organize file structure
+color palette
+~~update blurb on ghub~~
+check
+rectify master and ghpages
+
+Colors: '#FFCC33', '#4E733D', '#C04420', '#6E9962', '#9DCBDA', '#FBD8DB', '#fc8d59'
+
+colors: [
+        // colors taken from the palette on this site: http://vitalsigns.org/
+         '#FFCC33', '#4E733D', '#C04420', '#6E9962', '#9DCBDA', '#FBD8DB', '#fc8d59'
+    ],
+
+
+####Links to Share
+Eplots
+code: https://github.com/auremoser/VitalSigns-eplots
+demo: http://auremoser.github.io/VitalSigns-eplots/
+
+Water
+
+
+
+Soil
+code: https://github.com/auremoser/VitalSigns-soil
+demo: http://auremoser.github.io/VitalSigns-soil/
+
+Climate
+code: https://github.com/auremoser/VitalSigns-climate/
+demo: http://auremoser.github.io/VitalSigns-climate/
+
+
+
+
+
+
 
