@@ -3,6 +3,10 @@ GeoNews
 ####There Must Be a Pony Somewhere: Digging in Data to Find a Story
 
 At this week's MIT Civic Media Conference, Joi Ito kicked off an introductory talk with a nod to his coder fellow, Mat, a "unicorn" journalism-coder-analyst
+
+The most prize-worthy ponies deserve compensation and reward
+
+Let's talk about empathy. 
 #####Joi Ito
 
 `unicorn - Mat (journalism)`
@@ -79,3 +83,5 @@ http://mediameter.org/
 Frequency: 
 Pulse: tracks eb and flow of mentions
 GeoNewsies application
+
+Check desk for verification: 

@@ -833,27 +833,20 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * Gave talk at MIT CIVIC Media
 
 
-"Yay, it's live. Way to go sebastian.
-
-I'll work on setting up each repository (right now we have a map one, climate, soils) so that they are simple and standard in structure (same folder structure, same readme content for each [screenshot; link to live, description], and have that available for monday so that we can structure the discussion around those different visualizations and how we can best group read them to tease out significant bits for a dashboard."
-
-
-THREADs
-Climate forcing thread (carbon, albidos)
-
-Fuel thread
-Water thread (shape files for basins)
-Threads Example folder (dropbox)
-
-ghpage
-process files
-push notes
-
 ###6/23/14
 * Weekly Team Chat Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1SyTC36gimnlI2zmJ2P0a3kFoipBIU_oEa6_nC6o4MLk/edit#)
 * MIT Civic Media [Conference Schedule](http://civic.mit.edu/conference2014)
 
 ###COLLAB
+* worked on GeoNewsies blog post
+* worked on HOPE and SRCCON talks with collaborators
+
+TO DOS
+* need to work on vonoroi tesselations
+* open news call tomorrow: write blog post
+* need ot have scope discussion with Dan and Erika
+* meeting with eva on curriculum
+* prep-work for 
 
 
 
