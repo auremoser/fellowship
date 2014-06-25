@@ -840,13 +840,14 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 ###COLLAB
 * worked on GeoNewsies blog post
 * worked on HOPE and SRCCON talks with collaborators
+* following Vital Signs [Persona Thread](https://docs.google.com/document/d/1yO0tLeH-94xFJBE80ICeKt8PtAjcoI2OQdmsnradlH0/edit#heading=h.iq9b85zc5dxq)
 
 TO DOS
 * need to work on vonoroi tesselations
 * open news call tomorrow: write blog post
 * need ot have scope discussion with Dan and Erika
 * meeting with eva on curriculum
-* prep-work for 
+* vital signs water document
 
 
 
