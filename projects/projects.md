@@ -32,9 +32,9 @@ Conference | Location | Date | Role
 [Edge Conference](http://edgeconf.com/2014-london) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
 [MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March31-April 4 | Mentor/[Speaker](http://auremoser.github.io/mavc/)
-[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | [Speaker](https://github.com/auremoser/mhd) + Hackathon Participant
+[Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | [Speaker](https://github.com/auremoser/mhd) + Hackathon Participant - [Project](https://github.com/auremoser/geonewsies) | [Talk Video](http://www.mediahackdays.com/)
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Ignite Speaker
-[MIT Civic Media](http://civic.mit.edu/) | Boston | June 20-25th | Open News Attendee/Ignite speaker
+[MIT Civic Media](http://civic.mit.edu/) | Boston | June 20-25th | Open News Attendee/Ignite speaker | [Talk Video](vimeo.com/m/99248186)
 ~~[OKFN](http://2014.okfestival.org/)~~ | ~~Berlin~~ | ~~July 15-17~~ | ~~Speaker (pending)~~
 [Hope X](http://www.hope.net/) | NYC | July 18-20 | Speaker
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
