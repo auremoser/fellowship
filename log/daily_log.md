@@ -841,6 +841,11 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * worked on GeoNewsies blog post
 * worked on HOPE and SRCCON talks with collaborators
 * following Vital Signs [Persona Thread](https://docs.google.com/document/d/1yO0tLeH-94xFJBE80ICeKt8PtAjcoI2OQdmsnradlH0/edit#heading=h.iq9b85zc5dxq)
+* open news call [document](https://etherpad.mozilla.org/opennews-calls-June25)
+
+###CREATE
+* wrote a blog about Data Journalism's Ponies
+
 
 TO DOS
 * need to work on vonoroi tesselations
