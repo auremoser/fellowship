@@ -21,6 +21,11 @@ As a class, we've developered some tools to analize trends and provide objective
 
 Why ponies? Because ponies are slightly different than horses; capable of the same intelligence and empathy but perpetually twee-er and often assumed to be less mature. Some of the brilliance I've witness from millenials in the data journalism space has made me think that another branch from the taxonomic tree should recognize those whose aptitude is impressive in code but whose journalism experience perhaps seems premature.
 
+http://en.wikipedia.org/wiki/Pony
+http://en.wikipedia.org/wiki/Horse_(zodiac)#Personality
+http://en.wikipedia.org/wiki/White_Pony
+http://www.equestrianandhorse.com/equus/behaviour-characteristics.html
+
 How is geo-journalism important to this? Most of the discussions around how to classify the oft-hyphenated and obscure titles applied to data-journalists is more about the hybridity of their job descriptions and the range of skills they deploy than about the elegance of the metaphor. As an equine-hybrid class, we're often trying to find new ways of developing and pushing content, a nod to the aggressivness and tirelessness of the horse behavioral (and zodiac: http://en.wikipedia.org/wiki/Horse_(zodiac)#Personality) type. But part of that race, maybe the most important part, is about designing content and news to appeal to people, to visualize data in new and yet intuitive ways. Our objective is to find ways to relate to populations, and in a sea of bar charts and statistical models, sometimes maps are the more affective way of relating complex digital data to a simple physical topography. That's where the map making comes in. Two of the most relatable and persistently referenced data types in post-modern visualization is geo-data and time-series. Why? Because we relate to them, we can consider our perpective relative to time and space, and this has become ourOverwhelmingly, the projects at this year's Civic Media Conference demo sessions fell into some kind of mapping context:
 
 What we watch: where is this trending:
@@ -32,6 +37,8 @@ http://wefeel.csiro.au/#/
 
 ###Pony Prizes
 To address another interesting aspect of the data-journo ecosystem, I'll now pivot to another curious theme in the MIT Civic Conference and others like it: the concept of "family." In keeping with the metaphor of this post, and I would argue that family in the case of a company or sponsor, is more analogous to genus discussions than to social kinship models. People who share a company share a type and a goal, they're a team but one built on affinity, not consanguinity. 
+http://en.wikipedia.org/wiki/Family
+
 This is a family:
 
 This is a team:
