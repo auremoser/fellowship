@@ -847,6 +847,12 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * wrote a blog about Data Journalism's Ponies
 * worked on Vital Signs fire drill project for Sara [here](https://github.com/auremoser/VitalSigns-water) [demo here](http://auremoser.github.io/VitalSigns-water/)
 
+###CATCHUP
+* booked travel for SRCCON
+* wrote Bart Gellman about HOPE talk
+* wrote 
+
+
 
 TO DOS
 * need to work on vonoroi tesselations
