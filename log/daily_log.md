@@ -845,6 +845,7 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 
 ###CREATE
 * wrote a blog about Data Journalism's Ponies
+* worked on Vital Signs fire drill project for Sara [here]
 
 
 TO DOS
