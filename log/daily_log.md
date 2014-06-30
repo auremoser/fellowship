@@ -862,7 +862,7 @@ TO DOS
 * vital signs water document
 
 ##6/30/14
-Weekly Team Chat: [doc here]()
+Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1p6KoAw92gPmp4OrJPAlLWXKVuGNAs_fB7xSMruYdFyU/edit#)
 
 
 
