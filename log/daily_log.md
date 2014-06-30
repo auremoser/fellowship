@@ -833,7 +833,7 @@ Weekly Update [here](https://docs.google.com/a/ushahidi.com/document/d/1yM4SCT9e
 * Gave talk at MIT CIVIC Media
 
 
-###6/23/14
+##6/23/14
 * Weekly Team Chat Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1SyTC36gimnlI2zmJ2P0a3kFoipBIU_oEa6_nC6o4MLk/edit#)
 * MIT Civic Media [Conference Schedule](http://civic.mit.edu/conference2014)
 
@@ -860,6 +860,10 @@ TO DOS
 * need ot have scope discussion with Dan and Erika
 * meeting with eva on curriculum
 * vital signs water document
+
+##6/30/14
+Weekly Team Chat: [doc here]()
+
 
 
 
