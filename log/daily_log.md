@@ -864,11 +864,22 @@ TO DOS
 ##6/30/14
 Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1p6KoAw92gPmp4OrJPAlLWXKVuGNAs_fB7xSMruYdFyU/edit#)
 
+###CREATE
+* wrote blog on ponies, link [here](http://aureliamoser.com/2014/07/01/there-must-be-a-pony-somewhere-digging-in-data-to-find-a-story/)
+* vital Signs water project [here](http://auremoser.github.io/VitalSigns-water/)
+
+###COLLAB
+* Updated external [projects doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+
+
 TO DOS
-Post Blog
-Meet with Eva on Curriculum
+~~Post Blog~~
+~~Meet with Eva on Curriculum~~
 Update curriculum from internews
-Work on Chambua
+Work on Chambua - update internews
+Look at eva's tableau stuff
+E
+Savannah fund update
 Talks - prep them
 
 
