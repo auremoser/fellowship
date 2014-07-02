@@ -867,9 +867,23 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 ###CREATE
 * wrote blog on ponies, link [here](http://aureliamoser.com/2014/07/01/there-must-be-a-pony-somewhere-digging-in-data-to-find-a-story/)
 * vital Signs water project [here](http://auremoser.github.io/VitalSigns-water/)
+* demo [here](http://auremoser.github.io/VitalSigns-water/)
+* started parallax blog draft
+* received ask for pirate plotr feature adds (7/2/14)
+* met with talk partners at Tactical Tech organizer for HOPE talk, transfered domain for prismbreakup.org + met with Chris Keller for SRCCON talk
+* met with Internews to go over HIV@30 adjustments
 
 ###COLLAB
 * Updated external [projects doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+* hashed out org plan for Oregon genocide workshop in august (met with organizers )
+
+###CATCHUP
+* applied for Write/Speak/Code speaker slot in August
+* diagnosed mooc structure for the Naivasha data journo tutorial [here](http://kmpnaivasha.ujuzi.org/)
+* met with eva and revati about alternative structures for curriculum @ Internews
+* ordered books for srccon
+* watched V3 beta release demo [here](https://www.youtube.com/watch?v=DoxKtpApmm0)
+
 
 
 TO DOS
