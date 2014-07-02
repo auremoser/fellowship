@@ -889,12 +889,16 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 TO DOS
 ~~Post Blog~~
 ~~Meet with Eva on Curriculum~~
-Update curriculum from internews
-Work on Chambua - update internews
-Look at eva's tableau stuff
+* Update curriculum from internews
+* Work on Chambua - update internews
+* Look at eva's tableau stuff
 E
-Savannah fund update
-Talks - prep them
+* Savannah fund update
+* Talks - prep them
+* work on chambua analysis to match [eva's](https://www.dropbox.com/sh/4p0qb4k3afwq4ap/AABz4uBouKqeHOGci6EdCnMYa/Theme1-Stigma.docx)
+* Width 940 or less
+Write some stuff up analysis and chambua
+
 
 
 
