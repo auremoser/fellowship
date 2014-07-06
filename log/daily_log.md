@@ -886,13 +886,15 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 
 
 
-TO DOS
-~~Post Blog~~
-~~Meet with Eva on Curriculum~~
+###TO DOS
+* ~~Post Blog~~
+* ~~Meet with Eva on Curriculum~~
 * Update curriculum from internews
 * Work on Chambua - update internews
 * Look at eva's tableau stuff
-E
+* Apply for Dept Coordinator [position](https://jobs-nypl.icims.com/jobs/7986/department-coordinator-and-analyst%2c-digital-library-%2b-labs/login)
+* update srccon stats workshop [plan](https://etherpad.mozilla.org/vYClsM1qVR)
+* email harlo + bart about panel
 * Savannah fund update
 * Talks - prep them
 * work on chambua analysis to match [eva's](https://www.dropbox.com/sh/4p0qb4k3afwq4ap/AABz4uBouKqeHOGci6EdCnMYa/Theme1-Stigma.docx)
