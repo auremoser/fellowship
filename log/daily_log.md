@@ -876,6 +876,7 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 ###COLLAB
 * Updated external [projects doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 * hashed out org plan for Oregon genocide workshop in august (met with organizers )
+* worked on
 
 ###CATCHUP
 * applied for Write/Speak/Code speaker slot in August
