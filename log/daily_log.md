@@ -906,6 +906,10 @@ Write some stuff up analysis and chambua
 ##7/07/14
 Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1_w0CpsX_ATR10vhe4EKM2yfu7InfXy2nBf8fmK7CkZY/edit#)
 
+###CATCHUP
+* doctor's appointment about ear
+* worked on getting chambua in shape for demo
+
 
 
 
