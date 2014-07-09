@@ -909,6 +909,7 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 ###CATCHUP
 * doctor's appointment about ear
 * worked on getting chambua in shape for demo
+* call with External Projects - ramp up IFES [phab tasks](https://phabricator.ushahidi.com/tag/xp:_ifes_v3/)
 
 
 
