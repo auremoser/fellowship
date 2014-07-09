@@ -910,13 +910,18 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * doctor's appointment about ear
 * worked on getting chambua in shape for demo
 * call with External Projects - ramp up IFES [phab tasks](https://phabricator.ushahidi.com/tag/xp:_ifes_v3/)
-* contacted mentees for Yo Interegio
+* contacted mentees for Yo Intervengo
+* knight mozilla community call this week, [notes here](https://etherpad.mozilla.org/opennews-calls-July9)
 
-####COLLAB
+###COLLAB
 * external project meeting with Sara, need to ramp up IFES
 * working on chambua stuff for friday meeting with HOPE crew
 * got a call from harlo about help with her rad project
 * working on data journo curriculum with professor at parson's
+
+###CREATE
+* through all the 2000s!
+
 
 
 
