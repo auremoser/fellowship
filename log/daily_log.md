@@ -912,6 +912,7 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * call with External Projects - ramp up IFES [phab tasks](https://phabricator.ushahidi.com/tag/xp:_ifes_v3/)
 * contacted mentees for Yo Intervengo
 * knight mozilla community call this week, [notes here](https://etherpad.mozilla.org/opennews-calls-July9)
+* applied to Google Summer of Code teaching fellowship
 
 ###COLLAB
 * external project meeting with Sara, need to ramp up IFES
