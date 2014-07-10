@@ -924,6 +924,11 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * through all the 2000s!
 
 
+##7/14/14
+* Weekly Update notes [here](https://docs.google.com/a/ushahidi.com/document/d/1C7qcKYI3DN9R6K0oaA9PB9JkfSSVcZNyzj6Sr7j8WZI/edit#)
+
+
+
 
 
 
