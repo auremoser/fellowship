@@ -922,6 +922,18 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 
 ###CREATE
 * through all the 2000s!
+* cnbc universal interview
+* [srccon plan doc](https://etherpad.mozilla.org/vYClsM1qVR)
+* [hope plan doc]()
+* need to work on IFES charts for Tuesday meeting
+
+TODO
+GDI hardware purchase
+HOPE TALK
+SRCCON TALK
+Send hope talk meeting email
+
+
 
 
 ##7/14/14
