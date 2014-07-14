@@ -927,16 +927,20 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * [hope plan doc]()
 * need to work on IFES charts for Tuesday meeting
 
-TODO
+####TODO
 GDI hardware purchase
 HOPE TALK
 SRCCON TALK
 ~~Send hope talk meeting email~~
 Fix timeline for internews
 Fix merge conflict for GDI
-IFES
-HIV
+**IFES**
+**MAKE A CHOROPLETH**
+HIV@30 finish
 Internews Curriculum up on github
+Fill out expenses
+~~Update Resume~~
+Respond to mentees
 
 
 
