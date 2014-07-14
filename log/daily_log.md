@@ -928,7 +928,8 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * need to work on IFES charts for Tuesday meeting
 
 ####TODO
-GDI hardware purchase
+~~GDI hardware purchase~~
+~~Interview with CNBC~~
 HOPE TALK
 SRCCON TALK
 ~~Send hope talk meeting email~~
