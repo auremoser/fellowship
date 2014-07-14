@@ -936,6 +936,8 @@ Fix timeline for internews
 Fix merge conflict for GDI
 IFES
 HIV
+Internews Curriculum up on github
+
 
 
 
@@ -945,6 +947,7 @@ HIV
 
 ###CATCHUP
 * interview with CNBC!!
+* email grace about syria
 
 
 
