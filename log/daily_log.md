@@ -942,6 +942,7 @@ Internews Curriculum up on github
 Fill out expenses
 ~~Update Resume~~
 Respond to mentees
+Find someone to translate for me 
 
 
 
