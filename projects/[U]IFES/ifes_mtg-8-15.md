@@ -40,9 +40,25 @@ from [previous notes](https://docs.google.com/a/ushahidi.com/document/d/1oFUhsO0
 	* added choropleth to prove functionality
 
 
+###notes
+* equal need for choropleths
+* indicator charts (variables-perp types/)
+* inside application
+* pick chart types
+* day level zoom (with time) - between 8am-10am - 
+* get electoral districts (what format)
+* 2 levels of administrative boundaries for choropleths
+* array of frequently used charts would be good
+* [CHART 2] visualize the data ranges - range 1/2/3
+* filter by month > each chart has a date range option
+* number of incidents, number of things counted in a form > on 
+* choropleth: number of reports, number of incidents, number of "indicators", number risk level
+* [T49](https://phabricator.ushahidi.com/T49)-[T50](https://phabricator.ushahidi.com/T50) and [T47](https://phabricator.ushahidi.com/T47)
+
 ###references
 
 * [Phabricator Task](https://phabricator.ushahidi.com/T23)
 * [DataViz in Phab](https://phabricator.ushahidi.com/T49)
 * [Google Doc from previous mtgs](https://docs.google.com/a/ushahidi.com/document/d/1oFUhsO084gAbB8VIjfNDDXWoMrBmF3XLa6QyKHRyMC8/edit)
 * [David's inspiration page](http://www.lracrisistracker.com/)
+* [Meeting Minutes](https://docs.google.com/a/ushahidi.com/document/d/1cGG9MxDnbbzQqiuXh3Blajx2ily1aGR2-B9cV0rqDEU/edit#)
