@@ -956,7 +956,7 @@ Find someone to translate for me
 ###COLLAB
 * met with Sara about IFES
 * worked on notes doc for IFES tuesday meeting
-* 
+* app archive planning [doc](https://etherpad.mozilla.org/UQmtWD5qL5) and [presentation](http://bit.ly/1kIZ4f2)
 
 
 
