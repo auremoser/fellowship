@@ -934,7 +934,7 @@ HOPE TALK
 SRCCON TALK
 ~~Send hope talk meeting email~~
 Fix timeline for internews
-Fix merge conflict for GDI
+~~Fix merge conflict for GDI~~
 **IFES**
 **MAKE A CHOROPLETH**
 HIV@30 finish
@@ -945,14 +945,17 @@ Respond to mentees
 
 
 
-
-
 ##7/14/14
 * Weekly Update notes [here](https://docs.google.com/a/ushahidi.com/document/d/1C7qcKYI3DN9R6K0oaA9PB9JkfSSVcZNyzj6Sr7j8WZI/edit#)
 
 ###CATCHUP
 * interview with CNBC!!
 * email grace about syria
+
+###COLLAB
+* met with Sara about IFES
+* worked on notes doc for IFES tuesday meeting
+* 
 
 
 
