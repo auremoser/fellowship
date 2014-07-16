@@ -947,7 +947,6 @@ Send playlist to Julian
 Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
 
 
-
 ##7/14/14
 * Weekly Update notes [here](https://docs.google.com/a/ushahidi.com/document/d/1C7qcKYI3DN9R6K0oaA9PB9JkfSSVcZNyzj6Sr7j8WZI/edit#)
 
@@ -955,6 +954,7 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 * interview with CNBC!!
 * email grace about syria
 * chat with WNYC reporter
+* got deadline for 
 
 ###COLLAB
 * met with Sara about IFES
@@ -964,6 +964,7 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 ###CREATE
 * worked on HIV@30
 * worked on curriculum uploads for 
+
 
 
 
