@@ -963,7 +963,8 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 
 ###CREATE
 * worked on HIV@30
-* worked on curriculum uploads for 
+* worked on curriculum uploads for Internews
+* worked on IFES on Thursday, chart plans
 
 
 
