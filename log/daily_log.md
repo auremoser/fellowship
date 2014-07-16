@@ -930,7 +930,7 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 ####TODO
 ~~GDI hardware purchase~~
 ~~Interview with CNBC~~
-HOPE TALK
+HOPE TALK - setup repo with links
 SRCCON TALK
 ~~Send hope talk meeting email~~
 Fix timeline for internews
@@ -942,7 +942,9 @@ Internews Curriculum up on github
 Fill out expenses
 ~~Update Resume~~
 Respond to mentees
-Find someone to translate for me 
+~~Find someone to translate for me~~
+Send playlist to Julian
+Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
 
 
 
