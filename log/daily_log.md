@@ -954,11 +954,20 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 ###CATCHUP
 * interview with CNBC!!
 * email grace about syria
+* chat with WNYC reporter
 
 ###COLLAB
 * met with Sara about IFES
 * worked on notes doc for IFES tuesday meeting
 * app archive planning [doc](https://etherpad.mozilla.org/UQmtWD5qL5) and [presentation](http://bit.ly/1kIZ4f2)
+
+###CREATE
+* worked on HIV@30
+* worked on curriculum uploads for 
+
+
+
+
 
 
 
