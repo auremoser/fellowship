@@ -954,7 +954,7 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 * interview with CNBC!!
 * email grace about syria
 * chat with WNYC reporter
-* got deadline for 
+* got deadline for blog post
 
 ###COLLAB
 * met with Sara about IFES
@@ -965,6 +965,10 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 * worked on HIV@30
 * worked on curriculum uploads for Internews
 * worked on IFES on Thursday, chart plans
+* sketched IFES need charts
+* figured out filtering plan
+* remixed radio show
+* ran chambua for the 2000s
 
 
 
