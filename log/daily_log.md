@@ -955,7 +955,7 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 * email grace about syria
 * chat with WNYC reporter
 * got deadline for open news blog post -29th
-* finish SRCCON talk and email chris
+* ~~finish SRCCON talk and email chris~~
 
 ###COLLAB
 * met with Sara about IFES
