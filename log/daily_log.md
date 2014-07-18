@@ -956,6 +956,7 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 * chat with WNYC reporter
 * got deadline for open news blog post -29th
 * ~~finish SRCCON talk and email chris~~
+* finish journosec link migration
 
 ###COLLAB
 * met with Sara about IFES
