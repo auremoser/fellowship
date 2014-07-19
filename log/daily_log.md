@@ -928,23 +928,24 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * need to work on IFES charts for Tuesday meeting
 
 ####TODO
-~~GDI hardware purchase~~
-~~Interview with CNBC~~
-HOPE TALK - setup repo with links
-SRCCON TALK
-~~Send hope talk meeting email~~
-Fix timeline for internews
-~~Fix merge conflict for GDI~~
+
+* ~~GDI hardware purchase~~
+* ~~Interview with CNBC~~
+* HOPE TALK - setup repo with links
+* SRCCON TALK
+* ~~Send hope talk meeting email~~
+* ~~ Fix timeline for internews ~~
+* ~~Fix merge conflict for GDI~~
 **IFES**
 **MAKE A CHOROPLETH**
-HIV@30 finish
-Internews Curriculum up on github
-Fill out expenses
-~~Update Resume~~
-Respond to mentees
+* HIV@30 finish
+* Internews Curriculum up on github
+* Fill out expenses
+* ~~Update Resume~~
+* Respond to mentees
 ~~Find someone to translate for me~~
-Send playlist to Julian
-Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
+* ~~Send playlist to Julian~~
+* Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
 
 
 ##7/14/14
@@ -972,6 +973,22 @@ Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fello
 * remixed radio show
 * ran chambua for the 2000s
 
+
+
+TODO
+* ~~HIV@30 add tooltips; figure out zoom, figure out how to mouse-ver render larger to explore vocabularies~~
+* HIV@30 Write summary for Dorothy
+* ~~Vital Signs make fixes; Itemize fixes and respond to email about it~~
+* Vital Signs answer email about the new viz
+* V3 Look at sebastian's wires, figure out initial prototype for the "reconfigurable charts"; figure out translation; re-check priorities from Lisa's viz
+
+AFTER
+* prep talk
+* prep narrative for radio show
+* get radio show up online
+* * Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
+* SRCCON TALK
+* Fill out expenses
 
 
 
