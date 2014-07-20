@@ -9,12 +9,32 @@
 * opsec is human and easier to teach than some encryption software
 
 
-####successful practices  
+####successful practices 
+
+
+*  know how to: store, communicate, transport, unsensitize and destroy info
+
+comes from a series of procedures:
+
+* clarity, brevity, security
+* encryption, obfuscation, deletion
+
+* some of the most complicated modifications are behavioral and not necessarily technical (opsec is tedious)
+* understand the limitations of your tools
+* assume most not-in-person 
+
+* separate account names and codenames from personal life (popular and campy but mostly made fun of because it's often mismanaged)
+* use secure email and https
+* use anonymity and encryption software, VPN/Tor
+* us public key encryption
+* secure deletion and sanitization practice (temp files, recycle bin, wipe don't delete, contacts)  
+* chat over prepaid mobile phones or payphones, assume everything not in person can be overheard
+
 
 * calling to check in with a security firm/guards at a set time every day, with lack of call meaning there's a problem
 * disabling location pinpoints on social media; not posting photos with identifying elements if they're embedded with a military unit
 * source anonymity
-* reporter anonymity ("an employee of the New York Times in Damascus contributed to this post")
+* **reporter anonymity ("an employee of the New York Times in Damascus contributed to this post")**
 * the most famous fuckup of all time in this vein was when Geraldo Rivera was embedded with troops in Iraq and drew a map of their plan/position in the sand/on camera. 
 
 ####notes

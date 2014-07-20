@@ -6,9 +6,7 @@ Stereo Semantics
 www.stereosemantics.com <<<<DONT FORGET TO MENTION THIS
 
 
-This episode's theme is slowness. We talk alot about internet slowlaning, 
-
-The FCC was forced to extend the deadline this week for public comments on their Internet Slow Lane plan to midnight last night. 
+This episode's theme is slowness. We talk alot about internet slowlaning, and the slow data trend. The FCC was forced to extend the deadline this week for public comments on their Internet Slow Lane plan to midnight last night, so it seemed topical to address this at Hackers on Planet Earth, among internauts and their discontents. You'll hear some indie rock, psych/synth pop and electronic remixes with some cameos by comcast throughout this special episode of stereo semantics, the HOPE-10 slow lane edition.
 
 It's also about the slow data trend, one defined by our ignorance of the more subtle trends in our culture, because in our preoccupation with social media and real-time feeds we ignore and slow stats and glacial pace of changes that really indicate techtonic cultural shifts and behavioral change.
 
