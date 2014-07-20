@@ -11,7 +11,6 @@
 
 ####successful practices 
 
-
 *  know how to: store, communicate, transport, unsensitize and destroy info
 
 comes from a series of procedures:
@@ -21,7 +20,7 @@ comes from a series of procedures:
 
 * some of the most complicated modifications are behavioral and not necessarily technical (opsec is tedious)
 * understand the limitations of your tools
-* assume most not-in-person 
+* assume most not-in-person is surveilled
 
 * separate account names and codenames from personal life (popular and campy but mostly made fun of because it's often mismanaged)
 * use secure email and https
@@ -37,23 +36,3 @@ comes from a series of procedures:
 * **reporter anonymity ("an employee of the New York Times in Damascus contributed to this post")**
 * the most famous fuckup of all time in this vein was when Geraldo Rivera was embedded with troops in Iraq and drew a map of their plan/position in the sand/on camera. 
 
-####notes
-What is wrong with journalists?
-How to model the threats
-
-can talk about his own experience, pretty early adopter of privacy and security technologies
-
-Secure Drop + First contact problem
-
-Snowden, december in moscow (electronic material back to the US)
-* encrypted ssh over anonymous channels
-
-what is needed, a course on this 
-scenarios
-typical threat models (secure workflow)
-
-
-###HOMEWORK
-Questions + Scenarios
-LOCKED SOURCES -> etherpad
-MAKE AN REPO WITH SUBMODULES
