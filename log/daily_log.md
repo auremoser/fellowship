@@ -975,6 +975,7 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 
 
 TODO
+
 * run chambua for 2007-2008
 * ~~HIV@30 add tooltips; figure out zoom, figure out how to mouse-ver render larger to explore vocabularies~~
 * HIV@30 Write summary for Dorothy
@@ -983,10 +984,12 @@ TODO
 * V3 Look at sebastian's wires, figure out initial prototype for the "reconfigurable charts"; figure out translation; re-check priorities from Lisa's viz
 
 AFTER
+
 * prep talk
-* prep narrative for radio show
-* get radio show up online
+* ~~prep narrative for radio show~~
+* ~~get radio show up online~~
 * Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
+* Blopost/Vlog for Ushahidi
 * SRCCON TALK
 * Digital Preservation Talk
 * Fill out expenses
@@ -994,6 +997,16 @@ AFTER
 
 ## 7/21/14
 Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d/1g7FSeFv6sCTKRi5URphYphIlrE0BxLI5_vhreSC6ffc/edit#)
+
+###CATCHUP
+* signed up for [blog post for ushahidi](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1hljc7JgbwgMQTzfeurMR1gZQNfp1KdBLyqBHBSGdoXs/edit#gid=0)
+* answered a bunch of vital signs email
+* signed up as a [mentor at MAVC](https://docs.google.com/forms/d/1P62oY57eChKQsLgmqt9sMrmo0ymKVWN_lEaJxxLqEpA/viewform?edit_requested=true)
+
+
+###CREATE
+* finished news apps preservation
+* finished chambua work
 
 
 
