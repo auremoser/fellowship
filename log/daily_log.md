@@ -1002,11 +1002,13 @@ Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d
 * signed up for [blog post for ushahidi](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1hljc7JgbwgMQTzfeurMR1gZQNfp1KdBLyqBHBSGdoXs/edit#gid=0)
 * answered a bunch of vital signs email
 * signed up as a [mentor at MAVC](https://docs.google.com/forms/d/1P62oY57eChKQsLgmqt9sMrmo0ymKVWN_lEaJxxLqEpA/viewform?edit_requested=true)
+* had digiprez planning call for Wednesday [presentation plan](https://etherpad.mozilla.org/UQmtWD5qL5)[dec](https://docs.google.com/presentation/d/1QPcrqgC7M-c9SgIQPclylcTZaL36MEALchLgUODA7SA/edit#slide=id.g34dd6fc4e_0197)
 
 
 ###CREATE
 * finished news apps preservation
 * finished chambua work
+* drew up ifes wires and tested reload feature by series
 
 
 
