@@ -1003,6 +1003,7 @@ Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d
 * answered a bunch of vital signs email
 * signed up as a [mentor at MAVC](https://docs.google.com/forms/d/1P62oY57eChKQsLgmqt9sMrmo0ymKVWN_lEaJxxLqEpA/viewform?edit_requested=true)
 * had digiprez planning call for Wednesday [presentation plan](https://etherpad.mozilla.org/UQmtWD5qL5)[dec](https://docs.google.com/presentation/d/1QPcrqgC7M-c9SgIQPclylcTZaL36MEALchLgUODA7SA/edit#slide=id.g34dd6fc4e_0197)
+* added HOPE contacts to contacts db
 
 
 ###CREATE
