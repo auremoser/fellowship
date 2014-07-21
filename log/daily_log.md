@@ -931,7 +931,7 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 
 * ~~GDI hardware purchase~~
 * ~~Interview with CNBC~~
-* HOPE TALK - setup repo with links
+* ~~HOPE TALK - setup repo with links~~
 * SRCCON TALK
 * ~~Send hope talk meeting email~~
 * ~~ Fix timeline for internews ~~
@@ -943,8 +943,7 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * Fill out expenses
 * ~~Update Resume~~
 * Respond to mentees
-~~Find someone to translate for me~~
-* ~~Send playlist to Julian~~
+* ~~Find someone to translate for me~~
 * Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
 
 
@@ -970,12 +969,13 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 * worked on IFES on Thursday, chart plans
 * sketched IFES need charts
 * figured out filtering plan
-* remixed radio show
-* ran chambua for the 2000s
+* gave talk at HOPE and Radio Show on Internet Slow Laning
+* fixed visualization for HIV @30, [here](http://127.0.0.1/Code/2014/hiv-30_cluster/index-2.html)
 
 
 
 TODO
+* run chambua for 2007-2008
 * ~~HIV@30 add tooltips; figure out zoom, figure out how to mouse-ver render larger to explore vocabularies~~
 * HIV@30 Write summary for Dorothy
 * ~~Vital Signs make fixes; Itemize fixes and respond to email about it~~
@@ -986,12 +986,14 @@ AFTER
 * prep talk
 * prep narrative for radio show
 * get radio show up online
-* * Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
+* Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
 * SRCCON TALK
+* Digital Preservation Talk
 * Fill out expenses
 
 
-
+## 7/21/14
+Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d/1g7FSeFv6sCTKRi5URphYphIlrE0BxLI5_vhreSC6ffc/edit#)
 
 
 
