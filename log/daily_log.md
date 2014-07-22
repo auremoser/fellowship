@@ -976,12 +976,10 @@ Weekly Team Chat: [doc here](https://docs.google.com/a/ushahidi.com/document/d/1
 
 TODO
 
-* run chambua for 2007-2008
 * ~~HIV@30 add tooltips; figure out zoom, figure out how to mouse-ver render larger to explore vocabularies~~
-* HIV@30 Write summary for Dorothy
 * ~~Vital Signs make fixes; Itemize fixes and respond to email about it~~
-* Vital Signs answer email about the new viz
-* V3 Look at sebastian's wires, figure out initial prototype for the "reconfigurable charts"; figure out translation; re-check priorities from Lisa's viz
+* ~~Vital Signs answer email about the new viz~~
+* ~~V3 Look at sebastian's wires~~, figure out initial prototype for the "reconfigurable charts"; figure out translation; re-check priorities from Lisa's viz
 
 AFTER
 
@@ -989,10 +987,14 @@ AFTER
 * ~~prep narrative for radio show~~
 * ~~get radio show up online~~
 * Blogpost about Fellowship [doc](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points )
+* Proposal for Meda Party [doc](* run chambua for 2007-2008)
 * Blopost/Vlog for Ushahidi
 * SRCCON TALK
 * Digital Preservation Talk
 * Fill out expenses
+* HIV@30 Write summary for Dorothy
+* run chambua for 2007-2008
+* 
 
 
 ## 7/21/14
@@ -1010,6 +1012,8 @@ Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d
 * finished news apps preservation
 * finished chambua work
 * drew up ifes wires and tested reload feature by series
+* pulled down 2006-2008 data for HIV@30
+* sent data request email to Sara and Woody
 
 
 
