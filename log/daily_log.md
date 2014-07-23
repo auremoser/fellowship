@@ -1014,6 +1014,7 @@ Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d
 * drew up ifes wires and tested reload feature by series
 * pulled down 2006-2008 data for HIV@30
 * sent data request email to Sara and Woody
+* digital preservation [presentation](https://docs.google.com/presentation/d/1QPcrqgC7M-c9SgIQPclylcTZaL36MEALchLgUODA7SA/edit#slide=id.g34dd6fc4e_0182)
 
 
 
