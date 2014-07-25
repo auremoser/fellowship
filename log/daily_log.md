@@ -1016,6 +1016,27 @@ Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d
 * sent data request email to Sara and Woody
 * digital preservation [presentation](https://docs.google.com/presentation/d/1QPcrqgC7M-c9SgIQPclylcTZaL36MEALchLgUODA7SA/edit#slide=id.g34dd6fc4e_0182)
 
+TODO
+Read through Eva's documentation
+Clean chambua data for 2007-2008
+Figure out tooltips for chambua
+
+####SRCON
+finish data smells repo and collab
+
+
+
+ws vs heroku...but is kinda of a funny question, AWS would be a infrastructure as a service, whereas heroku is a platform as a service. Yes?! Heroku would be more like elastic beanstalk.
+AWS gives you components you need to build things on top of it, heroku gives you an environment where you push code, and helps you scale. Heroku replaces dev ops in a way...heroku runs on AWS instances in us-east
+
+IFES DATA VIZ
+"* T47: "Though it was mentioned early on, I don't know that I've mentioned recently - fields like Perpetrator 1,2,3 need to be able to be shown together in one chart. Previously we couldn't do a check all that apply field, so we used multiple dropdowns. Since we want to assign gender to each perpetrator, we probably need to keep to this method. Victims have the same issue. Sources, Types of violence, and Impact of violence (and other categories that may be created) could be handled with checkboxes if they are check all that apply." 
+Lisa wanted to make sure that this was the case for T47, please confirm. And the same could be true for the Victim profile as well ... there could be victims who are party actors, police, election officials, and within that, male, female, both, unknown (I think is what she said the choices would be). "
+
+* They mentioned that they can help with translations. Where is the best place (or who is the best person) to get all the things that need to be translated? I'm guessing some of those things were already translated for V2, so if we can get a list that has the duplicates eliminated IFES can handle the remaining translations. 
+
+
+
 
 
 
