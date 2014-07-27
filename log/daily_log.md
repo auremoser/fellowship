@@ -1007,6 +1007,9 @@ Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d
 * had digiprez planning call for Wednesday [presentation plan](https://etherpad.mozilla.org/UQmtWD5qL5)[dec](https://docs.google.com/presentation/d/1QPcrqgC7M-c9SgIQPclylcTZaL36MEALchLgUODA7SA/edit#slide=id.g34dd6fc4e_0197)
 * added HOPE contacts to contacts db
 
+###COLLAB
+* Helped DC work through Tableau code issues on HIV@30 project
+* Worked on HIV@30 data cleanup for 2007-2008
 
 ###CREATE
 * finished news apps preservation
