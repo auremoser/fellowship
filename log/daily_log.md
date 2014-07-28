@@ -1049,6 +1049,12 @@ Lisa wanted to make sure that this was the case for T47, please confirm. And the
 
 Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z0TEc90jCse6Myy7c1GArdGIWsFTBYNmxY9eB2W5Z18/edit#)
 
+###CATCHUP
+* post curriculum to workshop repo
+* finished fixes on IFES demo, awaiting data
+
+###COLLAB
+###CREATE
 
 
 
