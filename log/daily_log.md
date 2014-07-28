@@ -1021,8 +1021,13 @@ Weekly Updates [document here](https://docs.google.com/a/ushahidi.com/document/d
 
 TODO
 Read through Eva's documentation
-Clean chambua data for 2007-2008
+~~Clean chambua data for 2007-2008~~
 Figure out tooltips for chambua
+
+Button groups for x/y
+Dropdown for visibility
+Add data table below
+Be able to make X/Y dynamically
 
 ####SRCON
 finish data smells repo and collab
@@ -1040,8 +1045,9 @@ Lisa wanted to make sure that this was the case for T47, please confirm. And the
 
 
 
+##7/28/14
 
-
+Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z0TEc90jCse6Myy7c1GArdGIWsFTBYNmxY9eB2W5Z18/edit#)
 
 
 
