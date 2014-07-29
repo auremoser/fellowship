@@ -1056,6 +1056,7 @@ Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z
 * SETUP MY BRCK! Emailed Erik with notes!
 
 ###COLLAB
+* booked travel for argentina
 ###CREATE
 
 
