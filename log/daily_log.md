@@ -1052,6 +1052,8 @@ Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z
 ###CATCHUP
 * post curriculum to workshop repo
 * finished fixes on IFES demo, awaiting data
+* fixed IFES charts for demo tomorrow
+* SETUP MY BRCK! Emailed Erik with notes!
 
 ###COLLAB
 ###CREATE
