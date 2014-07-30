@@ -1057,6 +1057,8 @@ Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z
 
 ###COLLAB
 * booked travel for argentina
+* applied for media party science fair ans workshop slot[application here](https://github.com/auremoser/fellowship/blob/master/proposals/media_party_-_ba_2014.md%20.md)
+* 
 ###CREATE
 
 
