@@ -1054,11 +1054,14 @@ Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z
 * finished fixes on IFES demo, awaiting data
 * fixed IFES charts for demo tomorrow
 * SETUP MY BRCK! Emailed Erik with notes!
+* Open News Call [mopad](https://etherpad.mozilla.org/opennews-calls-July30)
 
 ###COLLAB
 * booked travel for argentina
 * applied for media party science fair ans workshop slot[application here](https://github.com/auremoser/fellowship/blob/master/proposals/media_party_-_ba_2014.md%20.md)
-* 
+* added Heyzen's gif to keyblur
+* applied for an argentinain visa
+* submitted expense reports for july/aug and updated sept. form
 ###CREATE
 
 
