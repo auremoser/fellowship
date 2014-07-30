@@ -1064,6 +1064,36 @@ Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z
 * submitted expense reports for july/aug and updated sept. form
 ###CREATE
 
+Links:
+####IFES-V3
+* [V3 Stats API docs](https://docs.google.com/a/ushahidi.com/document/d/1YXnYvcqZ6L3VdJYQz9vnMxpgMSJ9P1iZbb_xYwyCyuM/edit)
+* [V3 Stats API get](http://v3.ushahididev.com/api/v2/stats)
+* [PastBin of Structure](http://pastebin.com/VcRNbrx5)
+* [IFES Viz Features](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1yTug-h4uuFE9bcyikzfCVI0W7QNm3mDF7N-dMpHw3b4/edit#gid=0)
+* [IFES DataViz Features Doc](https://docs.google.com/a/ushahidi.com/document/d/1cGG9MxDnbbzQqiuXh3Blajx2ily1aGR2-B9cV0rqDEU/edit#)
+* [IFES priority tasks](https://docs.google.com/a/ushahidi.com/spreadsheets/d/11fYfsIF3v51Zi_z8B2usnnk95murDKtuWlpxtJQMXd4/edit#gid=0)
+* [Screenshots of past viz](file:///Users/aurelia/Downloads/screenshots%20of%20previous%20features.pdf)
+* [IFES Viz Demo](http://auremoser.github.io/ifes-viz/)
+* [Stacked Bar JS Fiddle](http://jsfiddle.net/whiletrue/s6BmC/1/)
+* [NoUI slider](http://refreshless.com/nouislider/)
+* [V3 Demo](http://v3.ushahididev.com/#settings/map)
+* [Highcharts API Series](http://api.highcharts.com/highcharts#Series.update)
+* [Highcharts live data](http://jsfiddle.net/gh/get/jquery/1.9.1/highslide-software/highcharts.com/tree/master/samples/stock/demo/dynamic-update/)
+* [Dropbox indicators](https://www.dropbox.com/work/External%20Projects/Ushahidi%20IFES/indicators)
+* [Update Point data test - chart](http://127.0.0.1/Code/2014/ifes/index-2.html)
+* [Highcharts - Set new data jsfiddle](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/series-setdata/)
+* [Highcharts many samples toggle features](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/series-update/)
+
+####Vital Signs
+* Underscore [Group by](http://underscorejs.org/#groupBy)
+* [VS Viz Demo](http://auremoser.github.io/VitalSigns-water/)
+* [Carto DB](https://auremoser.cartodb.com/tables/tza_sagcot_gauging_station_details)
+
+
+####Blogpost
+[Instructions](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points)
+
+
 
 
 
