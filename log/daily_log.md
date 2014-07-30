@@ -1091,7 +1091,8 @@ Links:
 
 
 ####Blogpost
-[Instructions](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points)
+* [Instructions](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points)
+* [SRCCON Session](https://etherpad.mozilla.org/bOwBSAeLe5)
 
 
 
