@@ -1062,6 +1062,8 @@ Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z
 * added Heyzen's gif to keyblur
 * applied for an argentinain visa
 * submitted expense reports for july/aug and updated sept. form
+* wrote an email to my mentees!
+
 ###CREATE
 
 Links:
@@ -1088,6 +1090,7 @@ Links:
 * Underscore [Group by](http://underscorejs.org/#groupBy)
 * [VS Viz Demo](http://auremoser.github.io/VitalSigns-water/)
 * [Carto DB](https://auremoser.cartodb.com/tables/tza_sagcot_gauging_station_details)
+* [Client Expectations](https://docs.google.com/a/ushahidi.com/document/d/1EK-NergafME5Q5GXHkX8XMHlS9Y0ZK5gdrcS4mU5EXc/edit)
 
 
 ####Blogpost
