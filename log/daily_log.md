@@ -1091,6 +1091,7 @@ Links:
 * [VS Viz Demo](http://auremoser.github.io/VitalSigns-water/)
 * [Carto DB](https://auremoser.cartodb.com/tables/tza_sagcot_gauging_station_details)
 * [Client Expectations](https://docs.google.com/a/ushahidi.com/document/d/1EK-NergafME5Q5GXHkX8XMHlS9Y0ZK5gdrcS4mU5EXc/edit)
+* [jsfiddle Button and Render](http://jsfiddle.net/PEZman777/5pkcH/6/)
 
 
 ####Blogpost
