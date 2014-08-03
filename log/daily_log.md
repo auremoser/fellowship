@@ -1065,6 +1065,7 @@ Weekly Updates email [here](https://docs.google.com/a/ushahidi.com/document/d/1Z
 * wrote an email to my mentees!
 
 ###CREATE
+* converted to foundation - ifes
 
 Links:
 ####IFES-V3
