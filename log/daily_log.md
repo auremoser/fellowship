@@ -1099,7 +1099,14 @@ Links:
 * [Instructions](https://etherpad.mozilla.org/opennews-2014-fellow-talking-points)
 * [SRCCON Session](https://etherpad.mozilla.org/bOwBSAeLe5)
 
+##8/4/2014
 
+* Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1f7EaJuhBXwEDHdbOeivlJh_RpTY_qEsFB6NGdxI3oEM/edit#)
+
+###COLLAB
+###CATCHUP
+* answered email from Anarghya and Greg about Vital Signs and IFES
+###CREATE
 
 
 
