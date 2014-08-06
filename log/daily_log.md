@@ -1087,6 +1087,10 @@ Links:
 * [Highcharts - Set new data jsfiddle](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/series-setdata/)
 * [Highcharts many samples toggle features](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/series-update/)
 
+####HIV@30
+* bug fix [here](http://d3export.housegordon.org/)
+
+
 ####Vital Signs
 * Underscore [Group by](http://underscorejs.org/#groupBy)
 * [VS Viz Demo](http://auremoser.github.io/VitalSigns-water/)
