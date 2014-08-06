@@ -1104,9 +1104,15 @@ Links:
 * Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1f7EaJuhBXwEDHdbOeivlJh_RpTY_qEsFB6NGdxI3oEM/edit#)
 
 ###COLLAB
+
 ###CATCHUP
 * answered email from Anarghya and Greg about Vital Signs and IFES
+* worked on Vital Signs over the weekend, sped up, cleaned up data sets, added menus, added toggle explorer 
+
 ###CREATE
+* added new Vital Signs Features to Greg's Viz document, sent email with updates and a screenshot [here](https://docs.google.com/a/ushahidi.com/document/d/1EqgVCw-hSaYcjneleup-y-xz5_h9r--00TGQq7DUSuQ/edit#)
+* recified README documentation to match those edits (https://github.com/auremoser/VitalSigns-water)
+* Wrote blog post about Parallax for Open News [drive](http://aureliamoser.com/2014/08/05/parallax-effects-modern-map-moving-in-interactive-news/)
 
 
 
