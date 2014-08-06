@@ -1108,7 +1108,9 @@ Links:
 * Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1f7EaJuhBXwEDHdbOeivlJh_RpTY_qEsFB6NGdxI3oEM/edit#)
 
 ###COLLAB
+* meeting with IFES on Tuesday to go over data visualization requirements, expecting followup from them soon
 
+* meeting with Vital Signs on Monday and Wednesday (8am - mFieldwork folks)
 * go through sandy's email and try to make aesthetic changes (they asked me to make fake data :/ no)
 * sent anarghya coffee
 * 
