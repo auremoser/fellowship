@@ -1109,6 +1109,10 @@ Links:
 
 ###COLLAB
 
+* go through sandy's email and try to make aesthetic changes (they asked me to make fake data :/ no)
+* sent anarghya coffee
+* 
+
 ###CATCHUP
 * answered email from Anarghya and Greg about Vital Signs and IFES
 * worked on Vital Signs over the weekend, sped up, cleaned up data sets, added menus, added toggle explorer 
