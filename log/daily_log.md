@@ -1088,7 +1088,8 @@ Links:
 * [Highcharts many samples toggle features](http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/series-update/)
 
 ####HIV@30
-* bug fix [here](http://d3export.housegordon.org/)
+* svg fix [here](http://d3export.housegordon.org/)
+* svg to png [here](http://stackoverflow.com/questions/19378295/converting-svg-created-with-d3js-to-png)
 
 
 ####Vital Signs
@@ -1130,6 +1131,8 @@ Links:
 * resume
 * gdi workshop
 * open news promotional things
+* tidy up fellow repo, project links
+* email vidya about ushahidi blog post
 
 
 
