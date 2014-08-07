@@ -1113,7 +1113,7 @@ Links:
 * meeting with Vital Signs on Monday and Wednesday (8am - mFieldwork folks)
 * go through sandy's email and try to make aesthetic changes (they asked me to make fake data :/ no)
 * sent anarghya coffee
-* 
+* brought up trip to Argentina - going to be out of town
 
 ###CATCHUP
 * answered email from Anarghya and Greg about Vital Signs and IFES
@@ -1124,6 +1124,12 @@ Links:
 * recified README documentation to match those edits (https://github.com/auremoser/VitalSigns-water)
 * Wrote blog post about Parallax for Open News [drive](http://aureliamoser.com/2014/08/05/parallax-effects-modern-map-moving-in-interactive-news/)
 
+
+###ToDos
+* In markdown
+* resume
+* gdi workshop
+* open news promotional things
 
 
 
