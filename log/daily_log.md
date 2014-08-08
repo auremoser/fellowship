@@ -1133,6 +1133,7 @@ Links:
 * open news promotional things
 * tidy up fellow repo, project links
 * email vidya about ushahidi blog post
+* * try http://v3.ushahididev.com/apiexplorer/stats/posts?axis1=time (as of 3pm on thursday august 7th)
 
 
 
