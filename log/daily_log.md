@@ -1129,11 +1129,12 @@ Links:
 ###ToDos
 * In markdown
 * resume
-* gdi workshop
-* open news promotional things
 * tidy up fellow repo, project links
 * email vidya about ushahidi blog post
 * * try http://v3.ushahididev.com/apiexplorer/stats/posts?axis1=time (as of 3pm on thursday august 7th) => didn't work
+
+##8/11/14
+Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1N3I1ESHE7le-92smiB0IZGAjeV0FMyoc2NoDujMSn_Y/edit#heading=h.1vcfjtpu9qap)
 
 
 
