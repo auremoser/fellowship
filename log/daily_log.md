@@ -1136,6 +1136,9 @@ Links:
 ##8/11/14
 Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1N3I1ESHE7le-92smiB0IZGAjeV0FMyoc2NoDujMSn_Y/edit#heading=h.1vcfjtpu9qap)
 
+###CATCHUP
+* reach out to vital sigs with updates to viz
+* respond to jonathon stray about opsec stuff
 
 
 
