@@ -1146,6 +1146,10 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * worked on write up for HIV@30
 * tried to fix HIV@30 zoom
 
+###COLLAB
+* setup meeting with John Crowley for documentation
+
+
 
 
 
