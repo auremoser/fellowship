@@ -1139,6 +1139,13 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * reach out to vital sigs with updates to viz
 * respond to jonathon stray about opsec stuff
 * apply to mozfest? <http://2014.mozillafestival.org/propose/>
+* open news [community call](https://etherpad.mozilla.org/opennews-calls-Aug13)
+
+###CREATE
+* worked on bugs for Vital Signs project, multiple data sets now display
+* worked on write up for HIV@30
+* tried to fix HIV@30 zoom
+
 
 
 
