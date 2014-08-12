@@ -1127,10 +1127,9 @@ Links:
 
 
 ###ToDos
-* In markdown
 * resume
 * tidy up fellow repo, project links
-* email vidya about ushahidi blog post
+* ~~email vidya about ushahidi blog post~~
 * * try http://v3.ushahididev.com/apiexplorer/stats/posts?axis1=time (as of 3pm on thursday august 7th) => didn't work
 
 ##8/11/14
@@ -1139,6 +1138,7 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 ###CATCHUP
 * reach out to vital sigs with updates to viz
 * respond to jonathon stray about opsec stuff
+* apply to mozfest? <http://2014.mozillafestival.org/propose/>
 
 
 
