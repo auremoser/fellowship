@@ -1148,6 +1148,10 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 
 ###COLLAB
 * setup meeting with John Crowley for documentation
+* met with vital signs team [call notes](https://docs.google.com/a/ushahidi.com/document/d/1yOLr2vdovRPwuYwW2hnsAsNw7fxJLaKkZnre5bAh5sw/edit)
+* 	pointed everyone to [this doc](https://docs.google.com/a/ushahidi.com/document/d/1EqgVCw-hSaYcjneleup-y-xz5_h9r--00TGQq7DUSuQ/edit)
+* met with exproject team
+* applied to ONA [security forum](http://journalists.org/event/ona-dcamp-digital-security/)
 
 
 
