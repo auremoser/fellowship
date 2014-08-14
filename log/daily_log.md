@@ -1144,9 +1144,9 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 ###CREATE
 * worked on bugs for Vital Signs project, multiple data sets now display
 * worked on write up for HIV@30
-* HIV writeup [Code](); [Demo]()
-* HIV zoom project [Code](); [Demo]()
-* HIV cluster project [Code](); [Demo]()
+* HIV writeup [README](https://github.com/auremoser/hiv-30_zoom/blob/master/README.md); [Code](https://github.com/internews-ke/hiv-30); [Sentiment Analsyis Notes](https://github.com/internews-ke/hiv-30/tree/master/Sentiment_Analysis)
+* HIV zoom project [Code](https://github.com/auremoser/hiv-30_zoom); [Demo](http://auremoser.github.io/hiv-30_zoom/)
+* HIV cluster project [Code](https://github.com/auremoser/hiv-30_cluster); [Demo](http://auremoser.github.io/hiv-30_cluster/)
 * Made fixes and iterations on the Vital Signs Proejct
 
 ###COLLAB
@@ -1156,6 +1156,7 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * met with exproject team
 * applied to ONA [security forum](http://journalists.org/event/ona-dcamp-digital-security/)
 * meeting with John Crowley on Thursday to discuss docs for V3
+* sent longer email to John about resources and documentation tools
 * back and forth email with Sandy of Vital Signs, Nat about Logi Analytics
 * email with Dorothy about HIV @30 docs
 
