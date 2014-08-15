@@ -1162,12 +1162,14 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * sent longer email to John about resources and documentation tools
 * back and forth email with Sandy of Vital Signs, Nat about Logi Analytics
 * email with Dorothy about HIV @30 docs
+* Had tea and info share with Lyre Calliope @ Mozilla ("lyre.calliope@gmail.com" <lyre.calliope@gmail.com>)
 
 
 
 TODO
 Mozfest application (timezones with julian)
 Nicar application with Chris (terminal hacks)
+Apply to senior web project eng job (anadu.com)
 
 
 
