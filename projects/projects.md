@@ -41,7 +41,11 @@ Conference | Location | Date | Role
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
 [SRCCON](http://srccon.org/) | Philadelphia | Jul 24-25 | [Speaker](http://srccon.org/sessions/) | [Source Writeup](https://source.opennews.org/en-US/articles/srccon-how-not-skew-data-statistics/) | [Etherpad Takeaway](https://etherpad.mozilla.org/bOwBSAeLe5)
 ~~[Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page)*~~ | ~~London~~ | ~~Aug 14~~ | ~~Speaker~~
+[Hacks Hackers Media Conference](http://mediaparty.info/) | Buenos Aires, Argentina | August 28-30 | Speaker: Keyblur and Opsec (pending)
 [ONA14](http://ona14.journalists.org/suggestion-box/faq/)* | Chicago, IL | Sept. 25-27th | Speaker (pending)
+
+
+
 
 "*" haven't posted on Ush calendar
 
