@@ -1148,6 +1148,8 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * HIV zoom project [Code](https://github.com/auremoser/hiv-30_zoom); [Demo](http://auremoser.github.io/hiv-30_zoom/)
 * HIV cluster project [Code](https://github.com/auremoser/hiv-30_cluster); [Demo](http://auremoser.github.io/hiv-30_cluster/)
 * Made fixes and iterations on the Vital Signs Proejct
+* Updated HIV @30 timeline with additions
+ 
 
 ###COLLAB
 * setup meeting with John Crowley for documentation
@@ -1162,7 +1164,9 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 
 
 
-
+TODO
+Mozfest application (timezones with julian)
+Nicar application with Chris (terminal hacks)
 
 
 
