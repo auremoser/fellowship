@@ -32,7 +32,7 @@ Conference | Location | Date | Role
 [Women TechMakers Summit](http://womentechmakers.com/) | NYC | Mar 14 | Attendee
 [Edge Conference](http://edgeconf.com/2014-london) | London | Mar 14 | Participant
 [IDLELO Conf](http://www.idlelo.net/) | Nairobi | Mar 14 | Speaker
-[MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March31-April 4 | Mentor/[Speaker](http://auremoser.github.io/mavc/)
+[MAVC-Global Innovation Challenge](http://www.makingallvoicescount.org/news/innovation-in-action/) | Nairobi | March 31-April 4 | Mentor/[Speaker](http://auremoser.github.io/mavc/)
 [Media Hack Days](http://www.mediahackdays.com/) | Aarhus, Denmark | May 2-4th | [Speaker](https://github.com/auremoser/mhd) + Hackathon Participant - [Project](https://github.com/auremoser/geonewsies) | [Talk Video](http://www.mediahackdays.com/)
 [EyEO](http://eyeofestival.com/) | Minneapolis | Jun 9-13 | Ignite Speaker
 [MIT Civic Media](http://civic.mit.edu/) | Boston | June 20-25th | Open News Attendee/Ignite speaker | [Talk Video](vimeo.com/m/99248186)
@@ -41,7 +41,9 @@ Conference | Location | Date | Role
 [Digital Preservation Conference](http://blogs.loc.gov/digitalpreservation/2014/02/call-for-proposals-digital-preservation-2014/) | DC | July 22-23 | Rep for Designathon / Panelist
 [SRCCON](http://srccon.org/) | Philadelphia | Jul 24-25 | [Speaker](http://srccon.org/sessions/) | [Source Writeup](https://source.opennews.org/en-US/articles/srccon-how-not-skew-data-statistics/) | [Etherpad Takeaway](https://etherpad.mozilla.org/bOwBSAeLe5)
 ~~[Wikimania](https://wikimania2014.wikimedia.org/wiki/Main_Page)*~~ | ~~London~~ | ~~Aug 14~~ | ~~Speaker~~
-[Hacks Hackers Media Conference](http://mediaparty.info/) | Buenos Aires, Argentina | August 28-30 | Speaker: Keyblur and Opsec (pending)
+[Hacks Hackers Media Conference](http://mediaparty.info/) | Buenos Aires, Argentina | Aug 28-30 | Speaker: Keyblur and Opsec (pending)
+[Edge Conference](https://edgeconf.com/2014-sf) | San Francisco |Sept 20th | Participant
+[Moz Fest](http://2014.mozillafestival.org/) | London | October 28-30 | Session Lead (pending)
 [ONA14](http://ona14.journalists.org/suggestion-box/faq/)* | Chicago, IL | Sept. 25-27th | Speaker (pending)
 
 
