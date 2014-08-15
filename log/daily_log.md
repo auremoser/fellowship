@@ -1169,7 +1169,7 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 TODO
 Mozfest application (timezones with julian)
 Nicar application with Chris (terminal hacks)
-Apply to senior web project eng job (anadu.com)
+Apply to senior web project eng job (https://careers.mozilla.org/en-US/position/oEGYYfw0)
 
 
 
