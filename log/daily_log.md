@@ -1149,6 +1149,7 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * HIV cluster project [Code](https://github.com/auremoser/hiv-30_cluster); [Demo](http://auremoser.github.io/hiv-30_cluster/)
 * Made fixes and iterations on the Vital Signs Proejct
 * Updated HIV @30 timeline with additions
+* Wrote a blog post for the Ushahidi Blog [just here](https://docs.google.com/a/ushahidi.com/document/d/1fQ8k5vbbotcuRRKk_DKmD1VAhqZq1Ta5K6E741QZW-M/edit)
  
 
 ###COLLAB
