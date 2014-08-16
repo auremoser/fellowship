@@ -1174,6 +1174,12 @@ Apply to senior web project eng job (https://careers.mozilla.org/en-US/position/
 Vital Signs Logo Adds
 Updates to the chambua visual
 
+##8/18/14
+* Weekly Updates [doc here](https://docs.google.com/a/ushahidi.com/document/d/1txEYCaC3yYJQmT8mB8vX0gmclLxJrq410cj9lIas80g/edit#)
+###CATCHUP
+###COLLAB
+###CREATE
+
 
 
 
