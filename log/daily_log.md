@@ -1147,7 +1147,7 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * HIV writeup [README](https://github.com/auremoser/hiv-30_zoom/blob/master/README.md); [Code](https://github.com/internews-ke/hiv-30); [Sentiment Analsyis Notes](https://github.com/internews-ke/hiv-30/tree/master/Sentiment_Analysis)
 * HIV zoom project [Code](https://github.com/auremoser/hiv-30_zoom); [Demo](http://auremoser.github.io/hiv-30_zoom/)
 * HIV cluster project [Code](https://github.com/auremoser/hiv-30_cluster); [Demo](http://auremoser.github.io/hiv-30_cluster/)
-* Made fixes and iterations on the Vital Signs Proejct
+* Made fixes and iterations on the Vital Signs Prject
 * Updated HIV @30 timeline with additions
 * Wrote a blog post for the Ushahidi Blog [just here](https://docs.google.com/a/ushahidi.com/document/d/1fQ8k5vbbotcuRRKk_DKmD1VAhqZq1Ta5K6E741QZW-M/edit)
  
@@ -1170,6 +1170,10 @@ TODO
 Mozfest application (timezones with julian)
 Nicar application with Chris (terminal hacks)
 Apply to senior web project eng job (https://careers.mozilla.org/en-US/position/oEGYYfw0)
+
+Vital Signs Logo Adds
+Updates to the chambua visual
+
 
 
 
