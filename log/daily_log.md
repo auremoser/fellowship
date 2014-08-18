@@ -1165,20 +1165,22 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * Had tea and info share with Lyre Calliope @ Mozilla ("lyre.calliope@gmail.com" <lyre.calliope@gmail.com>)
 
 
-
 TODO
 Mozfest application (timezones with julian)
 Nicar application with Chris (terminal hacks)
 Apply to senior web project eng job (https://careers.mozilla.org/en-US/position/oEGYYfw0)
 
 Vital Signs Logo Adds
-Updates to the chambua visual
 
 ##8/18/14
 * Weekly Updates [doc here](https://docs.google.com/a/ushahidi.com/document/d/1txEYCaC3yYJQmT8mB8vX0gmclLxJrq410cj9lIas80g/edit#)
 ###CATCHUP
 ###COLLAB
 ###CREATE
+
+###CRISIS NET IDEAS
+* 100 years of Tear Gas : http://www.theatlantic.com/international/archive/2014/08/100-years-of-tear-gas/378632/2/
+* * yemen [Green Arabia](http://www.idlewords.com/2014/08/green_arabia.htm)
 
 
 
