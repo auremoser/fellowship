@@ -1176,7 +1176,8 @@ Vital Signs Logo Adds
 * Weekly Updates [doc here](https://docs.google.com/a/ushahidi.com/document/d/1txEYCaC3yYJQmT8mB8vX0gmclLxJrq410cj9lIas80g/edit#)
 ###CATCHUP
 ###COLLAB
-* submitted 3 applications for MozFest (libraries, timezones, interactive upcycling)
+* submitted 2 applications for MozFest (libraries, timezones) -> check that it posts in 2 days
+* had call about the library submission [notes](https://etherpad.mozilla.org/b17LpPONWE), need to flesh out the repo [here](https://github.com/mozillascience/training_for_libraries)
 ###CREATE
 
 ###CRISIS NET IDEAS
