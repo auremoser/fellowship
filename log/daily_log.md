@@ -1176,6 +1176,7 @@ Vital Signs Logo Adds
 * Weekly Updates [doc here](https://docs.google.com/a/ushahidi.com/document/d/1txEYCaC3yYJQmT8mB8vX0gmclLxJrq410cj9lIas80g/edit#)
 ###CATCHUP
 ###COLLAB
+* submitted 3 applications for MozFest (libraries, timezones, interactive upcycling)
 ###CREATE
 
 ###CRISIS NET IDEAS
