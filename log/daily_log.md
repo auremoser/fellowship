@@ -1178,9 +1178,14 @@ Vital Signs Logo Adds
 * Weekly Updates [doc here](https://docs.google.com/a/ushahidi.com/document/d/1txEYCaC3yYJQmT8mB8vX0gmclLxJrq410cj9lIas80g/edit#)
 ###CATCHUP
 ###COLLAB
-* submitted 2 applications for MozFest (libraries, timezones) -> check that it posts in 2 days
+* submitted 2 applications for MozFest (libraries, timezones, upcycling interactives) -> check that it [posts](http://2014.mozillafestival.org/proposals/) in 2 days
 * had call about the library submission [notes](https://etherpad.mozilla.org/b17LpPONWE), need to flesh out the repo [here](https://github.com/mozillascience/training_for_libraries)
 ###CREATE
+*
+
+
+###IFES
+* Grayscale [link to stack overlflow](http://stackoverflow.com/questions/15411586/grayscale-svg-in-highcharts)
 
 ###CRISIS NET IDEAS
 * 100 years of Tear Gas : http://www.theatlantic.com/international/archive/2014/08/100-years-of-tear-gas/378632/2/
