@@ -1099,6 +1099,9 @@ Links:
 * [Carto DB](https://auremoser.cartodb.com/tables/tza_sagcot_gauging_station_details)
 * [Client Expectations](https://docs.google.com/a/ushahidi.com/document/d/1EK-NergafME5Q5GXHkX8XMHlS9Y0ZK5gdrcS4mU5EXc/edit)
 * [jsfiddle Button and Render](http://jsfiddle.net/PEZman777/5pkcH/6/)
+* [phabricator](https://phabricator.ushahidi.com/project/view/17/)
+* [basecamp](https://basecamp.com/1931265/projects/5491625
+* [Greg's MVP Document](https://docs.google.com/a/ushahidi.com/document/d/1ywH2a9Q1nmb94RwJGuEVyRbV5_6nTsF5KUOnIllhQQY/edit))
 
 
 ####Blogpost
@@ -1172,11 +1175,10 @@ TODO
 * Nicar application with Chris (terminal hacks)
 * Apply to senior web project eng job (https://careers.mozilla.org/en-US/position/oEGYYfw0)
 
-Vital Signs Logo Adds
-
 ##8/18/14
 * Weekly Updates [doc here](https://docs.google.com/a/ushahidi.com/document/d/1txEYCaC3yYJQmT8mB8vX0gmclLxJrq410cj9lIas80g/edit#)
 ###CATCHUP
+* responded to Avery's changes in the vis document
 ###COLLAB
 * submitted 2 applications for MozFest (libraries, timezones, upcycling interactives) -> check that it [posts](http://2014.mozillafestival.org/proposals/) in 2 days
 * had call about the library submission [notes](https://etherpad.mozilla.org/b17LpPONWE), need to flesh out the repo [here](https://github.com/mozillascience/training_for_libraries)
