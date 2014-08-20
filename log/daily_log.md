@@ -1182,6 +1182,8 @@ TODO
 ###COLLAB
 * submitted 2 applications for MozFest (libraries, timezones, upcycling interactives) -> check that it [posts](http://2014.mozillafestival.org/proposals/) in 2 days
 * had call about the library submission [notes](https://etherpad.mozilla.org/b17LpPONWE), need to flesh out the repo [here](https://github.com/mozillascience/training_for_libraries)
+* external projects meeting [weekly doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+* added to phab for vital signs [here](https://phabricator.ushahidi.com/project/view/17/)
 ###CREATE
 * Sent Anarghya an update email on 8/20/14
 
