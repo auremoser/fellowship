@@ -1180,14 +1180,18 @@ TODO
 * Weekly Updates [doc here](https://docs.google.com/a/ushahidi.com/document/d/1txEYCaC3yYJQmT8mB8vX0gmclLxJrq410cj9lIas80g/edit#)
 ###CATCHUP
 * responded to Avery's changes in the vis document
+* Open News [checkin call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-august)
+* 
 ###COLLAB
 * submitted 2 applications for MozFest (libraries, timezones, upcycling interactives) -> check that it [posts](http://2014.mozillafestival.org/proposals/) in 2 days
 * had call about the library submission [notes](https://etherpad.mozilla.org/b17LpPONWE), need to flesh out the repo [here](https://github.com/mozillascience/training_for_libraries)
 * external projects meeting [weekly doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 * added to phab for vital signs [here](https://phabricator.ushahidi.com/project/view/17/)
+
 ###CREATE
 * Sent Anarghya an update email on 8/20/14 about timeline for IFES
 * Emailed along the final Vital Signs isualization, [Demo](http://auremoser.github.io/VitalSigns-water) and [Code](https://github.com/auremoser/VitalSigns-water)
+* Created Internews Curriculum [repo](https://github.com/internews-ke/data-workshop)
 
 
 ###IFES
@@ -1198,12 +1202,7 @@ TODO
 * 100 years of Tear Gas : http://www.theatlantic.com/international/archive/2014/08/100-years-of-tear-gas/378632/2/
 * * yemen [Green Arabia](http://www.idlewords.com/2014/08/green_arabia.htm)
 
-###Curriculum
-* Journalism in the age of data missing - day 1
-* materials and csvs in eva's repo wer not labeled...so no yet included
-* all explained in the readme and each presentation has ppt and pdf formats
-* Paul's presentation missing (day 3)
-* Suleiman's as well
+
 
 
 
