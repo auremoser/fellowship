@@ -1198,6 +1198,14 @@ TODO
 * 100 years of Tear Gas : http://www.theatlantic.com/international/archive/2014/08/100-years-of-tear-gas/378632/2/
 * * yemen [Green Arabia](http://www.idlewords.com/2014/08/green_arabia.htm)
 
+###Curriculum
+* Journalism in the age of data missing - day 1
+* materials and csvs in eva's repo wer not labeled...so no yet included
+* all explained in the readme and each presentation has ppt and pdf formats
+* Paul's presentation missing (day 3)
+* Suleiman's as well
+
+
 
 
 
