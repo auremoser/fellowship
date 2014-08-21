@@ -1102,6 +1102,7 @@ Links:
 * [phabricator](https://phabricator.ushahidi.com/project/view/17/)
 * [basecamp](https://basecamp.com/1931265/projects/5491625
 * [Greg's MVP Document](https://docs.google.com/a/ushahidi.com/document/d/1ywH2a9Q1nmb94RwJGuEVyRbV5_6nTsF5KUOnIllhQQY/edit))
+* [updated basecampe with notes to lisa](https://basecamp.com/1931265/projects/3976654/messages/29875705)
 
 
 ####Blogpost
@@ -1185,7 +1186,8 @@ TODO
 * external projects meeting [weekly doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 * added to phab for vital signs [here](https://phabricator.ushahidi.com/project/view/17/)
 ###CREATE
-* Sent Anarghya an update email on 8/20/14
+* Sent Anarghya an update email on 8/20/14 about timeline for IFES
+* Emailed along the final Vital Signs isualization, [Demo](http://auremoser.github.io/VitalSigns-water) and [Code](https://github.com/auremoser/VitalSigns-water)
 
 
 ###IFES
