@@ -1192,6 +1192,7 @@ TODO
 
 ###IFES
 * Grayscale [link to stack overlflow](http://stackoverflow.com/questions/15411586/grayscale-svg-in-highcharts)
+* [ifes features](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1fqEz-a06K5SU9bG7xRuvkbjudsXEUClVb6xLgQHEksA/edit#gid=0)
 
 ###CRISIS NET IDEAS
 * 100 years of Tear Gas : http://www.theatlantic.com/international/archive/2014/08/100-years-of-tear-gas/378632/2/
