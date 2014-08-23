@@ -1215,7 +1215,8 @@ this [link](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojso
 * [demo site](http://ddjtraining.org/blog/)
 
 
-
+TO DO
+Prepare keyblur talk
 
 
 
