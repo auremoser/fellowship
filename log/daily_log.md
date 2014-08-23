@@ -1195,6 +1195,11 @@ TODO
 * Created Internews Curriculum [repo](https://github.com/internews-ke/data-workshop)
 * [API structure](https://phabricator.ushahidi.com/T653), supposedly 
 
+###Vital Signs
+* converted rivers to geojson: 
+this [link](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/)
+`ogr2ogr -f GeoJSON -t_srs crs:84 [name].geojson [name].shp`
+* rivers [data here](http://www.fao.org/geonetwork/srv/en/metadata.show?id=37333)
 
 ###IFES
 * Grayscale [link to stack overlflow](http://stackoverflow.com/questions/15411586/grayscale-svg-in-highcharts)
