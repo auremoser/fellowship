@@ -1227,6 +1227,8 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 
 ###CATCHUP
 * email and docs to update
+* watchign ping demo
+* prepared talk notes with Harlo
 
 
 
