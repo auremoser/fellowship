@@ -1225,6 +1225,9 @@ BRCK Project
 ##8/25/14
 Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtmkEoH6unk2nyWqkgHEN1hJyvpWnXjnLOdV0/edit#heading=h.y0ne7hwldthw)
 
+###CATCHUP
+* email and docs to update
+
 
 
 
