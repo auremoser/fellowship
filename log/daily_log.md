@@ -1227,6 +1227,10 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * watchign ping demo
 * prepared talk notes with Harlo
 
+###COLLAB
+* Exp Meeting with Greg and team [notes here]()
+* Vital Signs meeting moved to Friday
+
 ####TO DO
 * go over emi's repo
 * work through presentation
@@ -1235,6 +1239,8 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * presentation and outline for workshop
 * email alain
 * HIV@30 Fix update issue
+* Make something out of my srccon repo
+* 
 
 
 
