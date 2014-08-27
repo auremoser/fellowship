@@ -1240,7 +1240,7 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * email alain
 * HIV@30 Fix update issue
 * Make something out of my srccon repo
-* 
+* Go over michael's using objects tutorial [here](https://gist.github.com/mhkeller/c78b0766a76285b6a4a0)
 
 
 
