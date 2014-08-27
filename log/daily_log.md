@@ -1215,9 +1215,6 @@ this [link](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojso
 * [demo site](http://ddjtraining.org/blog/)
 
 
-TO DO
-Prepare keyblur talk
-
 Open WRT
 EFF Router Project
 BRCK Project
@@ -1229,6 +1226,16 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * email and docs to update
 * watchign ping demo
 * prepared talk notes with Harlo
+
+####TO DO
+* go over emi's repo
+* work through presentation
+* figure out why update isn't working on hiv@30 project
+* write blog post for robots
+* presentation and outline for workshop
+* email alain
+* HIV@30 Fix update issue
+
 
 
 
