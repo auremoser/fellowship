@@ -1247,6 +1247,10 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * [Planet Library](https://github.com/ptn/kepler)
 * [Modeling Comets](https://rosetta.jpl.nasa.gov/activities/Modeling_Comets_SA.pdf)
 * [Rosetta Commet Modeling](http://www.nasa.gov/jpl/rosetta/pia18419/)
+* [3D Planet Libraries](https://libreplanet.org/wiki/Google_Earth_replacement)
+* [Planetary Simulations Software](http://phl.upr.edu/software)
+* [Celestia](http://www.shatters.net/celestia/)
+* [QGIS + 3GIS](http://anitagraser.com/2014/03/15/3d-viz-with-qgis-three-js/)
 
 
 
