@@ -1240,12 +1240,13 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * email alain
 * HIV@30 Fix update issue
 * Make something out of my srccon repo
-* Go over michael's using objects tutorial [here](https://gist.github.com/mhkeller/c78b0766a76285b6a4a0)
+* ~~Go over michael's using objects tutorial [here](https://gist.github.com/mhkeller/c78b0766a76285b6a4a0)~~
 
 ####Kepler Plant Project
 * [Nasa Contact](http://www.nasa.gov/connect/artspace/creative_works/feature-dan-goods-video.html)
 * [Planet Library](https://github.com/ptn/kepler)
 * [Modeling Comets](https://rosetta.jpl.nasa.gov/activities/Modeling_Comets_SA.pdf)
+* [Rosetta Commet Modeling](http://www.nasa.gov/jpl/rosetta/pia18419/)
 
 
 
