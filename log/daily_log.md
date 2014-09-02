@@ -1253,6 +1253,9 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * [Celestia](http://www.shatters.net/celestia/)
 * [QGIS + 3GIS](http://anitagraser.com/2014/03/15/3d-viz-with-qgis-three-js/)
 
+##9/2/14
+* Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1qZ1njzJdhhUycrcqogI689g2MvQZVO_G624EgoA8AfE/edit#)
+* Hackathon Planning [doc](https://docs.google.com/document/d/1KWL4OPVSobNebYTUs1T-5aFylMihfd5ec7tOPN36C-U/edit#)
 
 
 
