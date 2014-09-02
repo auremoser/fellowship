@@ -1252,6 +1252,9 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * [Planetary Simulations Software](http://phl.upr.edu/software)
 * [Celestia](http://www.shatters.net/celestia/)
 * [QGIS + 3GIS](http://anitagraser.com/2014/03/15/3d-viz-with-qgis-three-js/)
+* [D3 Planets](http://bl.ocks.org/djvanderlaan/4953593)
+* [Non D3 Wiki for Planet sim](https://github.com/oluckyman/js-planets/blob/master/part1.md)
+* [Comet](http://en.wikipedia.org/wiki/C/2013_A1)
 
 ##9/2/14
 * Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1qZ1njzJdhhUycrcqogI689g2MvQZVO_G624EgoA8AfE/edit#)
