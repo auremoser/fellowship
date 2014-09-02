@@ -1260,6 +1260,11 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1qZ1njzJdhhUycrcqogI689g2MvQZVO_G624EgoA8AfE/edit#)
 * Hackathon Planning [doc](https://docs.google.com/document/d/1KWL4OPVSobNebYTUs1T-5aFylMihfd5ec7tOPN36C-U/edit#)
 
+###CATCHUP
+* Sent out contact information for hackers  for our workshops
+* 
+
+
 
 
 
