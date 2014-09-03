@@ -1271,7 +1271,9 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 
 ###CREATE
 * working on kepler
-* http://dat-data.com/
+* working on ss website
+* working on designs for vital signs woodfuel
+* working on 
 
 
 
