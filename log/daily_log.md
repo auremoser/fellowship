@@ -1105,6 +1105,7 @@ Links:
 * [updated basecampe with notes to lisa](https://basecamp.com/1931265/projects/3976654/messages/29875705)
 * [Formhub Repo](https://github.com/ushahidi/formhub)
 * [Vital Signs Wireframes](https://docs.google.com/a/ushahidi.com/presentation/d/1D_ffJwoLYhrIoOR2KLgY1J7-FxgkH6HWZFQAhhpWmNc/edit#slide=id.g3a78675cb_03)
+* [Credentials](http://162.243.88.147/ username: vitalsigns , password: ushahidi)
 
 
 ####Blogpost
