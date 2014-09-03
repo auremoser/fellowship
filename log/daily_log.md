@@ -1265,6 +1265,10 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * [Planet Repo](https://github.com/auremoser/planets)
 * Answered Tim's question about grants
 
+###COLLAB
+* External Projects meeting wed. [notes](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+
+
 
 
 
