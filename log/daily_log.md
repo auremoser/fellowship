@@ -1267,6 +1267,12 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 
 ###COLLAB
 * External Projects meeting wed. [notes](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+* Open News Community call [notes](https://etherpad.mozilla.org/opennews-calls-Sept3)
+
+###CREATE
+* working on kepler
+* http://dat-data.com/
+
 
 
 
