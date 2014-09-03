@@ -1254,9 +1254,18 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * [Non D3 Wiki for Planet sim](https://github.com/oluckyman/js-planets/blob/master/part1.md)
 * [Comet](http://en.wikipedia.org/wiki/C/2013_A1)
 
+####Biodiversity project
+* [Planet Labs](https://www.planet.com/)
+* [EOL](http://eol.org/)
+* [Million Trees](http://stewardship.nycparks.org/)
+* [Global Forest Watch](http://www.globalforestwatch.org/map/4/-37.14/-57.91/ARG/grayscale/loss/596,592,591,558,590,599,601)
+
+
 ##9/2/14
 * Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1qZ1njzJdhhUycrcqogI689g2MvQZVO_G624EgoA8AfE/edit#)
 * Hackathon Planning [doc](https://docs.google.com/document/d/1KWL4OPVSobNebYTUs1T-5aFylMihfd5ec7tOPN36C-U/edit#)
+* [Victory in Sty Pi]
+* [Bosque](http://www.bancodebosques.org/spip.php?lang=en)
 
 ###CATCHUP
 * Sent out contact information for hackers  for our workshops
