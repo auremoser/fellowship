@@ -1262,7 +1262,10 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 
 ###CATCHUP
 * Sent out contact information for hackers  for our workshops
-* 
+* Connected Shadrock with GDI Bolder
+* Worked on [planet modeling](https://code.stypi.com/aure/planets.html)
+* [Planet Repo](https://github.com/auremoser/planets)
+* Answered Tim's question about grants
 
 
 
