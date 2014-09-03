@@ -1100,9 +1100,10 @@ Links:
 * [Client Expectations](https://docs.google.com/a/ushahidi.com/document/d/1EK-NergafME5Q5GXHkX8XMHlS9Y0ZK5gdrcS4mU5EXc/edit)
 * [jsfiddle Button and Render](http://jsfiddle.net/PEZman777/5pkcH/6/)
 * [phabricator](https://phabricator.ushahidi.com/project/view/17/)
-* [basecamp](https://basecamp.com/1931265/projects/5491625
+* [basecamp](https://basecamp.com/1931265/projects/5491625)
 * [Greg's MVP Document](https://docs.google.com/a/ushahidi.com/document/d/1ywH2a9Q1nmb94RwJGuEVyRbV5_6nTsF5KUOnIllhQQY/edit))
 * [updated basecampe with notes to lisa](https://basecamp.com/1931265/projects/3976654/messages/29875705)
+* [Formhub Repo](https://github.com/ushahidi/formhub)
 
 
 ####Blogpost
@@ -1214,11 +1215,6 @@ this [link](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojso
 ###Curriculum
 * [demo site](http://ddjtraining.org/blog/)
 
-
-Open WRT
-EFF Router Project
-BRCK Project
-
 ##8/25/14
 Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtmkEoH6unk2nyWqkgHEN1hJyvpWnXjnLOdV0/edit#heading=h.y0ne7hwldthw)
 
@@ -1235,9 +1231,9 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * ~~go over emi's repo~~
 * ~~work through presentation~~
 * figure out why update isn't working on hiv@30 project
-* write blog post for robots
-* presentation and outline for workshop
-* email alain
+* write blog post for robots + isis
+* ~~presentation and outline for workshop~~
+* ~~email alain~~
 * HIV@30 Fix update issue
 * Make something out of my srccon repo
 * ~~Go over michael's using objects tutorial [here](https://gist.github.com/mhkeller/c78b0766a76285b6a4a0)~~
