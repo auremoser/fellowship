@@ -1287,7 +1287,8 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 
 * update resume
 * finish blog post for taliban
-
+* finish blog on space
+* apply to nicar
 
 
 
