@@ -1253,6 +1253,7 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * [D3 Planets](http://bl.ocks.org/djvanderlaan/4953593)
 * [Non D3 Wiki for Planet sim](https://github.com/oluckyman/js-planets/blob/master/part1.md)
 * [Comet](http://en.wikipedia.org/wiki/C/2013_A1)
+* [Apollo free range trajectory](http://lab.la-grange.ca/en/showing-an-apollo-mission-free-return-trajectory-in-jsorrery)
 
 ####Biodiversity project
 * [Planet Labs](https://www.planet.com/)
@@ -1264,7 +1265,7 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 ##9/2/14
 * Weekly Updates [doc](https://docs.google.com/a/ushahidi.com/document/d/1qZ1njzJdhhUycrcqogI689g2MvQZVO_G624EgoA8AfE/edit#)
 * Hackathon Planning [doc](https://docs.google.com/document/d/1KWL4OPVSobNebYTUs1T-5aFylMihfd5ec7tOPN36C-U/edit#)
-* [Victory in Sty Pi]
+* Victory in Sty Pi no link :(
 * [Bosque](http://www.bancodebosques.org/spip.php?lang=en)
 
 ###CATCHUP
@@ -1282,7 +1283,11 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * working on kepler
 * working on ss website
 * working on designs for vital signs woodfuel
-* working on 
+* working on crowdata translation implementation
+
+* update resume
+* finish blog post for taliban
+
 
 
 
