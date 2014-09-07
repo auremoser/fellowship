@@ -1291,6 +1291,7 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * apply to nicar
 * day trips and catch up on gdi stuff
 * correspond with woody about v3
+* vagrant setup locally
 
 
 
