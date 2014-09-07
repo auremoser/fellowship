@@ -1295,6 +1295,12 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 
 
 
+##9/7/14
+* Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1pUaIf97Tx3yh9AFnfoe1Iz7AwQy2GOBRcH29GUVwEoM/edit#heading=h.1vcfjtpu9qap)
+
+
+
+
 
 
 
