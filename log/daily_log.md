@@ -1301,6 +1301,7 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * emails to Anarghya and Woody on Vital Signs
 * Team call teeshirts?
 * looked at Sara's D3 code
+* submit question to the edge conference
 
 
 
