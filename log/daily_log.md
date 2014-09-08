@@ -1302,6 +1302,7 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * Team call teeshirts?
 * looked at Sara's D3 code
 * submit question to the edge conference
+* expense reports for September submitted
 
 
 
