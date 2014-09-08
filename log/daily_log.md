@@ -1300,6 +1300,7 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 ###CATCHUP
 * emails to Anarghya and Woody on Vital Signs
 * Team call teeshirts?
+* looked at Sara's D3 code
 
 
 
