@@ -1290,9 +1290,8 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * finish blog on space
 * apply to nicar
 * day trips and catch up on gdi stuff
-* correspond with woody about v3
+* correspond with woody about v3 - run woody's script
 * vagrant setup locally
-
 
 
 ##9/7/14
