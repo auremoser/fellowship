@@ -1304,6 +1304,11 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 * submit question to the edge conference
 * expense reports for September submitted
 
+Data export and import is set to the same format
+
+###COLLAB
+* met with IFES, working :)
+
 
 
 
