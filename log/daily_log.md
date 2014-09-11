@@ -1307,10 +1307,14 @@ Weekly Update [doc](https://docs.google.com/a/ushahidi.com/document/d/1GakBpHLtm
 Data export and import is set to the same format
 
 ###COLLAB
-* met with IFES, working :)
+* met with IFES, working :), and Anarghya
 
+###CREATE
 
-
+* Subscribed to [Open Reporter](http://www.openreporter.org/)
+* Wrote two blogs, need to source and post images
+* Applied to attend ConDatos in Mexico City, hoping that works out.
+* applewatch watchface astronomy!>> blog post
 
 
 
