@@ -1315,7 +1315,7 @@ Data export and import is set to the same format
 * Wrote two blogs, need to source and post images
 * Applied to attend ConDatos in Mexico City, hoping that works out.
 * applewatch watchface astronomy!>> blog post
-* applied to Nicar [pitch]()
+* applied to Nicar [pitch](https://github.com/auremoser/fellowship/blob/master/proposals/nicar_2015.md)
 
 
 
