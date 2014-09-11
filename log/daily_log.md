@@ -1308,6 +1308,7 @@ Data export and import is set to the same format
 
 ###COLLAB
 * met with IFES, working :), and Anarghya
+* OSM [Semantic Project](http://wiki.openstreetmap.org/wiki/OSMSemanticNetwork) with Mati
 
 ###CREATE
 
