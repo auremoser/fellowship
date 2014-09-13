@@ -1311,6 +1311,7 @@ Data export and import is set to the same format
 * OSM [Semantic Project](http://wiki.openstreetmap.org/wiki/OSMSemanticNetwork) with Mati
 * applied for a ConDatos lightening talk
 * booked flights for mozfest and mexico
+* logged all connections from SRCCON
 
 ###CREATE
 
