@@ -1321,6 +1321,7 @@ Data export and import is set to the same format
 * applewatch watchface astronomy!>> blog post
 * applied to Nicar [pitch](https://github.com/auremoser/fellowship/blob/master/proposals/nicar_2015.m
 * Worked on osm crosswalk sample
+* added edge conference questions
 
 
 
