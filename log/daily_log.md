@@ -1335,6 +1335,14 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 ###CREATE
 
 
+TO DO
+* Library application
+* make crosswalk sample for mati
+* crowdata sample for gabriella
+* memorize package manager instructions
+* condatos presentation
+* talk for andrew's class
+
 
 
 
