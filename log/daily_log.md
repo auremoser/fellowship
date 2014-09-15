@@ -1322,6 +1322,7 @@ Data export and import is set to the same format
 * applied to Nicar [pitch](https://github.com/auremoser/fellowship/blob/master/proposals/nicar_2015.m
 * Worked on osm crosswalk sample
 * added edge conference questions
+* added Library for Data Science Curriculum to Mozfest Session [repo](https://github.com/mozillascience/training_for_libraries)
 
 
 
