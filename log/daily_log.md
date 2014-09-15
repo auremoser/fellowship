@@ -1327,6 +1327,13 @@ Data export and import is set to the same format
 ##9/15/14
 Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuDGvrXqf8BjksNtZwlh0fxlyZGQ9ahL0J4/edit#heading=h.y0ne7hwldthw)
 
+###CATCHUP
+* wrote jonathon about scrawwl
+* imentor catchup 
+* fusion tv outreach at 12pm
+###COLLAB
+###CREATE
+
 
 
 
