@@ -1324,6 +1324,10 @@ Data export and import is set to the same format
 * added edge conference questions
 * added Library for Data Science Curriculum to Mozfest Session [repo](https://github.com/mozillascience/training_for_libraries)
 
+##9/15/14
+Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuDGvrXqf8BjksNtZwlh0fxlyZGQ9ahL0J4/edit#heading=h.y0ne7hwldthw)
+
+
 
 
 
