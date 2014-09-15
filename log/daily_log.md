@@ -1342,6 +1342,7 @@ TO DO
 * memorize package manager instructions
 * condatos presentation
 * talk for andrew's class
+* read [this article](http://tech.pro/links/5687/javascript-build-system-shootout-grunt-vs-gulp-vs-npm-modern-web)
 
 
 
