@@ -1,0 +1,64 @@
+TODOS
+###Vital Signs
+* ~~change data reference to data/stations/..~~
+* ~~load mapping.json into highcharts with ajax~~
+* ~~replace highcharts with highstock for speed (http://www.highcharts.com/stock/demo/lazy-loading) -> Tried didn't work~~
+* ~~replace name of has_data with truefalse reference change~~
+* ~~reload new csv into carto and try to get map display right~~
+* build menu >> loadPoint first one linkto data reload in mapping json
+* ~~add ungrid~~
+* ~~fix layout of highstock~~
+
+--august 5th--
+* ~~switch out to sara's fonts~~
+* ~~add white border around circles~~
+* ~~add fill to chart below the visualization ("Add the solid color blue “environmental reading” graph that animates (left to right), for more impact than the “line” graph (this is shown on a gray opaque color block so you can see it) - page 2")~~
+* add interactive tab
+* ~~change background~~
+* make the graph dynamic ("so that it starts with the first year - in this case 1945 or so - and then you see the time series move across the screen.  That would pull the viewer in, rather than having a static banner across the bottom.")
+* "As the viewer, I really want to know more about what data is available at each point so added a chart that would accompany each dark blue dot when you roll over it; I imagine this chart animating as a wipe from the top down onto the screen - page 3"
+* ~~figure out load series label issue~~
+* ~~fix TODO date in fix-csv.js~~
+* ~~get multiple data types to load~~
+
+Responses:
+* the dots are different sizes, not sure why
+* if the graphic in the dropdown is a desired design, i'll need design files (ie, illustrator files, not pdfs) to recreat it
+* i'm not sure teh small graph (upper left in )
+* if the colors are off, I'd like a list of hex value colors that you would like me to use
+* I added outlines to the dots to make individual ones more distinct
+* Background is now white
+* fill graph doesn't really make sense: http://stats.stackexchange.com/questions/81116/formatting-graphs-when-is-it-appropriate-to-use-a-fill-under-a-line-graph
+"when the values shown by the height of the line already represent a cumulative measure, such as total rainfall to date (for the month/year) or debt/savings;"
+* removed all of the null data values with new script, it's a process
+
+
+* ~~cleaning~~
+* ~~allow to select data from buttons~~
+* ~~cleaned date formating and missing values~~
+* ~~pulled last point data for the "average value"~~
+* ~~load different data with buttons~~
+* ~~loaded in fonts - not working?~~
+* ~~changed background color~~
+
+
+
+###V3
+~~* replace bootstrap with foundation~~
+* figure out api
+~~* eliminate ar/en~~
+~~* eliminate second table~~
+* get table to load with click
+* see todos at bottom of index]
+
+
+###Internews
+* fix data issues
+
+
+
+###OPEN NEWS
+* ~~Blog post~~
+* ~~Blog post for Vidya~~
+* ~~Mozfest application~~
+* ~~Reach out to mentees~~

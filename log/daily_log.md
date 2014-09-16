@@ -1332,7 +1332,12 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * imentor catchup 
 * fusion tv outreach at 12pm
 ###COLLAB
+* worked with Sands on lib application
+* read snowden article and edited blog post on the topic of information openness and blood diamond broadband
+* checked aPI URLS with woody on phab task [T653](https://phabricator.ushahidi.com/T653)
 ###CREATE
+* bikestorming crosswalk presentation about tools for survival in an inhospitable world
+* knight mozilla community call [notes](https://etherpad.mozilla.org/opennews-calls-Sept17)
 
 
 TO DO
