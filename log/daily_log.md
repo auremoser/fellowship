@@ -1336,6 +1336,8 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * worked with Sands on lib application
 * read snowden article and edited blog post on the topic of information openness and blood diamond broadband
 * checked aPI URLS with woody on phab task [T653](https://phabricator.ushahidi.com/T653)
+* libsec applicaiton draft for knight project (in proposals/)
+* contributed more question to the edge conference forums, 4 in total [here](https://www.google.com/moderator/#8/e=215bcc)
 ###CREATE
 * bikestorming crosswalk presentation about tools for survival in an inhospitable world
 * knight mozilla community call [notes](https://etherpad.mozilla.org/opennews-calls-Sept17)
