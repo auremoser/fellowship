@@ -1331,6 +1331,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * wrote jonathon about scrawwl
 * imentor catchup 
 * fusion tv outreach at 12pm
+* read a bit about [grunt](http://blog.ponyfoo.com/2014/07/04/choose-grunt-gulp-or-npm)
 ###COLLAB
 * worked with Sands on lib application
 * read snowden article and edited blog post on the topic of information openness and blood diamond broadband
