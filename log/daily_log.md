@@ -1332,6 +1332,8 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * imentor catchup 
 * fusion tv outreach at 12pm
 * read a bit about [grunt](http://blog.ponyfoo.com/2014/07/04/choose-grunt-gulp-or-npm)
+* met with nat and anarghya for dinner :) 
+* met with jake porway post-ethics of data
 ###COLLAB
 * worked with Sands on lib application
 * read snowden article and edited blog post on the topic of information openness and blood diamond broadband
