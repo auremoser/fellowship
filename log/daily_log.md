@@ -1334,6 +1334,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * read a bit about [grunt](http://blog.ponyfoo.com/2014/07/04/choose-grunt-gulp-or-npm)
 * met with nat and anarghya for dinner :) 
 * met with jake porway post-ethics of data
+* mozilla community call [doc](https://etherpad.mozilla.org/opennews-calls-Sept17)
 ###COLLAB
 * worked with Sands on lib application
 * read snowden article and edited blog post on the topic of information openness and blood diamond broadband
