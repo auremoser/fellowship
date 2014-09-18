@@ -1335,6 +1335,8 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * met with nat and anarghya for dinner :) 
 * met with jake porway post-ethics of data
 * mozilla community call [doc](https://etherpad.mozilla.org/opennews-calls-Sept17)
+* meeting with fusion developer kit cross
+
 ###COLLAB
 * worked with Sands on lib application
 * read snowden article and edited blog post on the topic of information openness and blood diamond broadband
@@ -1342,6 +1344,8 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * libsec applicaiton draft for knight project (in proposals/)
 * contributed more question to the edge conference forums, 4 in total [here](https://www.google.com/moderator/#8/e=215bcc)
 * Contacted Transifex about CrowData (https://www.transifex.com/contact/)
+
+
 ###CREATE
 * bikestorming crosswalk presentation about tools for survival in an inhospitable world
 * knight mozilla community call [notes](https://etherpad.mozilla.org/opennews-calls-Sept17)
