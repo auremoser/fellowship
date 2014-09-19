@@ -1344,6 +1344,8 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * libsec applicaiton draft for knight project (in proposals/)
 * contributed more question to the edge conference forums, 4 in total [here](https://www.google.com/moderator/#8/e=215bcc)
 * Contacted Transifex about CrowData (https://www.transifex.com/contact/)
+* meeting with Erika to talk jobs
+* submitted application to moz community mofo stuff
 
 
 ###CREATE
