@@ -1350,6 +1350,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * bikestorming crosswalk presentation about tools for survival in an inhospitable world
 * knight mozilla community call [notes](https://etherpad.mozilla.org/opennews-calls-Sept17)
 * blog about opinion taliban and crisisnet
+* wrote up new draft of libsec proposal
 
 
 TO DO
