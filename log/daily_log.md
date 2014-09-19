@@ -1351,6 +1351,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * knight mozilla community call [notes](https://etherpad.mozilla.org/opennews-calls-Sept17)
 * blog about opinion taliban and crisisnet
 * wrote up new draft of libsec proposal
+* meeting with steminism coordinator bree riley
 
 
 TO DO
