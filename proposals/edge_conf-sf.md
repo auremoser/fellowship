@@ -10,14 +10,19 @@ LAYOUT PERFORMANCE
 
 SECURITY AND IDENTITY
 =====================
-post requests over http
-nsa slides http allows the nsa to do mass surveillance; nsa can collect your trofic
-EFF's Ecrypt the Web Reports
-Wordpress supports ssl
-webcrypto in chromium + firefox
-http public key pinning
-[certificate transparency](http://www.certificate-transparency.org/)
+* post requests over http >> quora
+n* sa slides http allows the nsa to do mass surveillance; nsa can collect your trofic
+* EFF's Ecrypt the Web Reports
+* Wordpress supports ssl
+* webcrypto in chromium + firefox
+* http public key pinning
+* [certificate transparency](http://www.certificate-transparency.org/)
 http2 (should encryption be the default)
 * one cllick ssl setup?
 * [better crypto](https://bettercrypto.org/)
-* use opportunistic security
+* [SSL Mate](https://sslmate.com/) - does work for you; work being done by the providers (need to be done at a server lievel or a provider lvel)
+* use [opportunistic security](http://tools.ietf.org/html/draft-dukhovni-opportunistic-security-00)
+* [ssl labs test](https://www.ssllabs.com/ssltest/)
+* [is tls fast.com](https://istlsfastyet.com/)
+* behavioral trackign, 3rd party validation
+* continuous authentication rather than prompting
