@@ -1346,6 +1346,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/1EAWtm4v9GuD
 * Contacted Transifex about CrowData (https://www.transifex.com/contact/)
 * meeting with Erika to talk jobs
 * submitted application to moz community mofo stuff
+* attended edge conference, assembled notes, question about installable web apps was taken by WaPo dev Chris ...
 
 
 ###CREATE
