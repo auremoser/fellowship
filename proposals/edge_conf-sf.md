@@ -42,3 +42,9 @@ npm package manager for client side stuff
 
 IMAGE FORMATS
 =============
+* <picture> element + srcset
+* http/2 progressive
+* WebP + JPEG XR, JPEG 2000 (supported by apple) + MozJPEG
+* new : HEVC-MSP smalller than jpeg and webp
+* new : Daala (mozilla) but not ready yet
+* new : JPEG XT (degrades to jpeg)
