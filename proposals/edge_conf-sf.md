@@ -26,3 +26,19 @@ http2 (should encryption be the default)
 * [is tls fast.com](https://istlsfastyet.com/)
 * behavioral trackign, 3rd party validation
 * continuous authentication rather than prompting
+* mozilla and google are looking at ways to discourage behaviors are bad
+* http nowhere (browser refers you to ) web is encrypted by default; is there any reason to ever ask users for security?
+
+PACKAGE MANAGERS
+=================
+* npm for server side package management but the web doesn't have it
+* jvm has maven, node has npm, ruby has gems
+* we all understand putting source code into a package
+* deduplication and semantic versioning
+* npm installing has multiple roles 9dev tool, a build architect - primary use, deploying to a box somwhere package of software)
+* npm work in server side client side and component side javascript
+npm package manager for client side stuff
+* standardize metadata format and handle package json
+
+IMAGE FORMATS
+=============
