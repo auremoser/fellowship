@@ -1373,6 +1373,7 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * Imentor dates in calendar
 * rescheduled meetings wiht Mapzen and ITP class teaching
 ###CREATE
+* edge conf wrap up [here](https://www.google.com/moderator/#8/e=215bcc)
 ###COLLAB
 
 
