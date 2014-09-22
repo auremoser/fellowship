@@ -1366,7 +1366,8 @@ TO DO
 * talk for andrew's class
 * read [this article](http://tech.pro/links/5687/javascript-build-system-shootout-grunt-vs-gulp-vs-npm-modern-web)
 
-
+##9/22/14
+Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3KpY2xn1ImkWqtsyRHCL1rgZhpEgfJO7JPWpNi0I/edit#)
 
 
 
