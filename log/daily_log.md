@@ -1369,6 +1369,12 @@ TO DO
 ##9/22/14
 Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3KpY2xn1ImkWqtsyRHCL1rgZhpEgfJO7JPWpNi0I/edit#)
 
+###CATCHUP
+* Imentor dates in calendar
+* rescheduled meetings wiht Mapzen and ITP class teaching
+###CREATE
+###COLLAB
+
 
 
 
