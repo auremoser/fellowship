@@ -1379,6 +1379,7 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * ExP meeting [notes here](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 * T653 task [reopened](https://phabricator.ushahidi.com/T653)
 * Kickstarter invite to talk about GDI (Tuesday)
+* 
 
 ####Vital Signs
 * Phab [talk board](https://phabricator.ushahidi.com/project/board/17/)
