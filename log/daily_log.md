@@ -1376,6 +1376,8 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * edge conf wrap up [here](https://www.google.com/moderator/#8/e=215bcc)
 ###COLLAB
 * code for america summit 9th and howard
+* ExP meeting [notes here](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+* T653 task [reopened](https://phabricator.ushahidi.com/T653)
 
 
 
