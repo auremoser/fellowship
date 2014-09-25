@@ -1375,6 +1375,7 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 ###CREATE
 * edge conf wrap up [here](https://www.google.com/moderator/#8/e=215bcc)
 * Blog post about crisismapping
+* flight checkin <> flight to DF
 ###COLLAB
 * code for america summit 9th and howard
 * ExP meeting [notes here](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
