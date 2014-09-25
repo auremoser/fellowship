@@ -1374,16 +1374,24 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * rescheduled meetings wiht Mapzen and ITP class teaching
 ###CREATE
 * edge conf wrap up [here](https://www.google.com/moderator/#8/e=215bcc)
+* Blog post about crisismapping
 ###COLLAB
 * code for america summit 9th and howard
 * ExP meeting [notes here](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 * T653 task [reopened](https://phabricator.ushahidi.com/T653)
 * Kickstarter invite to talk about GDI (Tuesday)
-* 
+* Assembled Yo intervengo feedback report [here] (https://docs.google.com/document/d/168R61PEo0IMS7LbZBv9sJL_boGkFsGNfmX_ldkRhbyo/edit)
 
 ####Vital Signs
 * Phab [talk board](https://phabricator.ushahidi.com/project/board/17/)
-* 
+
+
+####IFES
+* Phab [pholio](https://phabricator.ushahidi.com/pholio/
+* IFES Feedback [Report]
+(https://docs.google.com/a/ushahidi.com/spreadsheets/d/13TqDcIqDdaYkw98JVUY-kTu1uCxJddgEd4R3KgvYWaA/edit#gid=998263111)
+* IFES [manifest](https://phabricator.ushahidi.com/maniphest/query/fjk03ySv_R1X/#R)
+* IFES [workboard](https://phabricator.ushahidi.com/project/board/1/)
 
 
 
