@@ -1381,6 +1381,7 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * T653 task [reopened](https://phabricator.ushahidi.com/T653)
 * Kickstarter invite to talk about GDI (Tuesday)
 * Assembled Yo intervengo feedback report [here] (https://docs.google.com/document/d/168R61PEo0IMS7LbZBv9sJL_boGkFsGNfmX_ldkRhbyo/edit)
+* meeting with woody to go over the api (stats email about him writing in the hookup to the post visualizations), added it to [T653](https://phabricator.ushahidi.com/T653)
 
 ####Vital Signs
 * Phab [talk board](https://phabricator.ushahidi.com/project/board/17/)
