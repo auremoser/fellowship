@@ -1400,6 +1400,62 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * Talk for ITP (September 30th)
 * Apply for Google Job [here](https://www.google.com/about/careers/applications/u/0/#/packet/d4d8b103-4220-4cb1-a184-67ec385b811f/form)
 
+####CONMAPAS
+* [Link to json up to 500](http://taginfo.openstreetmap.org/api/4/key/combinations?key=bicycle&filter=all&sortname=to_count&sortorder=desc&page=2&rp=500&qtype=other_key&format=json_pretty)
+
+###TALK
+* outline and basic structure
+####INTRO INFO
+* intro to us, what we do, why we're here
+* tom sachs: anecdote about space being crappy, tools for survival in an inhospitable world  
+* navigation should be friendly
+* space wasn't built for pedestrians, our world was
+####WHAT?
+* intro to Bikestorming and pedestrian city planning
+[BLAHBLAH Mati says smart shit]
+* Crowdourcing and Communities
+* article from NYTIMES about mapping Favelas
+* Ushahidi stuff about Kibera and crowdsourced crisis mapping (haiti)
+* Bikestorming bridge to OSM
+* why open and transparent is important (proprietary companies control the best of map making but have to default to communities anyway; close-door spec authors have expensive memberships and corporate bias that can be disaggreeable for a diversity of developer imputs)
+####WHY?
+* problems with maps
+* tumblr about worst of OSM
+* problems with complexity of import process
+####HOW
+* let's talk about semantics OS[e]M network Geonames/SKOS and controlled vocabularies
+* explore tags
+* **visualization of 16 tag graph**...only one part of existing data which is largely crappy
+* explore imports
+* how to standardize imports
+* how to update OSEM
+* **explore data** from mexico and connection to existing taging schema
+* goal, let's get to the "adjacent possible" rather than the stellar mirage; we don't neet wo map the universe, just our planet, let's start with communities
+####HELP
+* build form for data entry that ports to a spreadsheet for major cities
+* we'd like to script those imports and work with communities to fix their data to the existing schema, but hopefully one that's more semantic, controlled
+
+
+
+LETTER TO MANU SPORY
+
+Dear Mr.(Dr.?) Sporny,
+My name is Aurelia and I'm a developer in Brooklyn New York and Nairobi, working on open source crisis maps and software at Mozilla. 
+
+I came across your article on hating the semantic web while working on a pseudo related  project and feel compelled to write you an impromptu fan letter.
+*hi-5s* for json-LD, I used it to clarify some of the opaque everything in OSM's Semantic Network data for a talk on open bike route schema in DF this week. Your blog and documenation was very helpful, much appreciated.
+
+Some faves:
+"smart people, lacking any sort of compelling real world data, are great at debating and rationalizing bad decisions." HOMFG. Preach!
+"It allows people that have seemingly opposite world views to create specifications that are capable of supporting both world views in awkward but acceptable ways."
+LULZ
+
+I laughed outloud in the coworking space, several times; I believe I scared my neighbor.
+
+NNTR, I know email can be annoying. But, yeah, thanks.
+
+Aurelia
+
 
 
 
