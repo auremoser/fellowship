@@ -1395,6 +1395,12 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * IFES [manifest](https://phabricator.ushahidi.com/maniphest/query/fjk03ySv_R1X/#R)
 * IFES [workboard](https://phabricator.ushahidi.com/project/board/1/)
 
+####TODO
+* Talk for ConMapas (October 2nd)
+* Talk for ITP (September 30th)
+* Apply for Google Job [here](https://www.google.com/about/careers/applications/u/0/#/packet/d4d8b103-4220-4cb1-a184-67ec385b811f/form)
+
+
 
 
 
