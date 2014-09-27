@@ -1372,10 +1372,12 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 ###CATCHUP
 * Imentor dates in calendar
 * rescheduled meetings wiht Mapzen and ITP class teaching
+* Reg stayed at my place
 ###CREATE
 * edge conf wrap up [here](https://www.google.com/moderator/#8/e=215bcc)
 * Blog post about crisismapping
 * flight checkin <> flight to DF
+* Catchup on vital Signs stack (angular, d3 and crossfilter)
 ###COLLAB
 * code for america summit 9th and howard
 * ExP meeting [notes here](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
@@ -1429,8 +1431,9 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * explore imports
 * how to standardize imports
 * how to update OSEM
-* **explore data** from mexico and connection to existing taging schema
-* goal, let's get to the "adjacent possible" rather than the stellar mirage; we don't neet wo map the universe, just our planet, let's start with communities
+* **explore data** from mexico and connection to existing tagging schema
+* creating crosswalks with communities
+* goal, let's get to the "adjacent possible" rather than the stellar mirage; we don't need to map the universe, just our planet, let's start with communities
 ####HELP
 * build form for data entry that ports to a spreadsheet for major cities
 * we'd like to script those imports and work with communities to fix their data to the existing schema, but hopefully one that's more semantic, controlled
