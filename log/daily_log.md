@@ -1431,6 +1431,7 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * explore imports
 * how to standardize imports
 * how to update OSEM
+* roadmap: 1. maps - localization 2. navigation 3. linked data: semantic data smushing
 * **explore data** from mexico and connection to existing tagging schema
 * creating crosswalks with communities
 * goal, let's get to the "adjacent possible" rather than the stellar mirage; we don't need to map the universe, just our planet, let's start with communities
@@ -1458,6 +1459,21 @@ I laughed outloud in the coworking space, several times; I believe I scared my n
 NNTR, I know email can be annoying. But, yeah, thanks.
 
 Aurelia
+
+
+###VIsual for BKX
+* changed data to search tag info for "bicycle"
+* took top 16 tags and sizes and used them as sub-names"
+* searched those 16 for tags related
+
+##################################
+* problem: messy folksonomic schema
+* near-solution: structured importing process for small communities
+* far solution: 
+* *localization
+*  *navigation
+*  *linked data [semantic schema mapping [RDF->JSON LD]]
+
 
 
 
