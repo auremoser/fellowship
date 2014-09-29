@@ -1470,6 +1470,7 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 
 ###CATCHUP
 * review vital signs milestone [doc](https://docs.google.com/a/ushahidi.com/document/d/1QAMVTbCizQqEF6cjpa-uklgk7sLGbXO0JMJ6sCk2wAY/edit)
+* Working on Beautiful Rising advisory [summary doc](https://docs.google.com/document/d/1Hdw_R3iQHA87pptn07-8MGsH2ndVIoeXn47cWZhilEM/edit), exec [summary](https://docs.google.com/file/d/0BxJDnPMpCmgmYjlza2JQYUFPMDRKZjVjU3U1bmRjLVRad2I0/edit), [Beautiful Trouble project](http://beautifultrouble.org/)
 
 ####Vital Signs (copied)
 * Phab [talk board](https://phabricator.ushahidi.com/project/board/17/)
