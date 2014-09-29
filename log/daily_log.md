@@ -1388,6 +1388,8 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 
 ####Vital Signs
 * Phab [talk board](https://phabricator.ushahidi.com/project/board/17/)
+* 9/29 [scrum meeting doc](https://docs.google.com/a/ushahidi.com/document/d/1A5annyDfnrrbOq-O_PQknF7_Wxk39MswIrsGfb6oSHg/edit)
+* 9/29 Milestones [doc](https://docs.google.com/a/ushahidi.com/document/d/1QAMVTbCizQqEF6cjpa-uklgk7sLGbXO0JMJ6sCk2wAY/edit)
 
 
 ####IFES
@@ -1463,6 +1465,9 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 
 ##9/28/14
 Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqjbXW1v0TXnFX7eXeFKM6x0I4Q2MLtHKb8hwQ/edit#)
+
+###CATCHUP
+* review vital signs milestone [doc](https://docs.google.com/a/ushahidi.com/document/d/1QAMVTbCizQqEF6cjpa-uklgk7sLGbXO0JMJ6sCk2wAY/edit)
 
 
 
