@@ -1478,6 +1478,8 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 * 9/29 Milestones [doc](https://docs.google.com/a/ushahidi.com/document/d/1QAMVTbCizQqEF6cjpa-uklgk7sLGbXO0JMJ6sCk2wAY/edit)
 * Vital Signs [task T791: decide on tech stack for visual interface](https://phabricator.ushahidi.com/T791)
 * Vital Signs [task: create wires for inital fuelwood visualizations](https://phabricator.ushahidi.com/T792)
+* User Stories [doc](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1bw8fTWjoPZ3lUaIn4LfZ8MSLDaFzKIp9EtJKAzcvF4Q/edit#gid=2141294448)
+* External partners [process doc](https://phabricator.ushahidi.com/T821)
 
 
 
