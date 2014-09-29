@@ -1459,7 +1459,11 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 * Presentation - Thursday
 * ITP talk
 * Tryp to use CLInterface to port [data sets](https://docs.google.com/spreadsheets/d/1EfMZ1vQCxfPoALoKo12Qz9fGKB1s-HH33_eNX6pCRTU/edit#gid=0) into bkstorming for DF
-* 
+
+
+##9/28/14
+Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqjbXW1v0TXnFX7eXeFKM6x0I4Q2MLtHKb8hwQ/edit#)
+
 
 
 
