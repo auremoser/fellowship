@@ -1441,27 +1441,8 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 
 
 
-LETTER TO MANU SPORY
 
-Dear Mr.(Dr.?) Sporny,
-My name is Aurelia and I'm a developer in Brooklyn New York and Nairobi, working on open source crisis maps and software at Mozilla. 
-
-I came across your article on hating the semantic web while working on a pseudo related  project and feel compelled to write you an impromptu fan letter.
-*hi-5s* for json-LD, I used it to clarify some of the opaque everything in OSM's Semantic Network data for a talk on open bike route schema in DF this week. Your blog and documenation was very helpful, much appreciated.
-
-Some faves:
-"smart people, lacking any sort of compelling real world data, are great at debating and rationalizing bad decisions." HOMFG. Preach!
-"It allows people that have seemingly opposite world views to create specifications that are capable of supporting both world views in awkward but acceptable ways."
-LULZ
-
-I laughed outloud in the coworking space, several times; I believe I scared my neighbor.
-
-NNTR, I know email can be annoying. But, yeah, thanks.
-
-Aurelia
-
-
-###VIsual for BKX
+###Visual for BKX
 * changed data to search tag info for "bicycle"
 * took top 16 tags and sizes and used them as sub-names"
 * searched those 16 for tags related
@@ -1471,8 +1452,16 @@ Aurelia
 * near-solution: structured importing process for small communities
 * far solution: 
 * *localization
-*  *navigation
-*  *linked data [semantic schema mapping [RDF->JSON LD]]
+* *navigation
+* *linked data [semantic schema mapping [RDF->JSON LD]]
+
+#######################
+* Presentation - Thursday
+* ITP talk
+* Tryp to use CLInterface to port [data sets](https://docs.google.com/spreadsheets/d/1EfMZ1vQCxfPoALoKo12Qz9fGKB1s-HH33_eNX6pCRTU/edit#gid=0) into bkstorming for DF
+* 
+
+
 
 
 
