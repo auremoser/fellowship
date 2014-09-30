@@ -1395,9 +1395,8 @@ Weekly Team Call [Notes](https://docs.google.com/a/ushahidi.com/document/d/1QqC3
 
 
 ####IFES
-* Phab [pholio](https://phabricator.ushahidi.com/pholio/
-* IFES Feedback [Report]
-(https://docs.google.com/a/ushahidi.com/spreadsheets/d/13TqDcIqDdaYkw98JVUY-kTu1uCxJddgEd4R3KgvYWaA/edit#gid=998263111)
+* Phab [pholio](https://phabricator.ushahidi.com/pholio/)
+* IFES Feedback [Report](https://docs.google.com/a/ushahidi.com/spreadsheets/d/13TqDcIqDdaYkw98JVUY-kTu1uCxJddgEd4R3KgvYWaA/edit#gid=998263111)
 * IFES [manifest](https://phabricator.ushahidi.com/maniphest/query/fjk03ySv_R1X/#R)
 * IFES [workboard](https://phabricator.ushahidi.com/project/board/1/)
 
@@ -1471,6 +1470,10 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 ###CATCHUP
 * review vital signs milestone [doc](https://docs.google.com/a/ushahidi.com/document/d/1QAMVTbCizQqEF6cjpa-uklgk7sLGbXO0JMJ6sCk2wAY/edit)
 * Working on Beautiful Rising advisory [summary doc](https://docs.google.com/document/d/1Hdw_R3iQHA87pptn07-8MGsH2ndVIoeXn47cWZhilEM/edit), exec [summary](https://docs.google.com/file/d/0BxJDnPMpCmgmYjlza2JQYUFPMDRKZjVjU3U1bmRjLVRad2I0/edit), [Beautiful Trouble project](http://beautifultrouble.org/)
+
+###CREATE
+* [taught ITP class](https://docs.google.com/presentation/d/1n-hafUJ5NHUTvOes9GZ3Uc-r40vqxtWlzLJpk04gflg/edit?usp=sharing)
+
 
 ####Vital Signs (copied)
 * Phab [talk board](https://phabricator.ushahidi.com/project/board/17/)
