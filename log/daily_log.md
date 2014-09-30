@@ -1474,6 +1474,7 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 ###CREATE
 * [taught ITP class](https://docs.google.com/presentation/d/1n-hafUJ5NHUTvOes9GZ3Uc-r40vqxtWlzLJpk04gflg/edit?usp=sharing)
 * published LIBSEC [proposal](https://newschallenge.org/challenge/libraries/submissions/libsec-libraries-for-open-information-security-education-and-collaboration)
+* joined Beautiful Rising [Advisory Network](http://us8.campaign-archive1.com/?u=17cdfdd393d63b7891e9b3ef4&id=d34406c7ef&e=ced26af941)
 
 
 ####Vital Signs (copied)
