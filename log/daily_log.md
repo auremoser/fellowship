@@ -1484,7 +1484,7 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 
 
 ####Vital Signs (copied)
-* Phab [talk board](https://phabricator.ushahidi.com/project/board/17/)
+* Phab [kanban board](https://phabricator.ushahidi.com/project/board/17/)
 * 9/29 [scrum meeting doc](https://docs.google.com/a/ushahidi.com/document/d/1A5annyDfnrrbOq-O_PQknF7_Wxk39MswIrsGfb6oSHg/edit)
 * 9/29 Milestones [doc](https://docs.google.com/a/ushahidi.com/document/d/1QAMVTbCizQqEF6cjpa-uklgk7sLGbXO0JMJ6sCk2wAY/edit)
 * Vital Signs [task T791: decide on tech stack for visual interface](https://phabricator.ushahidi.com/T791)
