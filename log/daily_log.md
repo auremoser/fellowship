@@ -1478,7 +1478,7 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 
 ###COLLAB
 * [Open News Community Call](https://etherpad.mozilla.org/opennews-calls-Oct1)
-* [Vital Signs Call]()
+* [Vital Signs Call](https://docs.google.com/a/ushahidi.com/document/d/1yOLr2vdovRPwuYwW2hnsAsNw7fxJLaKkZnre5bAh5sw/edit#)
 * [ExP Call]()
 
 
