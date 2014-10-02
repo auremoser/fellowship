@@ -23,7 +23,7 @@ OSM Workshop on Vocabulary
 
 ================
 ##DATA SETS OF INTEREST
-TRANSIT NETWORKS
+####TRANSIT NETWORKS
 * Cycle Streets Network
 * Bikeshops
 * Wifi Hotspots
@@ -38,18 +38,16 @@ TRANSIT NETWORKS
 * Traffic Speed (motor traffic)
 * Sewer locations (orientation for tires)
 
-PEOPLE
+####PEOPLE
 * Crowdsource la security (frequency of travel data - by bicyclist)
 * Motivation of travel (commuter, or work)
 * Professional system - people en bici all the time (ranking)
 * Census Data (age a)
 
-QUALITY
+####QUALITY
 * faster routes/efficient
 * safer routes
 * 
-
-
 
 ##TAGS BY 
 * bicycle_friendly
@@ -72,5 +70,8 @@ Aurelia Moser | USA/KE  | OSM Semantic Ontology/Ushahidi
 Jonathan  gonzalez|Mexico   | ITDP  | jonathan.gonzalez@itdp.mx
 Miguel Angel Cancino Rodezno| Mexico  | UNAM|angelancino_77@yahoo.com
 Yasser Said Lopez de Olmos Reyes | Mexico | Universidad Autonoma Metropolitana | biolyasser@gmail.com
-Celine Jacquin    | CTS Embarq / Rancho electronico| celija@gmail.com anamhoo@gamil.com
-     |   | |
+Celine Jacquin  | Mexico  | CTS Embarq / Rancho electronico| celija@gmail.com anamhoo@gamil.com
+Jorge Martinez Ortega | Mexico | Kueski | j.martinezortega@gmail.com
+Susana Mateos | Mexico | ? | susannamateos@gmail.com
+Leo Castaneda | Mexico | ?|lcastaneda@embarqmexico.org
+| | | |
