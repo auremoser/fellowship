@@ -1480,8 +1480,10 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 * [Open News Community Call](https://etherpad.mozilla.org/opennews-calls-Oct1)
 * [Vital Signs Call](https://docs.google.com/a/ushahidi.com/document/d/1yOLr2vdovRPwuYwW2hnsAsNw7fxJLaKkZnre5bAh5sw/edit#)
 * [ExP Call](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+* * Gave [ConDatos Presentation](https://docs.google.com/a/ushahidi.com/presentation/d/11AihG6kDnLZg5cRHVBpLWC3caBUK7VMbo782x5ImkEc/edit#slide=id.g3a0ff162a_10)
 
-
+####V3
+* [T49](https://phabricator.ushahidi.com/T49)
 
 ####Vital Signs (copied)
 * Phab [kanban board](https://phabricator.ushahidi.com/project/board/17/)
