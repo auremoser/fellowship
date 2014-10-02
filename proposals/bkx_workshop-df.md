@@ -58,10 +58,54 @@ OSM Workshop on Vocabulary
 * residential/highway
 
 ###ASKS
-Drawing rougts in areas where there are no governments curating the open import
+Drawing routes in areas where there are no governments curating the open import
 
 
-lebanese
+###CONTRIBUTIONS
+=otras ideas=
+
+######DATA SETS OF INTEREST
+TRANSIT NETWORKS
+* Cycle Streets Network
+* Bikeshops
+* Wifi Hotspots
+* Elevation (maybe slope of streets)
+* Bike parking -safe vs dangerous
+* Public bikes
+* Asphalt/Pavement Quality
+* Public Transport
+* Rutas de transporte
+* Public Places (Police Departments, Hospitals)
+* Bicylce Taxi Locations (solicit from the community)
+* Traffic Speed (motor traffic)
+* Sewer locations (orientation for tires)
+
+PEOPLE
+* Crowdsource la security (frequency of travel data - by bicyclist)
+* Motivation of travel (commuter, or work)
+* Professional system - people en bici all the time (ranking)
+
+QUALITY
+* faster routes/efficient
+* safer routes
+* bicycle_friendly (y/n)
+
+#####Tags
+Motivo | Motive
+	principal (Trabajo, estudio, compras, visitas, recreación, deporte, turismo)
+	secundario
+	ocasional 
+
+número de viajes diarios/semanales/mensuales/anuales 
+
+Convivencia
+transporte público muy hostil/hostil/indiferente/amigable/muy amigable
+transporte particular hostil/hostil/indiferente/amigable/muy amigable 
+
+espacio físico
+seguridad/inseguridad
+calidad del pavimento
+
 ###Attendees
 
 name | country | project | contact
