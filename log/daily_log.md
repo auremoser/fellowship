@@ -1496,6 +1496,16 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 * User Stories [doc](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1bw8fTWjoPZ3lUaIn4LfZ8MSLDaFzKIp9EtJKAzcvF4Q/edit#gid=2141294448)
 * External partners [process doc](https://phabricator.ushahidi.com/T821)
 
+TO DOS
+* woody's phab posts
+* sara's vital signs notes
+* send friday jobs dispatch - gdi
+* followup wiht bikestorming
+* write draft of open news blog on upcycling interactives
+* revisit workshop to followup with bkx
+* data stuff for bkx
+
+
 
 
 
