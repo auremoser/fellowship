@@ -65,7 +65,8 @@ Drawing routes in areas where there are no governments curating the open import
 =otras ideas=
 
 ######DATA SETS OF INTEREST
-TRANSIT NETWORKS
+**TRANSIT NETWORKS**  
+
 * Cycle Streets Network
 * Bikeshops
 * Wifi Hotspots
@@ -80,21 +81,23 @@ TRANSIT NETWORKS
 * Traffic Speed (motor traffic)
 * Sewer locations (orientation for tires)
 
-PEOPLE
+**PEOPLE**  
+
 * Crowdsource la security (frequency of travel data - by bicyclist)
 * Motivation of travel (commuter, or work)
 * Professional system - people en bici all the time (ranking)
 
-QUALITY
+**QUALITY**  
+
 * faster routes/efficient
 * safer routes
 * bicycle_friendly (y/n)
 
 #####Tags
 Motivo | Motive
-	principal (Trabajo, estudio, compras, visitas, recreación, deporte, turismo)
-	secundario
-	ocasional 
+    principal (Trabajo, estudio, compras, visitas, recreación, deporte, turismo)
+    secundario
+    ocasional 
 
 número de viajes diarios/semanales/mensuales/anuales 
 
@@ -119,3 +122,23 @@ Jorge Martinez Ortega | Mexico | Kueski | j.martinezortega@gmail.com
 Susana Mateos | Mexico | ? | susannamateos@gmail.com
 Leo Castaneda | Mexico | ?|lcastaneda@embarqmexico.org
 | | | |
+
+
+###Laboratorio para la Ciuidad
+* fellowships with code for america (5 per year)
+* hackathons, great response
+* Sesiones de Azotea (talks and debates, workshops, conferences)
+* fellowships for research on community
+* Audi Urban Future Initiative competition
+* February (beginning, hackathon end of jan/feb) anniversary of eco bici
+
+* Partner with NGO - Piras + Code for America
+* Relationship with tht Govt : EcoBici (~) + CeMobi + MetroBus
+
+
+####OSM
+* can invent a tag and add to the database
+* coordinates lines and polygons and then adding knowledge about the area
+
+* processing script consolidates to vectors that are conducive to cartagraphy (not all pois,) add country names from Natural Earch and country boundaries; public comain data sets for terrain (mapbox)
+* [F4 Map](http://www.f4map.com/) : 3d web gl map
