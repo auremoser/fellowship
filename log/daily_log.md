@@ -1491,6 +1491,14 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 * [executive summary](https://docs.google.com/document/d/1Hdw_R3iQHA87pptn07-8MGsH2ndVIoeXn47cWZhilEM/edit)
 * [full project documentations](https://drive.google.com/file/d/0BxJDnPMpCmgmYjlza2JQYUFPMDRKZjVjU3U1bmRjLVRad2I0/edit)
 * [terms of reference](https://docs.google.com/document/d/1SuyUi9BqeZ21N9yktp0ohebORtEkssYSf_IjSWFE_C0/edit#heading=h.h73gahenrz1b)
+* meeting on October 13
+
+#####Questions
+* why not any latin american countries? zapatistas in Tuxtla gutierrez
+* "irresistible rise of global anti capitolism" seems problematic
+* [Economic Freedom of the World Report](Economic Freedom of the World: 2012 Annual Report
+http://www.fraserinstitute.org/research-news/display.aspx?id=18849)
+
 
 ####V3
 * [T49](https://phabricator.ushahidi.com/T49)
@@ -1512,6 +1520,8 @@ TO DOS
 * write draft of open news blog on upcycling interactives
 * ~~revisit workshop to followup with bkx~~
 * data stuff for bkx
+* finish jsorrery blog
+* read over vital signs visualization notes
 
 
 
