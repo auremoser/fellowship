@@ -1512,7 +1512,7 @@ http://www.fraserinstitute.org/research-news/display.aspx?id=18849)
 * User Stories [doc](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1bw8fTWjoPZ3lUaIn4LfZ8MSLDaFzKIp9EtJKAzcvF4Q/edit#gid=2141294448)
 * External partners [process doc](https://phabricator.ushahidi.com/T821)
 
-TO DOS
+####TO DOS
 * woody's phab posts
 * sara's vital signs notes
 * ~~send friday jobs dispatch - gdi~~
@@ -1522,10 +1522,17 @@ TO DOS
 * data stuff for bkx
 * finish jsorrery blog
 * read over vital signs visualization notes
+* Mopad for October 9th [science mozsesh](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
 
+###UPCYCLING INTERACTIVES
 
+I think the easiest way to start capturing your upcycling amazingness would be to toss me a fleshed-out outline of the idea as you imagined it in session and we can go from there. I want to get it up well before MozFest so people will have seen it by then.
 
+Also, I'm hoping you'll be writing Learning posts for us for years to come, because no joke, you are one of the best writers we've seen come through the program and we need your voice.
 
+###MOZSIENCE
+Please take a moment to give everyone a brief intro to your sessions, and what ideas you'd like to touch on under your name in the etherpad (around line 60+): https://etherpad.mozilla.org/sciencelab-calls-oct9-2014 - let us know any questions or requests, and I look forward to hearing from you on Thursday!
+* we'll be fleshing out [this repo](https://github.com/mozillascience/training_for_libraries)
 
 
 ###INTERVIEW FOR DANIEL
