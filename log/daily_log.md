@@ -1528,7 +1528,35 @@ TO DOS
 
 
 
+###INTERVIEW FOR DANIEL
 
+Fantastic and thanks again Aure!  
+
+We'll have a preamble with your bio, and then on to the questions (which I design to give you great latitude to roam, riff, diverge-- and we can tweak/refine the questions if you feel inclined):
+
+Question One:
+
+You describe yourself on your Twitter profile as "Archivist/Analyst/Algorist/Activist."  How do these four "A's" interact and intersect with one another?  Are you an "archivist" on the Monday and an "activist" on the Tuesday, or are you typically a little bit of each on a given project?
+
+Question Two:
+
+Among your wide-ranging interests is a focus on visualization, mapping and structuring of data.  Where do you see this focus going in the future, what do you imagine is the future of knowledge management?
+
+Question Three:
+
+As a corollary to the last question:  what challenges do you see for data privacy and data ownership?  
+
+Question Four:
+
+Girl Develop It chapters have nearly doubled this year (congratulations!).  What is driving their growth, and what do you see as next stages for the organization?
+
+Question Five:
+
+What have you read recently that you would recommend to MOUSE Blog readers?  What movie, what music?
+
+Shall we say you send back responses by Nov. 1st?
+
+All best, Daniel  
 
 
 
