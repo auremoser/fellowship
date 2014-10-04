@@ -1488,7 +1488,9 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 * Was interviewed my MOUSE for Girl Develop It
 
 ####BEAUTIFUL RISING ADVISORY
-
+* [executive summary](https://docs.google.com/document/d/1Hdw_R3iQHA87pptn07-8MGsH2ndVIoeXn47cWZhilEM/edit)
+* [full project documentations](https://drive.google.com/file/d/0BxJDnPMpCmgmYjlza2JQYUFPMDRKZjVjU3U1bmRjLVRad2I0/edit)
+* [terms of reference](https://docs.google.com/document/d/1SuyUi9BqeZ21N9yktp0ohebORtEkssYSf_IjSWFE_C0/edit#heading=h.h73gahenrz1b)
 
 ####V3
 * [T49](https://phabricator.ushahidi.com/T49)
