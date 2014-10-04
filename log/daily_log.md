@@ -1523,6 +1523,7 @@ http://www.fraserinstitute.org/research-news/display.aspx?id=18849)
 * finish jsorrery blog
 * read over vital signs visualization notes
 * Mopad for October 9th [science mozsesh](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
+* plan friday's radio show
 
 ###UPCYCLING INTERACTIVES
 
