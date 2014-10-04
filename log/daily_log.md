@@ -1505,10 +1505,10 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 TO DOS
 * woody's phab posts
 * sara's vital signs notes
-* send friday jobs dispatch - gdi
-* followup wiht bikestorming
+* ~~send friday jobs dispatch - gdi~~
+* ~~followup wiht bikestorming~~
 * write draft of open news blog on upcycling interactives
-* revisit workshop to followup with bkx
+* ~~revisit workshop to followup with bkx~~
 * data stuff for bkx
 
 
