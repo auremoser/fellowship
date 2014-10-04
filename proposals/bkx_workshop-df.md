@@ -15,11 +15,9 @@ OSM Workshop on Vocabulary
 * Geo for Wordpress
 * Mapas Collectivos for Node 
 
-
 ##PILOT
-* Carmello mapping party and start to develop a schema around their data
+* Carmello mapping party and start to develop a schema around their data* 
 * Focus on micro-communities > go big from there
-
 
 ================
 ###DATA SETS OF INTEREST
@@ -83,7 +81,6 @@ Celine Jacquin  | Mexico  | CTS Embarq / Rancho electronico| celija@gmail.com an
 Jorge Martinez Ortega | Mexico | Kueski | j.martinezortega@gmail.com
 Susana Mateos | Mexico | ? | susannamateos@gmail.com
 Leo Castaneda | Mexico | ?|lcastaneda@embarqmexico.org
-
 
 ============
 
