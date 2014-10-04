@@ -1484,6 +1484,11 @@ Weekly updates [doc](https://docs.google.com/a/ushahidi.com/document/d/16GYDQNqj
 * Gave [ConDatos Presentation](https://docs.google.com/a/ushahidi.com/presentation/d/11AihG6kDnLZg5cRHVBpLWC3caBUK7VMbo782x5ImkEc/edit#slide=id.g3a0ff162a_10)
 * OSM Tag representation first pass [Code](https://github.com/auremoser/bkx-osm) | [Demo](http://auremoser.github.io/bkx-osm)
 * Meeting with the Laboritorio de la Ciuidad in Mexico City
+* Connected with my Yo intervengo Mentees
+* Was interviewed my MOUSE for Girl Develop It
+
+####BEAUTIFUL RISING ADVISORY
+
 
 ####V3
 * [T49](https://phabricator.ushahidi.com/T49)
