@@ -1538,8 +1538,6 @@ Please take a moment to give everyone a brief intro to your sessions, and what i
 
 ###INTERVIEW FOR DANIEL
 
-Fantastic and thanks again Aure!  
-
 We'll have a preamble with your bio, and then on to the questions (which I design to give you great latitude to roam, riff, diverge-- and we can tweak/refine the questions if you feel inclined):
 
 Question One:
