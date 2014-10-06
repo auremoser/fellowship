@@ -1526,6 +1526,7 @@ http://www.fraserinstitute.org/research-news/display.aspx?id=18849)
 * plan friday's radio show
 * ~~send mati secure drop~~
 * investigate research budget
+* apply for [this job](https://careers.mozilla.org/en-US/position/odmAZfwS)
 
 ###UPCYCLING INTERACTIVES
 
