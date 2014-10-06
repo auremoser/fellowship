@@ -1513,18 +1513,19 @@ http://www.fraserinstitute.org/research-news/display.aspx?id=18849)
 * External partners [process doc](https://phabricator.ushahidi.com/T821)
 
 ####TO DOS
-* woody's phab posts
-* sara's vital signs notes
+* ~~woody's phab posts~~
 * ~~send friday jobs dispatch - gdi~~
 * ~~followup wiht bikestorming~~
 * write draft of open news blog on upcycling interactives
+* flesh out library repo
 * ~~revisit workshop to followup with bkx~~
 * data stuff for bkx
 * finish jsorrery blog
 * read over vital signs visualization notes
 * Mopad for October 9th [science mozsesh](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
 * plan friday's radio show
-* send mati secure drop
+* ~~send mati secure drop~~
+* investigate research budget
 
 ###UPCYCLING INTERACTIVES
 
