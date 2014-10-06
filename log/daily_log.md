@@ -1545,6 +1545,12 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * applied to Tactical Tech Secu Forum [here](https://tacticaltech.org/application-form-gender-and-technology-pop-institute) | [application here](https://github.com/auremoser/fellowship/blob/master/proposals/tactical_tech-berlin.md)
 * joined open street map LATAM team [review of sessions here](https://lists.openstreetmap.org/pipermail/talk-latam/2014-October/000004.html)
 
+###COLLAB
+* 
+###CREATE
+* 
+
+
  
 
 

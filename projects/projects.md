@@ -44,7 +44,7 @@ Conference | Location | Date | Role
 [Hacks Hackers Media Conference](http://mediaparty.info/) | Buenos Aires, Argentina | Aug 28-30 | Speaker: Keyblur and Opsec (pending)
 [Edge Conference](https://edgeconf.com/2014-sf) | San Francisco |Sept 20th | Participant
 [Moz Fest](http://2014.mozillafestival.org/) | London | October 28-30 | Session Lead (pending)
-[ONA14](http://ona14.journalists.org/suggestion-box/faq/)* | Chicago, IL | Sept. 25-27th | Speaker (pending)
+[ConMapas](http://condatos.org/mapa.html) | Mexico City, D.F. | Sept. 28-October 2nd | Speaker: Bikestorming and Public Transport Tagging
 
 
 
