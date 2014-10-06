@@ -20,6 +20,7 @@ GeoNewsies | HTML/CSS/JS/Java | [Geonewsies Repo](https://github.com/auremoser/g
 KeyBlur | Python + HTML/CSS/JS | [KeyBlur Repo](https://github.com/mozilla/keyblur) | project for the Center for Civic Media Hackathon, a deadrop device preloaded with an open source file-sync and sharing application
 Vital Signs | JS/Html/Css/Python | [climate](https://github.com/auremoser/VitalSigns-climate), [eplots/water](https://github.com/auremoser/VitalSigns-eplots), [soil](https://github.com/auremoser/VitalSigns-soil) | project to build dashboard prototypes for Vital Signs, tracking farming conditions and food security indicators in TZA
 HIV@30 - Zoom Viz | JS: D3, HTML/CSS | [Repo here](https://github.com/auremoser/hiv-30_zoom) [Zoom Viz Demo](http://auremoser.github.io/hiv-30_zoom/) | project to visualize the chambua-extracted vocabulary around HIV in the Daily Nation, 30-years of articles and terms for the people, places, and institutions involved in the conversation
+OSM Folksonomy Viz | Python, JS: D3 | [Repo](https://github.com/auremoser/bkx-osm) [Viz Demo](http://auremoser.github.io/bkx-osm/) | project to visualize the OSM tagging schema for Bike, Pedestrain, and Public Space datasets
 
 
 
