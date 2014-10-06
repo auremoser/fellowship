@@ -1536,6 +1536,8 @@ Also, I'm hoping you'll be writing Learning posts for us for years to come, beca
 Please take a moment to give everyone a brief intro to your sessions, and what ideas you'd like to touch on under your name in the etherpad (around line 60+): https://etherpad.mozilla.org/sciencelab-calls-oct9-2014 - let us know any questions or requests, and I look forward to hearing from you on Thursday!
 * we'll be fleshing out [this repo](https://github.com/mozillascience/training_for_libraries)
 
+##10/6/14
+Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G8l6QWodcJZzz53ls0gOoSx7Cm5A6umJvVR6rMkw/edit#)
 
  
 
