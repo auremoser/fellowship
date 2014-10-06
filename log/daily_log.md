@@ -1537,56 +1537,7 @@ Please take a moment to give everyone a brief intro to your sessions, and what i
 * we'll be fleshing out [this repo](https://github.com/mozillascience/training_for_libraries)
 
 
-###INTERVIEW FOR DANIEL
-
-We'll have a preamble with your bio, and then on to the questions (which I design to give you great latitude to roam, riff, diverge-- and we can tweak/refine the questions if you feel inclined):
-
-Question One:
-
-You describe yourself on your Twitter profile as "Archivist/Analyst/Algorist/Activist."  How do these four "A's" interact and intersect with one another?  Are you an "archivist" on the Monday and an "activist" on the Tuesday, or are you typically a little bit of each on a given project?
-
-:) I most definitely toggle between all my alliterative adjectival descriptors. I think at my core, I'm a librarian, a learner of many things and an ethusiastic advocate of knowledge organizations and preservation. Much of my work as a developer depends on memory management and math these days so I think the others descriptors follow suite, and activism couples easily with strong advocacy for humanitarian issues, open source development, and coding education, all of which flesh out the rest of my on/offline profile. 
-
-Question Two:
-
-Among your wide-ranging interests is a focus on visualization, mapping and structuring of data.  Where do you see this focus going in the future, what do you imagine is the future of knowledge management?
-
-Good question; I think I gravitate toward maps because knowledge organization is so much about mapping. We often think of maps as flattened approximations of our 3D physical environments, but mapping is a pretty broad term. In many ways, the most impressive aspect of mapping visualizations is that they provide intuitive connections between our digital and physical worlds, they effectively map information to a digital topography which has recognizable echo in our physical world, and as such they provide a more direct read on data than say a bar chart or a scatter plot because people can connect their real enviroment with the projection. But mapping is a much broader discipline than cartography; when you map out a computer architecture or diagram a schema in development you build a map; when you match two or more datasets via a crosswalk schematic you create a map from one to the other; much of the internet and hyperlink architecture depends on a rough abilty to map related entities to one another. Maps are everywhere in our ability to process technology and geography.  Effectively, maps subsume much of our activity in building technology; we build maps as guides to an increasingly complex world, and that's important work to promote and refine. 
-Of late, the future of most technologies trends toward automation: what can we build to make people defer memory or attention to a technological surrogate? How can we provide Google Glass to people without optical impairment, how can we use data to track and monitor our sleeping or excercise patterns when we'd rather not just watch what we eat and exercise. I think some of the marketing around tech products falls short of more illustrious humanitarian goals and settles on providing an elite with additional efficiencies. But I think what I'm most interested in is our ability to promote our existing faculties with invisible and intuitive technologies; visualizations should be constructed to improve visibitlity on certain data, but also to encourage a critical read on current events, on the current cultural, political, and social topograpy of our world informed by data that we represent on intuitive interfaces. I like that a visualization requires no digital prosthetic, no google glass or fitbit or other wearable to permit view. Most of the crisis maps and technologies I work on, are meant for use by people without a wearable budget, with only perhaps a feature phone in a place with broken, tangled or throttled technological infrastructure. I see the future of information organization, visualization, and technical development as wedded to the value of enabling these constituents to leverage technology and contribute data, to commit to global memory their experiences. Technology can manage memory in interesting ways; and I'm looking forward to building the systems that will map and maintain a global collective memory without the limiting myopia of device dependence or advantage enabled by economic privelege. It's pretty quixotic but so is the 'future' as an abstract construct. I like to dream big.
-
-Question Three:
-
-As a corollary to the last question:  what challenges do you see for data privacy and data ownership? 
-
-Part of what I loved about working in libraries was our strong adherence to protecting patron privacy and records. I still strongly believe in the power of private learning and the personal assurance that secure and unsurveilled data storage can provide. And I believe that some of the most challenging aspects of protecting privacy involve our own human ignorance of its value in our contemporary world. We've been so long saturated by social media and networks of connectivity enabled by data sharing, that I'm not sure the definitions of privacy and security haven't blurred to a point of difficult defense. There's so much more to data privacy and security than it's ownership; it's part of a complex slurry of evolving values, and some of the most malicious threats to privacy stem from our progressively eroded sysem of value defitions. The main challenges to protecting privacy align with the challenges of protecting citizen opinion,humanitarian actions, egalitarian policymaking, and political transparency: much of it relates to education and promoting the definition and defense of values among a diverse populace. Education plays a strong role in this, and promoting open education about data management, secure communication, and private learning is part of that initiative.
-
-There's often so much potential in hardware and software development to shift paradigms of behavior, and we, as developers of these technologies, should be encouraged to develop those shifts in favor of medical advancement, scientific study and the promotion of human rights and humane behaviors globally. Part of that promotion aligns well with protecting the intangibles of human life, with which the more nebulous values of privacy and personal security align.
-
-Question Four:
-
-Girl Develop It chapters have nearly doubled this year (congratulations!).  What is driving their growth, and what do you see as next stages for the organization?
-
-Thank you! We are humbled by the enthusiasm for the program and the generous volunteer efforts of our chapter leaders and teachers nationally. In the immediate, we have a chapter-wide summit in November aimed at convening all of our chapter leaders from more than 48 locations (!) in New York to discuss next steps and growth for the organization. In general, we'd like to evolve our processes to streamline curriculum production and quality control, which to this point has been tenable but always merits revision. Much of that work will come from consensus between all of our chapters, to serve all our oranizational needs.
-Locally (NYC), I think we'll try to seek out more diverse offerings to our more than 6,000 members that go beyond coding curricula to code review, mentorship programs, and a pilot teaching program in partnership with organizations that serve younger demographics. There are many orgs doing great things to promote coding education, and we've only as yet done a feeble job of mutually supporting them. I think we'd like to do more of that in the future. 
-
-Long-term, I believe that any organization promoting an ethos of equality hopes for a time when their efforts will obsolesce, when promoting safe spaces for female coding education will no longer be a desire but a default state. So yes, I think our ultimate goal/stage will be to build a world where we are no longer needed.
-
-
-Question Five:
-
-What have you read recently that you would recommend to MOUSE Blog readers?  What movie, what music?
-
-Oooh, fun question! I read a lot of international news these days because of my work with Mozilla, Ushahidi and Internews-Kenya, and sadly, much of it has been focused on terrorism and humanitarian crisis, but I do a pretty decent job of cataloguing my contemporary thoughts on my blog algorhyth.ms, so lots of the articles I might recommend are there. For longer reads I'd recommend the Dataclysm book and xkcd's What If, which I've been entertained and intrigued by for the past week. 
-
-Related to my previous mini-rant on wearables and physical computing, I've been reading google's docs on the Physical Web: https://github.com/google/physical-web/blob/master/documentation/introduction.md, still nascent, but lot of interesting thoughts to ponder about the future of the web. I always recommend Paul Ford's 10 Timeframes (http://airborne.gogoinflight.com/abp/connecting.jsp?abpflg=2) to people who want a short, thoughtful read on technology design. Likewise, I've got a pile of TED talks that I usually punt to people as recommendations but I think Inventing on Principle sums up some recent proccupations: http://vimeo.com/36579366#. I'm also intrigued by patterns of persception and the affects of culture/nurture on educational disposition, so I frequently fall into articles about linguistics. It's pretty fascinating how having a vocabulary to describe a situation affects one's appreciation of reality, so lot of my recreational reads tend toward that theme: http://nautil.us/issue/17/big-bangs/the-family-that-couldnt-say-hippopotamus?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-Movies, I'm not so sure; I don't watch a lot of them which has me horrendously out of touch with that component of contemporary pop culture but otherwise affords me lots of time for reading and learning. For music, I listen to a lot of Chiptunes (http://www.8bitpeoples.com/discography) and Cumbia thanks to recent trips to Argentina and Mexico for work. I'd recommend Chancha via Circuito's new album to that end, and also the new Aphex Twin if you like computer-y music. I'll spare the list a longer brain dump on all my weird musical affinities but I'll close with a little nerdy self-promotion. I run a radio show that's been on temporary hiatus because of travel, but it starts again in a few weeks. It's called Stereo Semantics, and it's a radio show based on the semantic web: I start with a song, end with its cover, and spend the rest of the time connecting the dots between the two based on a them, using a graph pulling on DBpedia to build connections between artists and songs, you can check out the website with playlists and archived episodes here: stereosemantics.com
-
-Thanks so much! I hope all that makes sense.
-
-Shall we say you send back responses by Nov. 1st?
-
-All best, Daniel  
+ 
 
 
 
