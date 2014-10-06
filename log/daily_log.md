@@ -1539,6 +1539,9 @@ Please take a moment to give everyone a brief intro to your sessions, and what i
 ##10/6/14
 Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G8l6QWodcJZzz53ls0gOoSx7Cm5A6umJvVR6rMkw/edit#)
 
+###CATCHUP
+* applied to Tactical Tech Secu Forum [here](https://tacticaltech.org/application-form-gender-and-technology-pop-institute)
+
  
 
 
