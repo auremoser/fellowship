@@ -1546,7 +1546,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * joined open street map LATAM team [review of sessions here](https://lists.openstreetmap.org/pipermail/talk-latam/2014-October/000004.html)
 
 ###COLLAB
-* 
+* Meeting with Mapzen
 ###CREATE
 * 
 
