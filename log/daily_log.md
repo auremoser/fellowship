@@ -1547,6 +1547,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 
 ###COLLAB
 * Meeting with Mapzen
+* OSM scholarship signup for state of the map argentina
 ###CREATE
 * 
 
