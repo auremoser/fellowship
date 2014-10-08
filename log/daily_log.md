@@ -1550,6 +1550,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * OSM scholarship signup for state of the map argentina
 * Carto DB map of the week blogpost
 * External Projects [doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
+* Chatted with Vaibhav about the Vital Signs Visualizations; meeting on Friday
 ###CREATE
 * 
 
