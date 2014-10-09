@@ -1158,9 +1158,10 @@ Weekly Updates Logged [here](https://docs.google.com/a/ushahidi.com/document/d/1
 * Made fixes and iterations on the Vital Signs Prject
 * Updated HIV @30 timeline with additions
 * Wrote a blog post for the Ushahidi Blog [just here](https://docs.google.com/a/ushahidi.com/document/d/1fQ8k5vbbotcuRRKk_DKmD1VAhqZq1Ta5K6E741QZW-M/edit)
-* Meetign with Eva about Curriculum (Wed_)
+* Meetign with Eva about Curriculum (Wed_); curriculum [etherpad](https://etherpad.mozilla.org/3Nwm79RiST)
 * Meeting with MozScience about training for libraries (Wed)
 * CartoDB weekly map
+* 
  
 
 ###COLLAB
