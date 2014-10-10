@@ -1555,9 +1555,12 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * Carto DB map of the week blogpost
 * External Projects [doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
 * Chatted with Vaibhav about the Vital Signs Visualizations; meeting on Friday
+* MozScience Call [here](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
+* Curriculum Meeting with Eva, Curriculum [doc here]()
 
 ###CREATE
 * pull request for dc.js to be added to chart-tools by chartoff
+* applied to [this job](https://careers.mozilla.org/en-US/position/odmAZfwS)
 
 
  
