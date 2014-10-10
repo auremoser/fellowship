@@ -1562,6 +1562,14 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * pull request for dc.js to be added to chart-tools by chartoff
 * applied to [this job](https://careers.mozilla.org/en-US/position/odmAZfwS)
 
+TO DOS
+* carto db blog map of the week
+* cartod db application
+* prep for meeting with schuyler
+* mozfest libraries repository
+* curriculum pilot   for eva
+
+
 
  
 
