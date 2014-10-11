@@ -1557,6 +1557,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * Chatted with Vaibhav about the Vital Signs Visualizations; meeting on Friday
 * MozScience Call [here](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
 * Curriculum Meeting with Eva, Curriculum [doc here]()
+* Carto Interview prep
 
 ###CREATE
 * pull request for dc.js to be added to chart-tools by chartoff
