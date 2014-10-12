@@ -1558,6 +1558,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * MozScience Call [here](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
 * Curriculum Meeting with Eva, Curriculum [doc here]()
 * Carto Interview prep
+* CartoDB [blog post](https://gist.github.com/auremoser/99d86a77236d0ba6f745)
 
 ###CREATE
 * pull request for dc.js to be added to chart-tools by chartoff
