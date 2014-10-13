@@ -1571,7 +1571,13 @@ TO DOS
 * mozfest libraries repository
 * curriculum pilot   for eva
 
-
+##10/13/14
+###CREATE
+* Had meeting on the SOU (State of Ushahidi), joined in on this we-can-do-better [doc](https://docs.google.com/a/ushahidi.com/document/d/1nyhCUEqgj3pHS_8vpVij_YPNNPKXSLYURsnKrE2448o/edit)
+###COLLAB
+* carto blog post mail, carto metrologic [exercise](https://github.com/auremoser/metrologic) | [demo](http://auremoser.github.io/metrologic/)
+###CATCHUP
+* 
 
  
 
