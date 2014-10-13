@@ -1567,7 +1567,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 TO DOS
 * ~~carto db blog map of the week~~
 * ~~cartod db application~~
-* carto DB lightening talk
+* ~~carto DB lightening talk~~
 * prep for meeting with schuyler
 * mozfest libraries repository
 * curriculum pilot for eva
@@ -1576,9 +1576,15 @@ TO DOS
 ###CREATE
 * Had meeting on the SOU (State of Ushahidi), joined in on this we-can-do-better [doc](https://docs.google.com/a/ushahidi.com/document/d/1nyhCUEqgj3pHS_8vpVij_YPNNPKXSLYURsnKrE2448o/edit)
 * Started a [personal task list](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1S46vZvtERlC9vBHZoyDWnmfREBHMUuZIJN_MUR8hmsE/edit#gid=0) for Nat's email
+
+
+
 ###COLLAB
 * carto blog post mail, carto metrologic [exercise](https://github.com/auremoser/metrologic) | [demo](http://auremoser.github.io/metrologic/)
 * Applied to Open Gender Data for Change [doc](http://bit.ly/1sfMFny)
+
+
+
 ###CATCHUP
 * 
 
