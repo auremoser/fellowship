@@ -1578,6 +1578,7 @@ TO DOS
 * Started a [personal task list](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1S46vZvtERlC9vBHZoyDWnmfREBHMUuZIJN_MUR8hmsE/edit#gid=0) for Nat's email
 ###COLLAB
 * carto blog post mail, carto metrologic [exercise](https://github.com/auremoser/metrologic) | [demo](http://auremoser.github.io/metrologic/)
+* Applied to Open Gender Data for Change [doc](http://bit.ly/1sfMFny)
 ###CATCHUP
 * 
 
