@@ -1565,11 +1565,12 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * applied to [this job](https://careers.mozilla.org/en-US/position/odmAZfwS)
 
 TO DOS
-* carto db blog map of the week
-* cartod db application
+* ~~carto db blog map of the week~~
+* ~~cartod db application~~
+* carto DB lightening talk
 * prep for meeting with schuyler
 * mozfest libraries repository
-* curriculum pilot   for eva
+* curriculum pilot for eva
 
 ##10/13/14
 ###CREATE
