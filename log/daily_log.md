@@ -1551,6 +1551,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 * mozilla science meeting call[pad](https://etherpad.mozilla.org/scienceMentorsMeeting)
 * Community Call for Mozilla [notes](https://etherpad.mozilla.org/opennews-calls-Oct15)
 * Fellows [checkin call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
+* MozFest Science Fair aggreement: check
 
 
 
