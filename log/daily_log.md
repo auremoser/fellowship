@@ -1548,24 +1548,13 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 ###CATCHUP
 * applied to Tactical Tech Secu Forum [here](https://tacticaltech.org/application-form-gender-and-technology-pop-institute) | [application here](https://github.com/auremoser/fellowship/blob/master/proposals/tactical_tech-berlin.md)
 * joined open street map LATAM team [review of sessions here](https://lists.openstreetmap.org/pipermail/talk-latam/2014-October/000004.html)
-* mozilla science meeting call[pad](https://etherpad.mozilla.org/scienceMentorsMeeting)
-* Community Call for Mozilla [notes](https://etherpad.mozilla.org/opennews-calls-Oct15)
-* Fellows [checkin call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
-* MozFest Science Fair aggreement: check
-
-
 
 
 ###COLLAB
 * Meeting with Mapzen
 * OSM scholarship signup for state of the map argentina
 * Carto DB map of the week blogpost
-* External Projects [doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
-* Chatted with Vaibhav about the Vital Signs Visualizations; meeting on Friday
-* MozScience Call [here](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
-* Curriculum Meeting with Eva, Curriculum [doc here]()
-* Carto Interview prep
-* CartoDB [blog post](https://gist.github.com/auremoser/99d86a77236d0ba6f745)
+
 
 ###CREATE
 * pull request for dc.js to be added to chart-tools by chartoff
@@ -1587,11 +1576,22 @@ TO DOS
 ###COLLAB
 * carto blog post mail, carto metrologic [exercise](https://github.com/auremoser/metrologic) | [demo](http://auremoser.github.io/metrologic/)
 * Applied to Open Gender Data for Change [doc](http://bit.ly/1sfMFny)
+* External Projects [doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
+* Chatted with Vaibhav about the Vital Signs Visualizations; meeting on Friday
+* MozScience Call [here](https://etherpad.mozilla.org/sciencelab-calls-oct9-2014)
+* Curriculum Meeting with Eva, Curriculum [doc here]()
+* Carto Interview prep
+* CartoDB [blog post](https://gist.github.com/auremoser/99d86a77236d0ba6f745)
+* mozilla science meeting call[pad](https://etherpad.mozilla.org/scienceMentorsMeeting)
+* Community Call for Mozilla [notes](https://etherpad.mozilla.org/opennews-calls-Oct15)
+* Fellows [checkin call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
+* MozFest Science Fair aggreement: check
 
 ###CATCHUP
 * Met with Vaibhav to talk about vital signs visualizations
 * Met with Sandy and Visualization team for Vital Signs [Notes](https://docs.google.com/a/ushahidi.com/document/d/1HmiBvIcvKXF2ApvO_jnE0fiqRkrplkXe5vo1iH-7P0c/edit#)
 * Beehive collab project [proposal](https://docs.google.com/document/d/1yMHaDUXLc6akj3dxbagUTQ1Bt1jb13qn8Dy90LdJgeA/edit#heading=h.8n05uhjyde5m)
+* Sent longer clarification message to Vaibhav
 
 ### VITAL SIGNS: Visualizations
 
