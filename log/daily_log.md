@@ -1548,6 +1548,12 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/12E_G
 ###CATCHUP
 * applied to Tactical Tech Secu Forum [here](https://tacticaltech.org/application-form-gender-and-technology-pop-institute) | [application here](https://github.com/auremoser/fellowship/blob/master/proposals/tactical_tech-berlin.md)
 * joined open street map LATAM team [review of sessions here](https://lists.openstreetmap.org/pipermail/talk-latam/2014-October/000004.html)
+* mozilla science meeting call[pad](https://etherpad.mozilla.org/scienceMentorsMeeting)
+* Community Call for Mozilla [notes](https://etherpad.mozilla.org/opennews-calls-Oct15)
+* Fellows [checkin call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
+
+
+
 
 ###COLLAB
 * Meeting with Mapzen
@@ -1577,21 +1583,16 @@ TO DOS
 * Had meeting on the SOU (State of Ushahidi), joined in on this we-can-do-better [doc](https://docs.google.com/a/ushahidi.com/document/d/1nyhCUEqgj3pHS_8vpVij_YPNNPKXSLYURsnKrE2448o/edit)
 * Started a [personal task list](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1S46vZvtERlC9vBHZoyDWnmfREBHMUuZIJN_MUR8hmsE/edit#gid=0) for Nat's email
 
-
-
 ###COLLAB
 * carto blog post mail, carto metrologic [exercise](https://github.com/auremoser/metrologic) | [demo](http://auremoser.github.io/metrologic/)
 * Applied to Open Gender Data for Change [doc](http://bit.ly/1sfMFny)
 
-
-
 ###CATCHUP
 * Met with Vaibhav to talk about vital signs visualizations
-* Met with Sandy and Visualization team for Vital Signs [Notes]()
+* Met with Sandy and Visualization team for Vital Signs [Notes](https://docs.google.com/a/ushahidi.com/document/d/1HmiBvIcvKXF2ApvO_jnE0fiqRkrplkXe5vo1iH-7P0c/edit#)
 * Beehive collab project [proposal](https://docs.google.com/document/d/1yMHaDUXLc6akj3dxbagUTQ1Bt1jb13qn8Dy90LdJgeA/edit#heading=h.8n05uhjyde5m)
 
-#### VITAL SIGNS: Tiers
-#####Layers/Data Sources
+### VITAL SIGNS: Visualizations
 
 * Tier 1 covers the entire extent of the region (‘wall-to-wall’) with relatively coarse resolution remotely sensed or modelled data. 
 
@@ -1601,29 +1602,30 @@ TO DOS
 
 * Tier 4 consists of a small number of 10 x 10 km landscapes where very detailed, highly-resolved and spatially-linked information is collected.”. household and crop surveys <- you’ll also sometimes see Tier2a and Tier2b… 2a is detailed plots (e.g. Eplots); 2b is rapid semi-quantitative plots (e.g. rapid roadside assessments).
 
-####Indicators
-#####Topics/Types
-* biomass
-
-####Thread
-#####Visualization
-
-
+####Terms
+Users = stakeholders
+* indicators = topics/types metrics of interest to a particular user
+* framework = ability to create
+* tiers = layers/data sources/statistical sampling frame
+* thread = visualizations
+* scales (continent>country>regions>landscape)/levels = zoom levels (country, region, landscape)
+* tiles = not commited to data by administrative boundaries
 
 ####Deliverables
-Carto DB libraries
-Leaflet - visualization toolkit
-Freedraw
-Get Vaibhav
-Ticket for visualization
+* Carto DB libraries
+* Leaflet - visualization toolkit
+* Freedraw 
+* Investigate tableau maps, filter by time
+* Get Vaibhav link to paraguay carto project
+* Ticket for visualization
+* Resolution controls zoom
+* Smallest time unit is a season quote (calendar date range)
+* Metadata standards
+* Follow up with my understanding of the terms
 
-
-
-Resolution controls zoom
-
-####
-Create visualization
-Tableau - free
+####Levels/Scales
+Tanzania ghana Uganda
+continent > country > region (sagcot) >landscape (10x10 k)
 
 
 
