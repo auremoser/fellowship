@@ -1586,7 +1586,46 @@ TO DOS
 
 
 ###CATCHUP
-* 
+* Met with Vaibhav to talk about vital signs visualizations
+* Met with Sandy and Visualization team for Vital Signs [Notes]()
+* Beehive collab project [proposal](https://docs.google.com/document/d/1yMHaDUXLc6akj3dxbagUTQ1Bt1jb13qn8Dy90LdJgeA/edit#heading=h.8n05uhjyde5m)
+
+#### VITAL SIGNS: Tiers
+#####Layers/Data Sources
+
+* Tier 1 covers the entire extent of the region (‘wall-to-wall’) with relatively coarse resolution remotely sensed or modelled data. 
+
+* Tier 2 consists of several hundred or thousand locations, where information is periodically collected in plots of around 1 ha extent. [eplots, roadside assessment]
+
+* Tier 3 consists of a small number of points where continuous data is recorded using automated sensors. 
+
+* Tier 4 consists of a small number of 10 x 10 km landscapes where very detailed, highly-resolved and spatially-linked information is collected.”. household and crop surveys <- you’ll also sometimes see Tier2a and Tier2b… 2a is detailed plots (e.g. Eplots); 2b is rapid semi-quantitative plots (e.g. rapid roadside assessments).
+
+####Indicators
+#####Topics/Types
+* biomass
+
+####Thread
+#####Visualization
+
+
+
+####Deliverables
+Carto DB libraries
+Leaflet - visualization toolkit
+Freedraw
+Get Vaibhav
+Ticket for visualization
+
+
+
+Resolution controls zoom
+
+####
+Create visualization
+Tableau - free
+
+
 
  
 
