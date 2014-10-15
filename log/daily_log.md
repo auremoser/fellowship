@@ -1593,6 +1593,7 @@ TO DOS
 * Beehive collab project [proposal](https://docs.google.com/document/d/1yMHaDUXLc6akj3dxbagUTQ1Bt1jb13qn8Dy90LdJgeA/edit#heading=h.8n05uhjyde5m)
 * Sent longer clarification message to Vaibhav
 * Vital Signs Meeting with backend [team doc here](https://docs.google.com/a/ushahidi.com/document/d/1yOLr2vdovRPwuYwW2hnsAsNw7fxJLaKkZnre5bAh5sw/edit#)
+* External projects [weekly call](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 
 ### VITAL SIGNS: Visualizations
 
