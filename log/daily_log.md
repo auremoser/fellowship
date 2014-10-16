@@ -1630,6 +1630,14 @@ Users = stakeholders
 Tanzania ghana Uganda
 continent > country > region (sagcot) >landscape (10x10 k)
 
+####Docs 
+* [Overview of the Vital Signs System](https://docs.google.com/viewer?a=v&pid=sites&srcid=Y29uc2VydmF0aW9uLm9yZ3x2aXRhbC1zaWducy1wcm9qZWN0fGd4OjNkMjBjZTU1YTQzMDI5OQ)
+* [Tech Plan Doc](https://docs.google.com/viewer?a=v&pid=sites&srcid=Y29uc2VydmF0aW9uLm9yZ3x2aXRhbC1zaWducy1wcm9qZWN0fGd4OjNkMjBjZTU1YTQzMDI5OQ)
+* [Visualisations Plans](https://docs.google.com/a/ushahidi.com/document/d/1YEeVEmv8TgJygMsht-UGImRp0WRUwqr2ZqET-I-l0PE/edit)
+* [Progress on Phabricator](https://phabricator.ushahidi.com/project/board/17/)
+* [VS workflow discussions](https://docs.google.com/document/d/1zP_Qz4PYcq93eMTvyQO5I3p3sHrvSDmSKepIvcZrp2I/edit#heading=h.cywxt3geoq96)
+* 
+
 
 
  
