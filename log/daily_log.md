@@ -1638,6 +1638,9 @@ continent > country > region (sagcot) >landscape (10x10 k)
 * [VS workflow discussions](https://docs.google.com/document/d/1zP_Qz4PYcq93eMTvyQO5I3p3sHrvSDmSKepIvcZrp2I/edit#heading=h.cywxt3geoq96)
 * [First Pass Prototype](https://phabricator.ushahidi.com/T704)
 
+###BEAUTIFUL RISING
+* [Terms of Reference](https://docs.google.com/document/d/1SuyUi9BqeZ21N9yktp0ohebORtEkssYSf_IjSWFE_C0/edit#heading=h.h73gahenrz1b)
+* [Tech Doc to Comment On](https://docs.google.com/document/d/1wY8v4ETskHTnZ_y9heJ4Xf4qRJfEBtLksEP-fCNKZPU/edit#heading=h.e9vlva9s0l3b)
 
 
  
