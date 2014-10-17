@@ -1599,6 +1599,7 @@ TO DOS
 * Vital Signs Meeting with backend [team doc here](https://docs.google.com/a/ushahidi.com/document/d/1yOLr2vdovRPwuYwW2hnsAsNw7fxJLaKkZnre5bAh5sw/edit#)
 * External projects [weekly call](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 * Open News [Check in Call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
+* Beautiful Trouble Advisory Network Meeting
 
 ### VITAL SIGNS: Visualizations
 
