@@ -1573,6 +1573,8 @@ TO DOS
 * Had meeting on the SOU (State of Ushahidi), joined in on this we-can-do-better [doc](https://docs.google.com/a/ushahidi.com/document/d/1nyhCUEqgj3pHS_8vpVij_YPNNPKXSLYURsnKrE2448o/edit)
 * Started a [personal task list](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1S46vZvtERlC9vBHZoyDWnmfREBHMUuZIJN_MUR8hmsE/edit#gid=0) for Nat's email
 * Worked on [Pirate Box Session](https://etherpad.mozilla.org/piratebox-mozfest) for Mozfest
+* Meeting with Sergio from Carto + talk with Javier about smart cities
+* Blog post featured in carto's blog [today](http://blog.cartodb.com/map-of-the-week-pulse-plotting/?utm_content=buffer9abe0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ###COLLAB
 * carto blog post mail, carto metrologic [exercise](https://github.com/auremoser/metrologic) | [demo](http://auremoser.github.io/metrologic/)
