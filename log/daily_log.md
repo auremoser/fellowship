@@ -1576,6 +1576,7 @@ TO DOS
 * Meeting with Sergio from Carto + talk with Javier about smart cities
 * Blog post featured in carto's blog [today](http://blog.cartodb.com/map-of-the-week-pulse-plotting/)
 
+
 ###COLLAB
 * carto blog post mail, carto metrologic [exercise](https://github.com/auremoser/metrologic) | [demo](http://auremoser.github.io/metrologic/)
 * Applied to Open Gender Data for Change [doc](http://bit.ly/1sfMFny)
@@ -1597,6 +1598,7 @@ TO DOS
 * Sent longer clarification message to Vaibhav
 * Vital Signs Meeting with backend [team doc here](https://docs.google.com/a/ushahidi.com/document/d/1yOLr2vdovRPwuYwW2hnsAsNw7fxJLaKkZnre5bAh5sw/edit#)
 * External projects [weekly call](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
+* Open News [Check in Call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
 
 ### VITAL SIGNS: Visualizations
 
