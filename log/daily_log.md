@@ -1600,6 +1600,7 @@ TO DOS
 * External projects [weekly call](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#)
 * Open News [Check in Call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
 * Beautiful Trouble Advisory Network Meeting
+* Job Offer from CartoDB
 
 ### VITAL SIGNS: Visualizations
 
