@@ -1601,6 +1601,11 @@ TO DOS
 * Open News [Check in Call](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-october)
 * Beautiful Trouble Advisory Network Meeting
 * Job Offer from CartoDB
+* Blog post for Open NEws
+* Mozfest sessions:
+* 	Pirate Box with Marcos
+* 	Training for Librarians with Dave Riordan
+* 	OpSec with Mike Tigas and Harlo
 
 ### VITAL SIGNS: Visualizations
 
