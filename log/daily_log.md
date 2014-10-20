@@ -1649,6 +1649,9 @@ continent > country > region (sagcot) >landscape (10x10 k)
 * [Progress on Phabricator](https://phabricator.ushahidi.com/project/board/17/)
 * [VS workflow discussions](https://docs.google.com/document/d/1zP_Qz4PYcq93eMTvyQO5I3p3sHrvSDmSKepIvcZrp2I/edit#heading=h.cywxt3geoq96)
 * [First Pass Prototype](https://phabricator.ushahidi.com/T704)
+* [VISUALIZATION GITHUB](https://github.com/ushahidi/vitalsigns-client)
+* [DAT FOR DATA CONTROL](http://dat-data.com/)
+* [Angular-Leaflet Directive](http://tombatossals.github.io/angular-leaflet-directive/#!/)
 
 ###BEAUTIFUL RISING
 * [Terms of Reference](https://docs.google.com/document/d/1SuyUi9BqeZ21N9yktp0ohebORtEkssYSf_IjSWFE_C0/edit#heading=h.h73gahenrz1b)
