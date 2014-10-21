@@ -1653,6 +1653,7 @@ continent > country > region (sagcot) >landscape (10x10 k)
 * [DAT FOR DATA CONTROL](http://dat-data.com/)
 * [Angular-Leaflet Directive](http://tombatossals.github.io/angular-leaflet-directive/#!/)
 * [Data Migration Screencast](https://www.dropbox.com/s/gg5tefsqxwp347m/migration-diff-02-eplot.mkv?dl=0)
+* [Data Migration Doc](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1mV5T2avvXcaNHtyjAjBc-PeuoQrrvb6Facw8zoB-zGE/edit#gid=0)
 
 ###BEAUTIFUL RISING
 * [Terms of Reference](https://docs.google.com/document/d/1SuyUi9BqeZ21N9yktp0ohebORtEkssYSf_IjSWFE_C0/edit#heading=h.h73gahenrz1b)
