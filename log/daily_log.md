@@ -1661,7 +1661,7 @@ continent > country > region (sagcot) >landscape (10x10 k)
 ##10/20/14
 Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0C4oRuwY3WMuMnk27x6pI7kuh0p7CRRIW61b_obE/edit#)
 ###CATCHUP
-* 
+* Built Vaibhav's vital signs demo [here](https://github.com/ushahidi/vitalsigns-client)
 ###COLLAB
 ###CREATE
 
