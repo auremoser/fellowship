@@ -1658,6 +1658,12 @@ continent > country > region (sagcot) >landscape (10x10 k)
 * [Terms of Reference](https://docs.google.com/document/d/1SuyUi9BqeZ21N9yktp0ohebORtEkssYSf_IjSWFE_C0/edit#heading=h.h73gahenrz1b)
 * [Tech Doc to Comment On](https://docs.google.com/document/d/1wY8v4ETskHTnZ_y9heJ4Xf4qRJfEBtLksEP-fCNKZPU/edit#heading=h.e9vlva9s0l3b)
 
+##10/20/14
+Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0C4oRuwY3WMuMnk27x6pI7kuh0p7CRRIW61b_obE/edit#)
+###CATCHUP
+* 
+###COLLAB
+###CREATE
 
  
 
