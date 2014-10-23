@@ -1670,6 +1670,13 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * external projects [call review](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
 * [Bikestorming Call](https://docs.google.com/document/d/1yWPI_GO7whhIO7GwYn68kc7xoIfPvJC-dowgnGlwTmo/edit#)
 ###CREATE
+* sent update planning email to Hacking Hacking the Library session group
+* sent along repo from Vaibhav for visualizations in the next Greg email
+
+##V3
+* [Pattern Library](http://platform.brandonrosage.com/)
+* [V3 Testing](https://github.com/ushahidi/platform-client)
+
 
  
 
