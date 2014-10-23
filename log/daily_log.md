@@ -1676,6 +1676,12 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 ##V3
 * [Pattern Library](http://platform.brandonrosage.com/)
 * [V3 Testing](https://github.com/ushahidi/platform-client)
+* Notes from metg:
+	* 1. at this time, yes. what you have on http://auremoser.github.io/ifes-viz/ should all be included
+	* 2. highcharts is totally fine, i love how magical it is
+	* 3. yes, color guide matching makes sense
+	* 4. definitely, i'm still getting her up to speed, but will do that as soon as she is
+	* 5. Look through platform client code
 
 
  
