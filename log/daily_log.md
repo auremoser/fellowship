@@ -1668,6 +1668,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 ###COLLAB
 * updated firefox session description
 * external projects [call review](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
+* [Bikestorming Call](https://docs.google.com/document/d/1yWPI_GO7whhIO7GwYn68kc7xoIfPvJC-dowgnGlwTmo/edit#)
 ###CREATE
 
  
