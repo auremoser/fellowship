@@ -1660,7 +1660,7 @@ continent > country > region (sagcot) >landscape (10x10 k)
 * [Terms of Reference](https://docs.google.com/document/d/1SuyUi9BqeZ21N9yktp0ohebORtEkssYSf_IjSWFE_C0/edit#heading=h.h73gahenrz1b)
 * [Tech Doc to Comment On](https://docs.google.com/document/d/1wY8v4ETskHTnZ_y9heJ4Xf4qRJfEBtLksEP-fCNKZPU/edit#heading=h.e9vlva9s0l3b)
 
-##10/20/14
+##10/20/14-10/28/14
 Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0C4oRuwY3WMuMnk27x6pI7kuh0p7CRRIW61b_obE/edit#)
 ###CATCHUP
 * Built Vaibhav's vital signs demo [here](https://github.com/ushahidi/vitalsigns-client)
@@ -1675,6 +1675,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * Facilitated mozfest session on Pirate Box [Notes](https://festival.etherpad.mozilla.org/bk7CCFeukH)
 * Facilitated mozfest session on libraries [notes](https://etherpad.mozilla.org/mozscience-hackinglibraries)
 * Delayed MozFest session for Data Smells [notes]()
+* 
 
 ##V3
 * [Pattern Library](http://platform.brandonrosage.com/)
