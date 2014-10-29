@@ -1688,7 +1688,14 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 	* 4. definitely, i'm still getting her up to speed, but will do that as soon as she is
 	* 5. Look through platform client code
 
-
+ToDOS
+=====
+* go over vaibhav's vital signs tasks
+* figure out data stuff for bkx
+* test new crowdmap
+* make love/hate spreadsheet for ushahidi
+* figure out talk for oregon school
+* write open news blog post
  
 
 
