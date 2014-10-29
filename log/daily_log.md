@@ -1665,6 +1665,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 ###CATCHUP
 * Built Vaibhav's vital signs demo [here](https://github.com/ushahidi/vitalsigns-client)
 * Read up on Angular
+* External projects weekly doc [updates by Vaibhav](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
 ###COLLAB
 * updated firefox session description
 * external projects [call review](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
