@@ -1696,6 +1696,10 @@ ToDOS
 * make love/hate spreadsheet for ushahidi
 * figure out talk for oregon school
 * write open news blog post
+* eva curriculum import
+* followup on mozfest sessions
+* integrate itdp dataset
+* figure out expense reports
  
 
 
