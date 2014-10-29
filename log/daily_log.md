@@ -1676,7 +1676,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * Facilitated mozfest session on Pirate Box [Notes](https://festival.etherpad.mozilla.org/bk7CCFeukH)
 * Facilitated mozfest session on libraries [notes](https://etherpad.mozilla.org/mozscience-hackinglibraries)
 * Delayed MozFest session for Data Smells [notes](https://festival.etherpad.mozilla.org/ZJqeTRYxuyB)
-* 
+* Worked on BKX Standards[document](https://docs.google.com/document/d/1BQTOsGtG_E0Bv5_inU2J5QiFbJtDZneMIWb1lwP7Jzg/edit#)
 
 ##V3
 * [Pattern Library](http://platform.brandonrosage.com/)
