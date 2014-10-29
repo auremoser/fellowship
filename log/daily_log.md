@@ -1691,7 +1691,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 ToDOS
 =====
 * go over vaibhav's vital signs tasks
-* figure out data stuff for bkx
+* ~~figure out data stuff for bkx~~
 * test new crowdmap
 * make love/hate spreadsheet for ushahidi
 * figure out talk for oregon school
@@ -1700,7 +1700,7 @@ ToDOS
 * followup on mozfest sessions
 * integrate itdp dataset
 * figure out expense reports
-* dna spoofing [doc](https://docs.google.com/document/d/1qN5xXI3tUK11-7t1dyy8VOdDHvqZXLnAF4aM45v7baw/edit)
+* ~~dna spoofing [doc](https://docs.google.com/document/d/1qN5xXI3tUK11-7t1dyy8VOdDHvqZXLnAF4aM45v7baw/edit)~~
 * read through angular dirctives [doc1](http://www.sitepoint.com/practical-guide-angularjs-directives/#show-last-Point) and [doc2](https://docs.angularjs.org/guide/directive)
 * read through [data visualization with javascript](http://jsdatav.is/intro.html)
 * update datasmells tasks and [etherpad](http://jsdatav.is/intro.html)
