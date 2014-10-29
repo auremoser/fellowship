@@ -1674,7 +1674,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * sent along repo from Vaibhav for visualizations in the next Greg email
 * Facilitated mozfest session on Pirate Box [Notes](https://festival.etherpad.mozilla.org/bk7CCFeukH)
 * Facilitated mozfest session on libraries [notes](https://etherpad.mozilla.org/mozscience-hackinglibraries)
-* Delayed MozFest session for Data Smells [notes]()
+* Delayed MozFest session for Data Smells [notes](https://festival.etherpad.mozilla.org/ZJqeTRYxuyB)
 * 
 
 ##V3
