@@ -1704,6 +1704,7 @@ ToDOS
 * read through angular dirctives [doc1](http://www.sitepoint.com/practical-guide-angularjs-directives/#show-last-Point) and [doc2](https://docs.angularjs.org/guide/directive)
 * read through [data visualization with javascript](http://jsdatav.is/intro.html)
 * update datasmells tasks and [etherpad](http://jsdatav.is/intro.html)
+* read up on mutual funds and test those out [ETF](https://www.fidelity.com/learning-center/investment-products/etf/overview) | [Argentina Inveesting](http://www.reuters.com/article/2014/10/29/us-investing-latam-yusko-idUSKBN0II2BS20141029)
  
 
 
