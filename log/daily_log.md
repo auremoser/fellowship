@@ -1686,6 +1686,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * vsadmin password: ushahidi for [formhub](http://staging.vs.ushahidilabs.com/)
 * Formhub repo [vagrant environment](https://github.com/ushahidi/vs-formhub-vagrant) | [Formhub](https://github.com/ushahidi/formhub)
 * ask on chat we, simon conversation (monday) | celestine and greg vaibhav sandy richard (prioritized the map and the graph; cumulatively and specific windows) > just the frames | ask sara about data store ask | andrew about cartodb data store
+* [Data Migration Eplot Data](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1mV5T2avvXcaNHtyjAjBc-PeuoQrrvb6Facw8zoB-zGE/edit#gid=0)
 
 ##V3
 * [Pattern Library](http://platform.brandonrosage.com/)
