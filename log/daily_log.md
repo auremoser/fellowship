@@ -1723,6 +1723,12 @@ ToDOS
 ##9/3/14
 Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/18ENkvxricp1tRrbwgLQNZjebREQAMSkVRCPqtwpAhPQ/edit#)
 
+###CATCHUP
+* Vital Signs [Scrum Document](https://docs.google.com/a/ushahidi.com/document/d/1A5annyDfnrrbOq-O_PQknF7_Wxk39MswIrsGfb6oSHg/edit#heading=h.s42km036rzvn)
+
+
+###COLLAB
+###CREATE
 
 
 
