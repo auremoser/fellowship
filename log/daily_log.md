@@ -1703,6 +1703,7 @@ ToDOS
 * ~~figure out data stuff for bkx~~
 * ~~test new crowdmap~~
 * ~~make love/hate spreadsheet for ushahidi~~
+* update colors on V3 visualziations
 * figure out talk for oregon school
 * write open news blog post
 * eva curriculum import
@@ -1718,7 +1719,8 @@ ToDOS
  
 
 
-
+##9/3/14
+Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/18ENkvxricp1tRrbwgLQNZjebREQAMSkVRCPqtwpAhPQ/edit#)
 
 
 
