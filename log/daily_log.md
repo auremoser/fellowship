@@ -1670,6 +1670,8 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * updated firefox session description
 * external projects [call review](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)
 * [Bikestorming Call](https://docs.google.com/document/d/1yWPI_GO7whhIO7GwYn68kc7xoIfPvJC-dowgnGlwTmo/edit#)
+* Tested Crowdmap, pointed the devs to an alt: http://mappedly.com/
+* Sent out task list to nat [here](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1S46vZvtERlC9vBHZoyDWnmfREBHMUuZIJN_MUR8hmsE/edit?usp=sharing)
 ###CREATE
 * sent update planning email to Hacking Hacking the Library session group
 * sent along repo from Vaibhav for visualizations in the next Greg email
@@ -1683,6 +1685,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * update wires from user stories > sign off from wires > simon assigned to that get data
 * vsadmin password: ushahidi for [formhub](http://staging.vs.ushahidilabs.com/)
 * Formhub repo [vagrant environment](https://github.com/ushahidi/vs-formhub-vagrant) | [Formhub](https://github.com/ushahidi/formhub)
+* ask on chat we, simon conversation (monday) | celestine and greg vaibhav sandy richard (prioritized the map and the graph; cumulatively and specific windows) > just the frames | ask sara about data store ask | andrew about cartodb data store
 
 ##V3
 * [Pattern Library](http://platform.brandonrosage.com/)
