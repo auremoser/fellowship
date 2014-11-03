@@ -1678,6 +1678,12 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * Delayed MozFest session for Data Smells [notes](https://festival.etherpad.mozilla.org/ZJqeTRYxuyB)
 * Worked on BKX Standards[document](https://docs.google.com/document/d/1BQTOsGtG_E0Bv5_inU2J5QiFbJtDZneMIWb1lwP7Jzg/edit#)
 
+##Vital Signs
+* Formhub tasks:[T1033](https://phabricator.ushahidi.com/T1033) | [T1032](https://phabricator.ushahidi.com/T1032)
+* update wires from user stories > sign off from wires > simon assigned to that get data
+* vsadmin password: ushahidi for [formhub](http://staging.vs.ushahidilabs.com/)
+* Formhub repo [vagrant environment](https://github.com/ushahidi/vs-formhub-vagrant) | [Formhub](https://github.com/ushahidi/formhub)
+
 ##V3
 * [Pattern Library](http://platform.brandonrosage.com/)
 * [V3 Testing](https://github.com/ushahidi/platform-client)
@@ -1701,6 +1707,7 @@ ToDOS
 * integrate itdp dataset
 * figure out expense reports
 * ~~dna spoofing [doc](https://docs.google.com/document/d/1qN5xXI3tUK11-7t1dyy8VOdDHvqZXLnAF4aM45v7baw/edit)~~
+* ~~dna spoofing product adds~~
 * read through angular dirctives [doc1](http://www.sitepoint.com/practical-guide-angularjs-directives/#show-last-Point) and [doc2](https://docs.angularjs.org/guide/directive)
 * read through [data visualization with javascript](http://jsdatav.is/intro.html)
 * update datasmells tasks and [etherpad](http://jsdatav.is/intro.html)
