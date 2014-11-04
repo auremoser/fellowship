@@ -1687,6 +1687,7 @@ Weekly Update Doc [here](https://docs.google.com/a/ushahidi.com/document/d/1GEp0
 * Formhub repo [vagrant environment](https://github.com/ushahidi/vs-formhub-vagrant) | [Formhub](https://github.com/ushahidi/formhub)
 * ask on chat we, simon conversation (monday) | celestine and greg vaibhav sandy richard (prioritized the map and the graph; cumulatively and specific windows) > just the frames | ask sara about data store ask | andrew about cartodb data store
 * [Data Migration Eplot Data](https://docs.google.com/a/ushahidi.com/spreadsheets/d/1mV5T2avvXcaNHtyjAjBc-PeuoQrrvb6Facw8zoB-zGE/edit#gid=0)
+* [Updated Wires](https://docs.google.com/a/ushahidi.com/presentation/d/14OgHR_XzAkQiEpbr0z6bhnJGruc4bjscF-BkMlNzRj0/edit#slide=id.g41391b097_0329)
 
 ##V3
 * [Pattern Library](http://platform.brandonrosage.com/)
