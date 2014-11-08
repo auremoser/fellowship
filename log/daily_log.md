@@ -1730,6 +1730,7 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/18ENk
 * Tuesday abortive VS meeting [notes](https://docs.google.com/a/ushahidi.com/document/d/1yOLr2vdovRPwuYwW2hnsAsNw7fxJLaKkZnre5bAh5sw/edit#)
 
 ###COLLAB
+* gave talk with mati at [state of the map](http://www.stateofthemap.org/program)
 ###CREATE
 * mapbox mapzen talk for bkx
 
