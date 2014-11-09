@@ -1733,6 +1733,18 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/18ENk
 * gave talk with mati at [state of the map](http://www.stateofthemap.org/program)
 ###CREATE
 * mapbox mapzen talk for bkx
+* wrote response to willow for gender workshop
+* cleaned up bkx photos
+
+####TOD
+* fix github pages
+* email eva
+* laundry, nails
+* change colors on v3
+* mozfest blog post
+* comment of vaibhav's tech talk
+* webring
+
 
 
 
