@@ -1744,6 +1744,8 @@ Weekly Update [doc here](https://docs.google.com/a/ushahidi.com/document/d/18ENk
 * mozfest blog post
 * comment of vaibhav's tech talk
 * webring
+* expense report submit
+* todos from above
 
 
 
