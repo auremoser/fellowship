@@ -1758,6 +1758,7 @@ Weekly Update [Doc](https://docs.google.com/a/ushahidi.com/document/d/1-keNnCc09
 
 ###CREATE
 * Beautiful Rising Tech Review [platform guide](https://github.com/BeautifulTrouble/Beautiful-Rising-Research)
+* Knight Mozilla Community Call [updates](https://etherpad.mozilla.org/opennews-calls-Oct29)
 
 
 make list of mapping technologies and data sources
