@@ -1754,6 +1754,7 @@ Weekly Update [Doc](https://docs.google.com/a/ushahidi.com/document/d/1-keNnCc09
 
 ###CATCHUP
 * Vital Signs [scrum document](https://docs.google.com/a/ushahidi.com/document/d/1A5annyDfnrrbOq-O_PQknF7_Wxk39MswIrsGfb6oSHg/edit#heading=h.s42km036rzvn)
+* Solutions Team meeting [doc](https://docs.google.com/a/ushahidi.com/document/d/1eislKsOneDfjBXcsacsiZLLGqGcGVpDOdd_vDz1i3-w/edit#heading=h.lc8aiye3p6da)]
 
 ###CREATE
 * Beautiful Rising Tech Review [platform guide](https://github.com/BeautifulTrouble/Beautiful-Rising-Research)
