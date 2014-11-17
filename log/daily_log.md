@@ -1765,3 +1765,15 @@ Weekly Update [Doc](https://docs.google.com/a/ushahidi.com/document/d/1-keNnCc09
 make list of mapping technologies and data sources
 
 
+##11/17/14
+Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d2TzA8Y7ULgu3ytZSRevZpVHTkW73sDFKJA/edit?usp=sharing)
+
+##CREATE
+###COLLAB
+###CATCHUP
+
+####CARTO
+* Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
+* Team [Github](https://github.com/CartoDB)
+* 
+
