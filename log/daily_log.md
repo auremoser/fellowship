@@ -1776,7 +1776,8 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
 * Team [Github](https://github.com/CartoDB)
 * Slack
-* PipDrive (for prospects)
+* PipDrive (for prospects) [account](https://app.pipedrive.com/mailbox/in/7890)
+* Trello [board](https://trello.com/cdbcomm)
 * Dropbox + Drive?
 * Contact List
 
