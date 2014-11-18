@@ -1768,9 +1768,13 @@ make list of mapping technologies and data sources
 ##11/17/14
 Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d2TzA8Y7ULgu3ytZSRevZpVHTkW73sDFKJA/edit?usp=sharing)
 
-##CREATE
+###CREATE
+* Intro'd Brian to Mapbox
+* XP team meeting - Wednesday
+* Meeting with Sebastian and [MapTime Demo on Thursday](http://www.meetup.com/Maptime-NYC/events/217002222/)
 ###COLLAB
 ###CATCHUP
+* [Conference List 2015](https://docs.google.com/a/cartodb.com/spreadsheets/d/12UyKcn7wSuAFrdJkR4eMHGLHAFO8wCmD3sJI89BluBI/edit#gid=0)
 
 ####CARTO
 * Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
