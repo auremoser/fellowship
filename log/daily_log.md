@@ -1775,6 +1775,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 ###COLLAB
 * XP meeting
 * Wrap up email with Vaibhav for Vital Signs Viz
+* Email with Eva about the Geo Journo curriculum and online catalog
 ###CATCHUP
 * [Conference List 2015](https://docs.google.com/a/cartodb.com/spreadsheets/d/12UyKcn7wSuAFrdJkR4eMHGLHAFO8wCmD3sJI89BluBI/edit#gid=0)
 
