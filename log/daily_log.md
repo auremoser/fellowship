@@ -1772,6 +1772,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Intro'd Brian to Mapbox
 * XP team meeting - Wednesday
 * Meeting with Sebastian and [MapTime Demo on Thursday](http://www.meetup.com/Maptime-NYC/events/217002222/)
+* Fixed Parallax blog post
 ###COLLAB
 * XP meeting
 * Wrap up email with Vaibhav for Vital Signs Viz
