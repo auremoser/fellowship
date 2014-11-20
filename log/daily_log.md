@@ -1791,3 +1791,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Dropbox + Drive?
 * Contact List
 
+####TODOs
+* chat with arushi (friday)
+
+
