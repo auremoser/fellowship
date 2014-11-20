@@ -1773,6 +1773,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * XP team meeting - Wednesday
 * Meeting with Sebastian and [MapTime Demo on Thursday](http://www.meetup.com/Maptime-NYC/events/217002222/)
 * Fixed Parallax blog post
+* Fixed Timeline issue in teh 30 years of HIV project (added 2015 additions, responded to Dorothy's email)
 ###COLLAB
 * XP meeting
 * Wrap up email with Vaibhav for Vital Signs Viz
