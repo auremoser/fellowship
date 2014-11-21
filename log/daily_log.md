@@ -1781,6 +1781,10 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Closing meeting with Open News Fellow [doc](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-november)
 ###CATCHUP
 * [Conference List 2015](https://docs.google.com/a/cartodb.com/spreadsheets/d/12UyKcn7wSuAFrdJkR4eMHGLHAFO8wCmD3sJI89BluBI/edit#gid=0)
+* Mozilla Wrap Up Call
+* Gender Data for Change Conference
+* Maptime Workshop on Bike data
+* Educators Night at Carto DB for Geo work
 
 ####CARTO
 * Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
@@ -1790,6 +1794,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Trello [board](https://trello.com/cdbcomm)
 * Dropbox + Drive?
 * Contact List
+
 
 ####TODOs
 * chat with arushi (friday)
