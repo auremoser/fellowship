@@ -1797,6 +1797,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 
 
 ####TODOs
-* chat with arushi (friday)
+* chat with arushi (friday) - tried, no response
+* chat with eva (monday - 8am)
 
 
