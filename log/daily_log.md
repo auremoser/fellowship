@@ -1787,7 +1787,8 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Educators Night at Carto DB for Geo work
 * Meeting with Eva for closing stuff
 * Vital Signs Scrum [doc here](https://docs.google.com/a/ushahidi.com/document/d/1A5annyDfnrrbOq-O_PQknF7_Wxk39MswIrsGfb6oSHg/edit#heading=h.s42km036rzvn)
-
+* Added to Greg's Sandy ToDos spreadsheet [here]
+(https://docs.google.com/a/ushahidi.com/spreadsheets/d/1B0sv8cg834ycVrEE5nm0AFhI26HokEiOgb2PKBwo7Ho/edit#gid=0)
 ####CARTO
 * Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
 * Team [Github](https://github.com/CartoDB)
