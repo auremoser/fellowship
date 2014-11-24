@@ -1785,6 +1785,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Gender Data for Change Conference
 * Maptime Workshop on Bike data
 * Educators Night at Carto DB for Geo work
+* Meeting with Eva for closing stuff
 
 ####CARTO
 * Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
@@ -1799,5 +1800,8 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 ####TODOs
 * chat with arushi (friday) - tried, no response
 * chat with eva (monday - 8am)
+* apply to radio show 
+* cancel yoga
+* finish up internew github
 
 
