@@ -1804,5 +1804,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * apply to radio show 
 * cancel yoga
 * finish up internew github
+* run website locally
+* webring
 
 
