@@ -1786,6 +1786,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Maptime Workshop on Bike data
 * Educators Night at Carto DB for Geo work
 * Meeting with Eva for closing stuff
+* Vital Signs Scrum [doc here](https://docs.google.com/a/ushahidi.com/document/d/1A5annyDfnrrbOq-O_PQknF7_Wxk39MswIrsGfb6oSHg/edit#heading=h.s42km036rzvn)
 
 ####CARTO
 * Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
