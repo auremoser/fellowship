@@ -1789,6 +1789,8 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Vital Signs Scrum [doc here](https://docs.google.com/a/ushahidi.com/document/d/1A5annyDfnrrbOq-O_PQknF7_Wxk39MswIrsGfb6oSHg/edit#heading=h.s42km036rzvn)
 * Added to Greg's Sandy ToDos spreadsheet [here]
 (https://docs.google.com/a/ushahidi.com/spreadsheets/d/1B0sv8cg834ycVrEE5nm0AFhI26HokEiOgb2PKBwo7Ho/edit#gid=0)
+* Community Call [doc here](https://etherpad.mozilla.org/opennews-calls-Nov26)
+
 ####CARTO
 * Team Docs [Github](https://github.com/orgs/CartoDB/teams/docs-team)
 * Team [Github](https://github.com/CartoDB)
@@ -1807,5 +1809,9 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * finish up internew github
 * run website locally
 * webring
+* fill out nda and non compete stuff
+* thank you to erika/dan
+* note to grace about yoga
+* 
 
 
