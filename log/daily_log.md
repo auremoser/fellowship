@@ -1812,6 +1812,6 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * fill out nda and non compete stuff
 * thank you to erika/dan
 * note to grace about yoga
-* 
+* setup meeting with Greg
 
 
