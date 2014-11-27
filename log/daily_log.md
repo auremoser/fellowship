@@ -1809,6 +1809,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * ~~finish up internew github~~
 * run website locally
 * webring
+* ~~intro'd eva to heyzen~~
 * fill out nda and non compete stuff
 * ~~thank you to erika/dan~~
 * ~~setup meeting with Greg~~
