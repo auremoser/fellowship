@@ -1774,11 +1774,14 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * Meeting with Sebastian and [MapTime Demo on Thursday](http://www.meetup.com/Maptime-NYC/events/217002222/)
 * Fixed Parallax blog post
 * Fixed Timeline issue in teh 30 years of HIV project (added 2015 additions, responded to Dorothy's email)
+
 ###COLLAB
 * XP meeting
 * Wrap up email with Vaibhav for Vital Signs Viz
 * Email with Eva about the Geo Journo curriculum and online catalog
 * Closing meeting with Open News Fellow [doc](https://etherpad.mozilla.org/opennews-2014-fellows-checkins-november)
+* Beautiful Rising [advisory repo](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/) edits/PR
+
 ###CATCHUP
 * [Conference List 2015](https://docs.google.com/a/cartodb.com/spreadsheets/d/12UyKcn7wSuAFrdJkR4eMHGLHAFO8wCmD3sJI89BluBI/edit#gid=0)
 * Mozilla Wrap Up Call
@@ -1805,7 +1808,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * ~~chat with arushi (friday) - tried, no response~~
 * ~~chat with eva (monday - 8am)~~
 * ~~apply to radio show~~
-* cancel yoga
+* ~~cancel yoga~~
 * ~~finish up internew github~~
 * run website locally
 * webring
@@ -1816,6 +1819,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * last expense report
 * ~~thank you to erika/dan~~
 * ~~setup meeting with Greg~~
+* ~~Beautiful Rising Advisory edits~~
 
 
 
