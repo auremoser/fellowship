@@ -1824,4 +1824,6 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * send non compete and contract stuff, clarify remote work
 * mapzen response
 
+##12/01/14
+Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNUsfiKCW_Q8u-7bU7V24R-gj05qTmdD5Nc/edit#)
 
