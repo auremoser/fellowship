@@ -1810,16 +1810,18 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 * ~~apply to radio show~~
 * ~~cancel yoga~~
 * ~~finish up internew github~~
-* run website locally
-* webring
-* ~~update projects on github~~~
+* ~~update projects on github~~
 * ~~email greg about meeting this week~~
 * ~~intro'd eva to heyzen~~
-* fill out nda and non compete stuff
-* last expense report
+* ~~fill out nda and non compete stuff~~
 * ~~thank you to erika/dan~~
 * ~~setup meeting with Greg~~
 * ~~Beautiful Rising Advisory edits~~
 
+* run website locally
+* webring
+* last expense report
+* send non compete and contract stuff, clarify remote work
+* mapzen response
 
 
