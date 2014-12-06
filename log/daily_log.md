@@ -1833,4 +1833,6 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * api for carto
 * research for heather
 * spanish homework
+* goodbye email to ushahidi
+* create yash a repo
 
