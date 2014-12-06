@@ -1836,5 +1836,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * create yash a repo
 * research on bionoymous and legal issues
 * intermediat html class followup
+* dNA spoofing doc
+* mail to mapzen
 * ~~imentor email~~
 
