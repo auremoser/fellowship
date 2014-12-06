@@ -1835,4 +1835,5 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * ~~goodbye email to ushahidi~~
 * create yash a repo
 * research on bionoymous and legal issues
+* intermediat html class followup
 
