@@ -1829,7 +1829,8 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 
 ###CATCHUP
 * ~~setup meeting with Vaibhav and everyone~~
-* said goodbyes
-* transition to carto
-* 
+* Formhub wires comments
+* api for carto
+* research for heather
+* spanish homework
 
