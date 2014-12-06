@@ -1820,7 +1820,7 @@ Weekly update [doc](https://docs.google.com/a/ushahidi.com/document/d/1HFncJC-2d
 
 * run website locally
 * webring
-* last expense report
+* ~~last expense report~~
 * send non compete and contract stuff, clarify remote work
 * mapzen response
 
@@ -1831,9 +1831,8 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * ~~setup meeting with Vaibhav and everyone~~
 * Formhub wires comments
 * api for carto
-* research for heather
 * spanish homework
-* goodbye email to ushahidi
+* ~~goodbye email to ushahidi~~
 * create yash a repo
 * research on bionoymous and legal issues
 
