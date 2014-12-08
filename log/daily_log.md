@@ -1834,6 +1834,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * spanish homework
 * ~~goodbye email to ushahidi~~
 * create yash a repo
+* work on api docs
 * research on bionoymous and legal issues
 * ~~intermediat html class followup~~
 * ~~dNA spoofing doc~~
