@@ -1830,7 +1830,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 ###CATCHUP
 * ~~setup meeting with Vaibhav and everyone~~
 * Formhub wires comments
-* api for carto
+* ~~api for carto~~
 * spanish homework
 * ~~goodbye email to ushahidi~~
 * create yash a repo
