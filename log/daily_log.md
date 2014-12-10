@@ -1832,6 +1832,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * Formhub wires comments
 * ~~api for carto~~
 * spanish homework
+* filled out [exit interview](https://docs.google.com/forms/d/1Y5ped5lk71ou9IGuB5BvyLuC-Ma8Q_yVPza1zqMs0Rk/viewform)
 * ~~goodbye email to ushahidi~~
 * create yash a repo
 * work on api docs
