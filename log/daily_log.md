@@ -1830,6 +1830,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 ###CATCHUP
 * ~~setup meeting with Vaibhav and everyone~~
 * Formhub wires comments
+* ~~imentor email~~
 * ~~api for carto~~
 * ~~spanish homework~~
 * apply to be an [open tech fellow](https://advocacy.mozilla.org/open-web-fellows/)
