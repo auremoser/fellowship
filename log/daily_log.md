@@ -1830,6 +1830,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 ###CATCHUP
 * ~~setup meeting with Vaibhav and everyone~~
 * Formhub wires comments
+* went through [DNA law by state](https://docs.google.com/document/d/1PBE92eb5PdjlpVANT8SDyXf5INRZIdlCGGfeiff7Pks/edit)
 * ~~imentor email~~
 * ~~api for carto~~
 * ~~spanish homework~~
