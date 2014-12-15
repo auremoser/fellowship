@@ -1837,7 +1837,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * apply to be an [open tech fellow](https://advocacy.mozilla.org/open-web-fellows/)
 * ~~filled out [exit interview](https://docs.google.com/forms/d/1Y5ped5lk71ou9IGuB5BvyLuC-Ma8Q_yVPza1zqMs0Rk/viewform~~
 * ~~goodbye email to ushahidi~~
-* create yash a repo
+* ~~create yash a repo~~
 * work on api docs
 * research on bionoymous and legal issues
 * ~~intermediat html class followup~~
