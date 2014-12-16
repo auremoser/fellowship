@@ -1846,7 +1846,14 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * ~~imentor email~~
 * ~~updated excel budget~~
 
-Yo intervengo meeting (12/16)
-* 
+Yo intervengo meeting ()12/16)
+* auto tweet for report (place and how many people)
+* contractor associated with contract
+* statistics visualization (where the reports?)
+* customizable report for journalists
+
+* carto db -> nonprofit link to Roberto
+* mariana letter ->
+
 
 
