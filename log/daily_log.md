@@ -1846,3 +1846,7 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * ~~imentor email~~
 * ~~updated excel budget~~
 
+Yo intervengo meeting (12/16)
+* 
+
+
