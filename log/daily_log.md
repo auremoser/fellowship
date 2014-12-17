@@ -1846,6 +1846,13 @@ Weekly Team [doc](https://docs.google.com/a/ushahidi.com/document/d/12xrklP2kZNU
 * ~~imentor email~~
 * ~~updated excel budget~~
 
+Dan + Erika,
+Contract work with Amnesty
+CartoDB
+Bees
+reynolds fellowship
+
+
 Yo intervengo meeting ()12/16)
 * auto tweet for report (place and how many people)
 * contractor associated with contract
