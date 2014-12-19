@@ -1851,6 +1851,7 @@ Contract work with Amnesty
 CartoDB
 Bees
 reynolds fellowship
+do carto work from andrew meeting
 
 
 Yo intervengo meeting ()12/16)
