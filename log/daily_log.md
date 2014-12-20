@@ -1868,6 +1868,7 @@ Yo intervengo meeting (12/16)
 * ~~carto db -> nonprofit link to Roberto DONE~~
 * ~~mariana letter -> DONE~~
 * applied for [remote year](http://www.remoteyear.com/application)
+* biononymous meeting
 
 
 
