@@ -1865,8 +1865,8 @@ Yo intervengo meeting (12/16)
 * statistics visualization (where the reports?)
 * customizable report for journalists
 
-* carto db -> nonprofit link to Roberto
-* mariana letter ->
+* ~~carto db -> nonprofit link to Roberto DONE~~
+* ~~mariana letter -> DONE~~
 
 
 
