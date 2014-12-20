@@ -1854,8 +1854,12 @@ reynolds fellowship
 do carto work from andrew meeting
 meeting with dan and erika
 
+Jan 11-12
+Jan 19th start date at carto
 
-Yo intervengo meeting ()12/16)
+
+
+Yo intervengo meeting (12/16)
 * auto tweet for report (place and how many people)
 * contractor associated with contract
 * statistics visualization (where the reports?)
