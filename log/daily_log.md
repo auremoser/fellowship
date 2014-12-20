@@ -1869,6 +1869,8 @@ Yo intervengo meeting (12/16)
 * ~~mariana letter -> DONE~~
 * applied for [remote year](http://www.remoteyear.com/application)
 * biononymous meeting
+* messaged erika about onboarding
+* messaged sole 
 
 
 
