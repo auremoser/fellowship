@@ -1867,10 +1867,11 @@ Yo intervengo meeting (12/16)
 
 * ~~carto db -> nonprofit link to Roberto DONE~~
 * ~~mariana letter -> DONE~~
-* applied for [remote year](http://www.remoteyear.com/application)
-* biononymous meeting
-* messaged erika about onboarding
-* messaged sole 
+* ~~applied for [remote year](http://www.remoteyear.com/application)~~
+* ~~biononymous meeting~~
+* ~~messaged erika about onboarding~~
+* ~~messaged sole~~ 
+* applied for a [reynolds journalism fellowship](https://app.wizehive.com/appform/login/rjifellowshipapp)
 
 
 
