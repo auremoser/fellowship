@@ -1872,6 +1872,7 @@ Yo intervengo meeting (12/16)
 * ~~messaged erika about onboarding~~
 * ~~messaged sole~~ 
 * applied for a [reynolds journalism fellowship](https://app.wizehive.com/appform/login/rjifellowshipapp)
+* applied for a [ford mozilla fellowship](https://advocacy.mozilla.org/thank-you/)
 
 
 
