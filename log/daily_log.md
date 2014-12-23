@@ -1874,5 +1874,9 @@ Yo intervengo meeting (12/16)
 * applied for a [reynolds journalism fellowship](https://app.wizehive.com/appform/login/rjifellowshipapp)
 * applied for a [ford mozilla fellowship](https://advocacy.mozilla.org/thank-you/)
 
+##12/22/14
+* full day at carto
+* fixed osm sql grant bug - classes
+
 
 
