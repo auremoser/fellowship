@@ -1877,6 +1877,7 @@ Yo intervengo meeting (12/16)
 ##12/22/14
 * full day at carto
 * fixed osm sql grant bug - classes + tarea
+* blog about eric
 
 
 
