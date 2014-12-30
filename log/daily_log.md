@@ -1879,5 +1879,30 @@ Yo intervengo meeting (12/16)
 * fixed osm sql grant bug - classes + tarea
 * blog about eric
 
+##12/28
+* NICAR arrangements (Atlanta 5-8 of March) w/ Andy!
+* looked over Beautiful Docs; super slick, drafted a response based on doc suggestions
+* worked on a fork of the academy style guide with andy, suggested something like this
+* read through Blog Post Guidelines, thanks @axh, maybe I can make a similar one for the API data services template page
+* looked over OReilly Tutorials Policy
+* fellowship mentoring exist interview (the last thing! promise)
+* chatted with Marcos Vanetta (friend from Open News) about joining the community team!
+* expensify chats with vanessa :) 
+* synced about the sensor webinar for January, thanks santi!
+
+###Other
+* filed some survey responses to the Beautiful Rising Advisory Network video (BRdemo1) that mentor for
+* worked on retrofiting some sensors for the Tigre Bee Project I mentioned
+* someone from columbia reached out to me about SIPA (Prof. Stefan Heefe)
+
+###Next
+* moving calendar -> to vanessas conf cal
+* create a google maps engine account, working on a vis of the world planetariums
+* go over andy's SQL curriculum; brainstorm some 'Academy Light' lessons
+* Review and update  trello, scraping data, data cataloging, tutorial structure
+* review/add to or migrate edu-night trello
+* follow up on the OSM blog post with changes based on slack convo
+
+
 
 
