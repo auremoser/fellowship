@@ -1902,6 +1902,8 @@ Yo intervengo meeting (12/16)
 * Review and update  trello, scraping data, data cataloging, tutorial structure
 * review/add to or migrate edu-night trello
 * follow up on the OSM blog post with changes based on slack convo
+* booked ticket home!
+* followed up with nat at ushahidi
 
 
 
