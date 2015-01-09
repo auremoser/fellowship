@@ -1910,6 +1910,8 @@ Yo intervengo meeting (12/16)
 * updated radio website
 * emailed imentor
 * work emails for cartodb
+* respond to nicar
+* applied to social good tech week scholarship
 
 
 
