@@ -1906,6 +1906,10 @@ Yo intervengo meeting (12/16)
 * followed up with nat at ushahidi
 * radio show - 4 episodes
 
+##1/08
+* updated radio website
+* emailed imentor
+* work emails for cartodb
 
 
 
