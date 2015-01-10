@@ -1912,6 +1912,7 @@ Yo intervengo meeting (12/16)
 * work emails for cartodb
 * respond to nicar
 * applied to social good tech week scholarship
+* open news onboarding [doc up](https://docs.google.com/document/d/1HovRvx1bkXNYxjbOgMiiQiQicGk-bUxpn0dwnim0sSI/edit#)
 
 
 
