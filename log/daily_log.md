@@ -1915,4 +1915,40 @@ Yo intervengo meeting (12/16)
 * open news onboarding [doc up](https://docs.google.com/document/d/1HovRvx1bkXNYxjbOgMiiQiQicGk-bUxpn0dwnim0sSI/edit#)
 
 
+* ~~biononymous blogpost~~ links and legal bage
+* sensor data for foss4g -> submit abstract to abstracts folder
+* prep nicar lesson based on andy's workshop
+* ask andrew about foss4g registration
+* calendar of events
+* read [web-mercator blog and tom's comments](http://vis4.net/blog/posts/no-more-mercator-tiles/)
+* read through [temboo smart beekeeping](https://www.temboo.com/iot/smart-beekeeping)
+* updated radio show narratives
+
+##WORKING ON
+
+* CartoDB
+* Bees Project in Tigre, and S. France
+* Reynolds Fellowship/Open Web Fellow Program
+* Enigma.io consulting
+* Mapzen/Maptia/Mapzen/Remote Year
+* Eventually working as a contractor with Ushahidi to complete visualizations for V3
+* Nicar/Tapestry/Foss4G
+* Biononymous Project - Legal Work
+* Stereo Semantics Radio Show
+
+Jan 11-12
+Jan 19th start date at carto
+
+###WORKLOG 1/13
+Next
+* review academy user feedback (Jan 6th email)
+* applied to Tapestry Conference (accepted!) shuttle to Nicar (also speaking about JS --> CartoJS)
+* read through some documentation on CartoJS -> filed issues/fixed typos
+* reviewed andy's rad work using stackedit, our new prototype platform for academy: 
+* checked out the dope mercator tile post andrew sent along
+* chatted with Andy about the Boundless tutorials and making little glossaries (like this) and cheat sheets for the lessons
+* Educator's Evening Jan 30th?
+* moving calendar -> to vanessas conf cal
+* Review and update  trello, scraping data, data cataloging, tutorial structure
+* review/add to or migrate edu-night trello; reviewed axh's changes in trello from Jan. 6
 
