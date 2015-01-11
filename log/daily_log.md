@@ -1914,8 +1914,8 @@ Yo intervengo meeting (12/16)
 * applied to social good tech week scholarship
 * open news onboarding [doc up](https://docs.google.com/document/d/1HovRvx1bkXNYxjbOgMiiQiQicGk-bUxpn0dwnim0sSI/edit#)
 
-
-* ~~biononymous blogpost~~ links and legal bage
+##1/10
+* ~~biononymous blogpost~~ links and legal page w/[data](https://docs.google.com/document/d/1PBE92eb5PdjlpVANT8SDyXf5INRZIdlCGGfeiff7Pks/edit)
 * sensor data for foss4g -> submit abstract to abstracts folder
 * prep nicar lesson based on andy's workshop
 * ask andrew about foss4g registration
