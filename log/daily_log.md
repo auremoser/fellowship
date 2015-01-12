@@ -1923,6 +1923,8 @@ Yo intervengo meeting (12/16)
 * read [web-mercator blog and tom's comments](http://vis4.net/blog/posts/no-more-mercator-tiles/)
 * read through [temboo smart beekeeping](https://www.temboo.com/iot/smart-beekeeping)
 * updated radio show narratives
+* get refund for tapestry
+* onboarding
 
 ##WORKING ON
 
@@ -1935,12 +1937,14 @@ Yo intervengo meeting (12/16)
 * Nicar/Tapestry/Foss4G
 * Biononymous Project - Legal Work
 * Stereo Semantics Radio Show
+* Barcamp filly fill out: http://bcniphilly.com/where-and-when/
 
 Jan 11-12
 Jan 19th start date at carto
 
 ###WORKLOG 1/13
 Next
+
 * review academy user feedback (Jan 6th email)
 * applied to Tapestry Conference (accepted!) shuttle to Nicar (also speaking about JS --> CartoJS)
 * read through some documentation on CartoJS -> filed issues/fixed typos
