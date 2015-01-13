@@ -1915,7 +1915,7 @@ Yo intervengo meeting (12/16)
 * open news onboarding [doc up](https://docs.google.com/document/d/1HovRvx1bkXNYxjbOgMiiQiQicGk-bUxpn0dwnim0sSI/edit#)
 
 ##1/10
-* ~~biononymous blogpost~~ links and legal page w/[data](https://docs.google.com/document/d/1PBE92eb5PdjlpVANT8SDyXf5INRZIdlCGGfeiff7Pks/edit)
+* ~~biononymous blogpost links and legal page w/[data](https://docs.google.com/document/d/1PBE92eb5PdjlpVANT8SDyXf5INRZIdlCGGfeiff7Pks/edit), [doc here](https://gist.github.com/auremoser/f0885816af04ccf796ff)~~
 * sensor data for foss4g -> submit abstract to abstracts folder
 * prep nicar lesson based on andy's workshop
 * ask andrew about foss4g registration
@@ -1938,6 +1938,7 @@ Yo intervengo meeting (12/16)
 * Biononymous Project - Legal Work
 * Stereo Semantics Radio Show
 * Barcamp filly fill out: http://bcniphilly.com/where-and-when/
+* Slur blog post on decentralized systems
 
 Jan 11-12
 Jan 19th start date at carto
