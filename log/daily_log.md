@@ -1956,5 +1956,5 @@ Next
 * moving calendar -> to vanessas conf cal
 * Review and update  trello, scraping data, data cataloging, tutorial structure
 * review/add to or migrate edu-night trello; reviewed axh's changes in trello from Jan. 6
-* hackthon at Hacking Journalism
+* hackthon at Hacking Journalism | [hackdash](http://videonyc.hackdash.org/)
 
