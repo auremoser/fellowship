@@ -1957,4 +1957,5 @@ Next
 * Review and update  trello, scraping data, data cataloging, tutorial structure
 * review/add to or migrate edu-night trello; reviewed axh's changes in trello from Jan. 6
 * hackthon at Hacking Journalism | [hackdash](http://videonyc.hackdash.org/)
+* worked on [team plan](https://docs.google.com/presentation/d/1Vl5NvaTLzHcfCu4PQZtyjIWa-_6t12CZpdA9lUoQeHY/edit#slide=id.g5d6408cd0_072) for emi
 
